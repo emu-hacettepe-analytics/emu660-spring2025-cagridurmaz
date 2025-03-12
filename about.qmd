@@ -35,3 +35,5 @@ sidebar: false
 R, Quarto, Git, Python , Minitab, SQL, MS Project , SIMIO
 
 # 
+
+CV: [Download My CV](Cagri_Durmaz.pdf){download="CagriDurmazCV.pdf" target="_blank"}
