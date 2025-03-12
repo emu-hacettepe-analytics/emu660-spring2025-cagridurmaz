@@ -3,38 +3,37 @@ title: "About Me"
 sidebar: false 
 ---
 
-![](assets/images/vesikalik.jpeg){fig-align="center"}
+![](images/Screenshot%202025-03-12%20at%2020.05.14.png){fig-align="center" width="228"}
 
 # Education
 
--   B.S., ................................., ....................................University, Turkey, 20xx - 20xx.
--   M.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
--   Ph.D.., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Gazi University, Turkey, 2010 - 2014.
+-   M.S., Industrial Engineering, Hacettepe University, Turkey, 2018 - 2022.
+-   Ph.D., Industrial Engineering, Hacettepe University, Turkey, 2024 - ongoing.
 
 # Work Experience
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Business Excellence & Continuous Improvement Lead Engineer , Roketsan 2018-ongoing
 
-2.  Firm yyy, position yyy, year yyy
-
-## Internships
-
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+2.  Industrial Engineer, Beko , 2014-2018
 
 # Projects
 
-1.  TUBİTAK 1001..........................
+1.  Business process management project 
+2.  Lean transformation project 
+3.  KPI visualization and digitalization project 
+4.  Continuous improvement project selection and prioritization using machine learning 
 
 # Publications
 
-1.  Dasdemir, E., Batta, R., Koksalan, M., Tezcaner Ozturk, D. (2022) “UAV Routing for Reconnaissance Mission: A Multi-Objective Orienteering Problem with Time-Dependent Prizes and Multiple Connections”, Computers & Operations Research, 145: 105882.
+1.  Durmaz, Ç. (2022). Selection and prioritization of continuous improvement projects using fuzzy multi-criteria decision making methods.
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python , Minitab, SQL, MS Project , SIMIO
 
-# Hobbies
+# 
+
+\[Download my CV\]([CV](docs/Cagri_Durmaz))

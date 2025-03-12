@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student xxxx]'s Analytics Lab"
+  title: "Çağrı Durmaz's Analytics Lab"
   navbar:
     search: true
     left:
@@ -19,15 +19,11 @@ website:
             href: assignments.qmd
           - text: Project
             href: project.qmd
-            
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/cagridurmaz
       - icon: linkedin
-        href: https://linkedin.com
-
+        href: https://www.linkedin.com/in/durmazcagri/
   sidebar:
     - title: "Assignments"
       style: "docked"
@@ -41,6 +37,7 @@ website:
   page-footer:
     center: "Hacettepe IE - EMU660 - Spring 2024" 
     border: true
+
 format:
   html:
     toc: true
@@ -50,6 +47,7 @@ format:
       dark: cyborg
     css: styles.css
 
+resources:
+  - "Cagri_Durmaz.pdf"
 
 editor: visual
-

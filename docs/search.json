@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome to My Analytics Lab",
     "section": "",
-    "text": "Hello!! My name is xxx xxxx.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\n\n\n\n Back to top"
+    "text": "Hello!! My name is Çağrı Durmaz.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Project X",
     "section": "",
-    "text": "Welcome to my project page.\nKeep an eye on this space to stay updated with my project activities.\n(The titles below are provided as examples; please feel free to adjust them as necessary.)"
+    "text": "Welcome to my/our project page.\nKeep an eye on this space to stay updated with my project activities.\n(The titles below are provided as examples; please feel free to adjust them as necessary.)"
   },
   {
     "objectID": "project.html#data-source",
@@ -74,7 +74,7 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Spring 2024] EMU660 Decision Making with Analytics course.\nPlease use left menu to navigate through my assignments.\n\n\n\n Back to top",
+    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Spring 2024-2025] EMU660 Decision Making with Analytics course.\nPlease use left menu to navigate through my assignments.\n\n\n\n Back to top",
     "crumbs": [
       "My Assignments"
     ]
@@ -84,7 +84,7 @@
     "href": "about.html#employements",
     "title": "About Me",
     "section": "Employements",
-    "text": "Employements\n\nFirm xxx, position xx, year xxx\nFirm yyy, position yyy, year yyy"
+    "text": "Employements\n\nBusiness Excellence & Continuous Improvement Lead Engineer , Roketsan 2018-ongoing\nIndustrial Engineer, Beko , 2014-2018"
   },
   {
     "objectID": "about.html#internships",
@@ -96,9 +96,9 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "My Blog",
+    "title": "Çağrı Durmaz Blog",
     "section": "",
-    "text": "This page is under construction.\n\n\n\n Back to top"
+    "text": "“I am sharing my first blog post as part of a course assignment. I am pleased to be taking this course and to have the opportunity to develop myself. Gaining new knowledge and contributing to this platform is a valuable experience for me. I hope to continue sharing more content here in the future.” - 12.03.2025\n\n\n\n Back to top"
   },
   {
     "objectID": "docs/assignments/assignment-1.html",
