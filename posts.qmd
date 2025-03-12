@@ -3,4 +3,4 @@ title: "Çağrı Durmaz Blog"
 sidebar: false 
 ---
 
-*"I am sharing my first blog post as part of a course assignment. I am pleased to be taking this course and to have the opportunity to develop myself. Gaining new knowledge and contributing to this platform is a valuable experience for me. I hope to continue sharing more content here in the future."  - 12.03.2025*
+*"I am sharing my first blog post as part of a course assignment. I am pleased to be taking this course and to have the opportunity to develop myself. Gaining new knowledge and contributing to this platform is a valuable experience for me. I hope to continue sharing more content here in the future." - 12.03.2025*
