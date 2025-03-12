@@ -35,5 +35,3 @@ sidebar: false
 R, Quarto, Git, Python , Minitab, SQL, MS Project , SIMIO
 
 # 
-
-\[Download my CV\]([CV](docs/Cagri_Durmaz))
