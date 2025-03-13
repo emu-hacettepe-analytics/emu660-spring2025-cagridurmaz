@@ -6,7 +6,7 @@ My first assignment has three parts.
 
 ## (a) Video Summary:
 
-[Video Link](https://www.youtube.com/watch?v=Fi8-phj1X1A)
+[Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Cem Vardar & Erdi Dasdemir](https://www.youtube.com/watch?v=Fi8-phj1X1A)
 
 Mr. Cem Vardar, an accomplished Data Scientist, delves into the realm of prescriptive analytics and optimization. His expertise spans problem-solving, industrial engineering, and the latest trends in data analytics. Vardar also provides insights into the diverse data-related roles and the specific problem types that each role entails. Furthermore, he presents a comprehensive study that outlines the desired qualities and characteristics for data science roles. As a seasoned scientist, Vardar concludes his presentation with valuable suggestions, a reading list, and an interactive Q&A session, fostering a dynamic learning environment.
 
