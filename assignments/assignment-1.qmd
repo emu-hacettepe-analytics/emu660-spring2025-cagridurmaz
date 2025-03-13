@@ -2,14 +2,154 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
+My first assignment has three parts.
+
+## (a) Video Summary:
+
+[Video Link](https://www.youtube.com/watch?v=Fi8-phj1X1A)
+
+Mr. Cem Vardar, an accomplished Data Scientist, delves into the realm of prescriptive analytics and optimization. His expertise spans problem-solving, industrial engineering, and the latest trends in data analytics. Vardar also provides insights into the diverse data-related roles and the specific problem types that each role entails. Furthermore, he presents a comprehensive study that outlines the desired qualities and characteristics for data science roles. As a seasoned scientist, Vardar concludes his presentation with valuable suggestions, a reading list, and an interactive Q&A session, fostering a dynamic learning environment.
+
+## (b) Explore Statistical Summaries with Custom Functions and Iteration Methods:
+
+-   Write a Custom Summary Function:
 
 ```{r}
-1 + 1
+# loading dataset
+data("mtcars")
+# 5 rows look
+head(mtcars)
+
+# compute_stats function
+compute_stats <- function(x) {
+  # input numeric control
+  if (!is.numeric(x)) {
+    stop("Input must be a numeric vector.")
+  }
+  
+  # statistical calculations
+  mean_x   <- mean(x)
+  median_x <- median(x)
+  var_x    <- var(x)
+  iqr_x    <- IQR(x)
+  min_x    <- min(x)
+  max_x    <- max(x)
+  
+  # list results
+  stats_list <- list(
+    mean      = mean_x,
+    median    = median_x,
+    variance  = var_x,
+    iqr       = iqr_x,
+    minimum   = min_x,
+    maximum   = max_x
+  )
+  
+  return(stats_list)
+}
+
+# Sample function : mtcars dataset mpg columns statistics 
+compute_stats(mtcars$mpg)
+
+  
 ```
 
-My first assignment has two parts.
+-   Applying the Function Using a Loop:
 
-## (a)
+```{r}
+for (col_name in names(mtcars)) {
+  # Check if the column is numeric
+  if (is.numeric(mtcars[[col_name]])) {
+    # Apply the compute_stats function to the column
+    stats <- compute_stats(mtcars[[col_name]])
+    # Print the column name and computed statistics
+    cat("Column:", col_name, "\n")
+    print(stats)
+    cat("\n")  # Add a blank line for better readability
+  }
+}
+```
 
-## (b)
+-   An alternative approach with sapply and apply:
+
+```{r}
+stats_sapply <- sapply(mtcars, compute_stats)
+stats_sapply
+```
+
+```{r}
+mtcars_mat <- as.matrix(mtcars)
+
+# margin=2 for columns
+stats_apply <- apply(mtcars_mat, 2, compute_stats)
+stats_apply
+```
+
+## (c) "na_example" dataset :
+
+```{r}
+# Load the dslabs package and the na_example dataset
+library(dslabs)
+data("na_example")
+
+# Display the dataset's contents (including NA values)
+cat("Original na_example dataset:\n")
+print(na_example)
+
+# Report the total count of NA values and their index positions
+na_count <- sum(is.na(na_example))
+na_positions <- which(is.na(na_example))
+cat("\nTotal count of NA values:", na_count, "\n")
+cat("Index positions of NA values:", na_positions, "\n")
+
+# Compute mean and standard deviation of the original dataset (ignoring NAs)
+original_mean <- mean(na_example, na.rm = TRUE)
+original_sd <- sd(na_example, na.rm = TRUE)
+cat("\nOriginal dataset (ignoring NAs):\n")
+cat("Mean:", original_mean, "\n")
+cat("Standard deviation:", original_sd, "\n")
+
+# Version 1: Replace NA values with the median of non-missing values
+median_value <- median(na_example, na.rm = TRUE)
+version1 <- na_example
+version1[is.na(version1)] <- median_value
+
+# Version 2: Replace NA values with a randomly selected non-missing value
+non_missing <- na_example[!is.na(na_example)]
+random_values <- sample(non_missing, size = na_count, replace = TRUE)
+version2 <- na_example
+version2[is.na(version2)] <- random_values
+
+# Compute mean and standard deviation for both modified versions
+version1_mean <- mean(version1)
+version1_sd <- sd(version1)
+version2_mean <- mean(version2)
+version2_sd <- sd(version2)
+
+# Display results for Version 1
+cat("\nVersion 1 (NA replaced with median):\n")
+cat("Mean:", version1_mean, "\n")
+cat("Standard deviation:", version1_sd, "\n")
+
+# Display results for Version 2
+cat("\nVersion 2 (NA replaced with random values):\n")
+cat("Mean:", version2_mean, "\n")
+cat("Standard deviation:", version2_sd, "\n")
+
+# Comparison and explanation
+cat("\nComparison of Results:\n")
+cat("Original Mean (ignoring NAs):", original_mean, " | SD:", original_sd, "\n")
+cat("Version 1 Mean (median fill):", version1_mean, " | SD:", version1_sd, "\n")
+cat("Version 2 Mean (random fill):", version2_mean, " | SD:", version2_sd, "\n")
+
+```
+
+Explanation:
+
+-   The 'na_example' dataset is a simple integer vector with some missing values.
+
+-   Replacing NAs with the median (Version 1) keeps the central tendency stable but reduces variability (lower SD), as it fills all missing values with a single number.
+
+-   Replacing NAs with random values (Version 2) maintains more of the original variability (SD closer to original) but may shift the mean depending on the random values chosen.
+
+-   For this dataset, Version 2 might be more appropriate if preserving variability is important, while Version 1 is better if maintaining a consistent central tendency is the priority.
