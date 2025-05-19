@@ -1,0 +1,375 @@
+id,title,year,semesters,program,company,abstract,keywords
+1,"Equipment Information Management System Implementation to Set a Basis for Replacement & Usage Decisions of Patient Monitoring Devices at Hacettepe University Hospitals",20122013,2,2,8,NULL,NULL
+2,"Bed Management and Utilization at Hacettepe University Hospitals",20122013,2,2,8,NULL,NULL
+3,"Improving First Completion Rates for After Sales Services at B/S/H",20122013,2,2,370,NULL,NULL
+4,"Creating Activity Based Costing Structure, Current System Assessment and New System Suggestion for University Hospital",20122013,2,2,8,NULL,NULL
+5,"Analysis of the Traditional Appointment System and Non-attendance Rates for the Improvement of the Appointment System of Hacettepe University Hospitals",20122013,2,2,8,NULL,NULL
+6,"Analysis and Design of the Appointment System of a Hospital",20122013,2,2,8,NULL,NULL
+7,"Distribution of Domestic Electricity Generating Resources in Turkey Considering Energy Security",20122013,2,2,0,NULL,NULL
+8,"Increase the Efficiency of the Operating Theatres of Hacettepe University Hospitals",20122013,2,2,8,NULL,NULL
+9,"Cost Analysis and Replacement Decision Model with Applications to Ventilators at Hacettepe University Hospital",20122013,2,2,8,NULL,NULL
+10,"Minimizing the Financial Losses of Hacettepe University Hospitals: Improving Hospital Billing Process and Reducing Billing Errors",20122013,2,2,8,NULL,NULL
+11,"Cost System Analysis and Pricing Strategies at Erdemler Hydraulic",20122013,2,2,811,NULL,NULL
+12,"Decision Support System Design for Production Planning Under Uncertain Demand",20122013,2,2,812,NULL,NULL
+13,"Analysis of Turkish Macroeconomic Variables",20102011,2,2,0,NULL,NULL
+14,"Bus Routing Problem in Hacettepe University Campus of Beytepe",20102011,2,2,5,NULL,NULL
+15,"Inventory Systems of Spare Parts in Coca Cola Company",20102011,2,2,230,NULL,NULL
+16,"Design and Analysis of Experiments for Rectification Operation Materials' Selection at Paint Shop of Mercedes-Benz Türk",20102011,2,2,99,NULL,NULL
+17,"Case Based Reasoning and its Application to Financial Engineering Problems",20102011,2,2,0,NULL,NULL
+18,"Simulation Modelling of Oyak Renault's Flexible Assembly Line",20102011,2,2,19,NULL,NULL
+19,"Facility Layout: Redesign of Manufacturing-Assembly Plant",20112012,2,2,767,NULL,NULL
+20,"Analysis of Material Handling and Material Flow System in ORS Bearings and Integration of the New Facility's Material Handling System to the Current System",20112012,2,2,42,NULL,NULL
+21,"Design for an Inventory Control System for Spare Parts",20112012,2,2,15,NULL,NULL
+22,"Dynamic Requirement Planning and Master Production Scheduling",20112012,2,2,15,NULL,NULL
+23,"After-Sales Service Periodic Maintenance Process",20112012,2,2,813,NULL,NULL
+24,"Monitoring JCI Accreditation Indicators by Using Quality Control Tools",20112012,2,2,8,NULL,NULL
+25,"Cost Structure Analysis for ANKOR Metal Kaplama",20112012,2,2,806,NULL,NULL
+26,"Nurse Scheduling: An Application at a Private Hospital",20112012,2,2,0,NULL,NULL
+27,"Classification of Trim Losses and Integrated Tracking System for a Steel Fabrication Factory",20132014,2,2,392,NULL,NULL
+28,"Cost Analysis of Sterilization of the Hacettepe Hospital Operating Rooms Linen and Equipments and their Disposable Alternatives",20132014,2,2,8,NULL,NULL
+29,"Integration of Clinical Engineering in Hacettepe University Hospital's Technology Management",20132014,1,2,8,NULL,NULL
+30,"Analysis of the Operating Processes of Medical Devices and Development of Database to Aid Management of the System of Medical Devices",20132014,2,2,8,NULL,NULL
+31,"Development of a Systematic Approach for the Inventory Management of Medicine at Hacettepe University Hospitals",20132014,2,2,8,NULL,NULL
+32,"Value Stream Mapping Implementation on Assembly Process of Agustawestland AW139 Helicopter at TAI",20132014,2,2,15,NULL,NULL
+33,"Warehouse Layout Design and Product Monitoring System for EGO",20132014,2,2,747,NULL,NULL
+34,"Development of a Methodology to Reduce Financial Losses Due to Medical Billing Errors: An Application at Hacettepe University Hospitals",20132014,2,2,8,NULL,NULL
+35,"Optimization of Hacettepe University Hospital's Web Site to Increase Quality and Efficiency of Use",20132014,1,2,8,NULL,NULL
+36,"Waste Management at Hacettepe University Hospitals",20132014,1,2,8,NULL,NULL
+37,"Occupational Health and Safety Risk Management and an Implementation Study at a Conveyor Company",20132014,1,2,814,NULL,NULL
+38,"Investigation of the Bed Management System in Hacattepe University Hospitals",20132014,2,2,8,NULL,NULL
+39,"Construction and Management of the Hacettepe Hospital's On-Line Existence",20132014,1,2,8,NULL,NULL
+40,"Design of an Ergonomic Chair Considering Anthropometric Measurements and Ergotherapic Recommendations",20132014,2,2,0,NULL,NULL
+41,"Six Sigma Approach to Improve the Quality of Prosthetic Foot Production Process to Have Less Defects per Batch at Proted Company",20132014,1,2,815,NULL,NULL
+42,"Vehicle Routing Study on Hacettepe University Student Services",20132014,1,2,5,NULL,NULL
+43,"Analyzing and Optimization of the Hacettepe University Hospital's Patient Appointment System",20132014,1,2,8,NULL,NULL
+44,"Optimization of Hacettepe University Hospital's Appointment Systems to Increase Quality and Efficiency of Use",20132014,1,2,8,NULL,NULL
+45,"Vehicle Routing Problem for Distribution Company",20132014,1,2,816,NULL,NULL
+46,"The Design of Thermos Cup with Integrated Heating System",20132014,1,2,0,NULL,NULL
+47,"Analysis of the Production Processes and Improving of the Operations to Reduce Scrap in an Aluminum Industry",20132014,1,2,817,NULL,NULL
+48,"Analysis and Redesign of Material Handling System at Arçelik A.Ş.",20142015,2,2,16,NULL,NULL
+49,"Ortadoğu Rulman Sanayi ve Tic. A.Ş. Human Resources Ripening Process",20142015,2,2,42,NULL,NULL
+50,"Performance Measurement System Design",20142015,2,2,51,NULL,NULL
+51,"Balancing Mixed Model Post-Painting Assembly Line",20142015,2,2,229,NULL,NULL
+52,"REHIS Production Planning Department Database and Simulation System Design in ASELSAN Company",20142015,2,2,1,NULL,NULL
+53,"FNSS Warehouse Project",20142015,1,2,139,NULL,NULL
+54,"Flexible Job Shop Scheduling at Project Based Company",20142015,1,2,139,NULL,NULL
+55,"Project Management in Volunteer Medical Teams' Projects at Doctors Worldwide",20142015,1,2,207,NULL,NULL
+56,"Collection Capacity Increasing for Hacettepe University Library",20142015,2,2,5,NULL,NULL
+57,"ERP Implementation: SAP Module for Oil and Gas Sector",20142015,1,2,86,NULL,NULL
+58,"Hacettepe University Beytepe Campus Breakdown, Repair and Maintenance System Analysis and Improvement",20142015,1,2,5,NULL,NULL
+59,"Selection of Buildings for Energy Management-Operating System Integration by Using Outranking Methods",20142015,1,2,818,NULL,NULL
+60,"Applying Lean Manufacturing to the Production System of Lazzoni",20142015,2,2,238,NULL,NULL
+61,"Towards a Competency-Based Product Pricing Methodology - A Case Study",20142015,1,2,819,NULL,NULL
+62,"Return of Investment Analysis for Employing RFID Technology Using Shrinkage Costs in Beytepe Gün Hospital",20142015,2,2,5,NULL,NULL
+63,"Conceptual Employment of RFID in a Warehouse",20142015,2,2,8,NULL,NULL
+64,"Forecasting Coca Cola's Stock Market Prices in BIST100 by Using ARIMA Model",20142015,1,2,0,NULL,NULL
+65,"Carrier Interior Placement Optimization for TOFAŞ's Domestic Supply Chain",20142015,1,2,143,NULL,NULL
+66,"Comparison of Conventional Prototyping Methods with 3D Printing Prototyping for the Production of Scale Models",20142015,1,2,0,NULL,NULL
+67,"Improvement of Facility Layout in Ağaçlı Manufacturing",20142015,1,2,226,NULL,NULL
+68,"Technology Management Process Modelling for Havelsan",20142015,1,2,357,NULL,NULL
+69,"The RFID System Project at UPS",20142015,1,2,820,NULL,NULL
+70,"Reducing Waste at Production of Rock Wool",20142015,1,2,821,NULL,NULL
+71,"Applying Binary Integer Programming to University Course Timetabling Problem",20152016,2,2,0,NULL,NULL
+72,"Inventory Inaccuracy in KAREL Electronics",20152016,2,2,51,NULL,NULL
+73,"Start-Up Consultancy for an Automotive Production Company",20152016,2,2,0,NULL,NULL
+74,"Material & Part Assignment for Different Warehouses in Arçelik",20152016,2,2,16,NULL,NULL
+75,"Modeling and Optimization of Project Based Storage and Locations for ASELSAN's Warehouse",20152016,2,2,1,NULL,NULL
+76,"Developing a New Method for Inspections in a Lighting Company with Inventory Record Inaccuracy",20152016,1,2,822,NULL,NULL
+77,"Employing Lean Production Methodology on an Assembly Line Using Petri Nets - Modeling and Evaluation of the Performance",20152016,2,2,359,NULL,NULL
+78,"Designing a Decision Support System to Handle Changes in External Factors of Urban Transportation System: Kamil Koç Buses Inc. Application",20152016,2,2,823,NULL,NULL
+79,"Optimization on Internal Logistics Activities in Arçelik Dishwashing Machine Factory",20152016,2,2,16,NULL,NULL
+80,"Cost Analysis and Capacity Planning of End Product in Food Industry Machinery: A Case Study for a Project Based Company",20152016,1,2,824,NULL,NULL
+81,"Probabilistic Analysis of the Education Policy by Using Bayesian Network",20152016,1,2,0,NULL,NULL
+82,"Evaluating the Effect of Digital Signage Technology and Point of Purchase Strategy on Sales, a Regression Study and Analyzing Financial Outcomes",20152016,1,2,69,NULL,NULL
+83,"The Relationships Between Emotional Intelligence, Organizational Commitment, Burnout and Job Satisfaction of Surgical Nurses in Hacettepe University Hospital: A Questionnaire Survey",20152016,1,2,8,NULL,NULL
+84,"Hacettepe University Hospital Warehouse Improvement by Implementing RFID Technology",20152016,1,2,8,NULL,NULL
+85,"Radio Frequency Identification (RFID) Technology in Supply Chains",20152016,1,2,0,NULL,NULL
+86,"Mobile Ordering System for Hacettepe University Cafeteria via QR Codes",20162017,1,2,5,"There are numerous factors that affect customers' satisfaction perceptions of service quality in
+catering services. Among these factors, service quality, food quality and physical environment
+are the most significant factors influencing service quality perceptions. The goal of this project is
+to design new mobile ordering system to prevent food depleting, minimize waiting time and
+reduce seat problem at rush hours for Hacettepe University Cafeteria K. As a solution the project
+report describes the design and development of new cafeteria management system via quick
+response (QR) code to enhance operational efficiency. During this project DMAIC (Define,
+Measure, Analyse, Improve, and Control) approach is used for problem solving methodology
+alongside the statistical tools for cafeteria. This study demonstrates the significance and benefits
+of using this technology specifically in the foodservice industry.",
+87,"Facility Layout and Warehouse Planning for a Project Based Company",20162017,2,2,369,"This report deals with the facility layout design and warehouse planning for a project based
+company. The scope of this project is grouping the machines according to similar processes.
+With the arrangement of the machines and warehouse, order will be provided within the
+factory. In this case, it will lead us to achieve our objectives. The project's main objectives
+are decreasing material handling cost, minimizing the risk of the injury to employee and
+damage to raw material and constituting effectively warehouse layout. The planned
+methodology to handle these objectives is creating mathematical model to solve with LINGO
+software.
+","Facility Layout; Project Based Company; Warehouse Planning; Material
+Handling; Material Transportation; Machine Layout; From to Chart; GMAFLAD; LINGO"
+88,"Data Mining for Warehouse Layout Design",20162017,2,2,53,"Warehouses are the base units at firm. The effectiveness at a warehouse is a critical issue. The
+most crucial responsibility of warehouses is providing raw materials to production lines. When
+the needed raw materials cannot be prepared on time, the probability that production may stop
+arises. Therefore, the problems of the warehouses should be solved immediately when they are
+realized. The most important reason of these problems is ineffective layout design of
+warehouses. Therefore, at first layout of the warehouses should be considered to find a solution.
+The most noticeable solution applied for this problem is optimization models. However, in this
+project, a new method for layout design will be applied. Data mining algorithms will be used to
+establish a layout design at the warehouse of Emek Electrical Industries Inc. with the assistance
+of multidimensional scaling method. By using the data obtained from multidimensional scaling
+method, linear programming was used as final step.
+","Warehouse Layout; Data Mining; Association Rules; Clustering; Multidimensional Scaling; Linear Programming"
+89,"Lean Production in a Modular Manufacturing System",20162017,2,2,825,"Companies want to produce their products in most efficient way. This study focused on the
+investigation of an efficiency problem in production. Efficiency can be increased many ways and
+can be caused by too many different subjects. Firstly, workflow of current system was
+understood in detail for pointing out main problems which are under scope of industrial
+engineering. Hence, environment, machine, method, measurement and manpower related rootcauses
+are defined. According to literature review and both company and academic advisors'
+recommendations methodologies were identified. These are 5S with addition safety(ergonomics)
+as 6S and standardization methods in order to increase efficiency in production. Afterwards,
+analyses were done according to related order with using defined methodologies. In the scope of
+standardization, Petri Nets was used to simulate and visualize production area of company for
+suggested standardized and flexible system respectively not cyclic. Furthermore for supporting
+standardization logically and computationally matrix methodology and linear programming was
+used respectively. Planning was made for gathering more accurate results in future studies.
+
+","Efficiency; 6S; ergonomics; standardization; lean manufacturing; modular design; Petri Nets; cyclic; not cyclic; linear programming; matrix"
+90,"Optimization of Stand-Alone PV/Wind/Battery Hybrid System for Street Lights",20162017,2,2,5,"It is known that hybrid renewable energy systems are more efficient than other energy sources in terms of power stability and reliability while operating at minimum cost.Design and analysis of photovoltaic/wind hybrid system to supply lighting load for street lights between Main Gate A and Flagstaff will be discussed. Economical, enviromental and health issues of hybrid renewable energy will be considered.The procedure was for 56 street lights located at Hacettepe Beytepe Campus Road which starts by entering Main Gate (A) and ends after 4 kilometers approximately. The study focuses on estimating and collection of the basic meteorological data of solar radiation and wind speed, and then standalone system optimization simulation model was developed using the renewable energy system software HOMER.Four different alternatives will be compared. Aiming the minimum cost and required power, results shows that hybrid system with 36 watt LEDs would be profitable. At the end of the cost analysis, it will be seen that the payback period is 5.39  years.","Hybrid system, Solar, Wind, Generator, Optimization, HOMER"
+91,"Prioritization of Orders for Specific Time Intervals",20162017,1,2,506,"Customer order prioritization is an important issue for the manufacturing companies.
+Companies may have limited place- income for stocks, production capacity etc. In this project, it
+is focused on a multi criteria decision making problem, order prioritization. It is observed that
+producing in an amount exceeding production capacity is expected in a specific time period.
+Detecting these time intervals have already done in a day of week. Then, delivery date of some
+orders needs to be postponed. In order to achieve that, there is going to be developed DSS by
+using Excel. Customer satisfaction, making more reliable changes on the dates, improving
+planning, reducing costs, ensuring production and sales communications integrity, increasing
+brand value and being more accurate about this process are expected gains of this study. To
+achieve these goals, possible criterions that can affect the sequencing are collected, analyzed to
+get independent- applicable ones. To sequence the orders, AHP method is used to find relative
+importance and then using these values after computations, the scores of the orders are found.
+These orders are wanted to order because of the excession of capacity art that time interval. So,
+designed Excel sheet gives the user a suggestion about this problem. So, delivery date of orders
+will be postponed according to this system that is expectation of this study. For integration that
+study to SAP, a meeting is going to be made with consultants. All detailed information is
+explained throughout the report.
+
+","Order Prioritization; Multi Criteria Decision Making; Analytic Hierarchy Procedure: AHP; Decision Support System; Prioritization"
+92,"Optimization of Operating Room Utilizations at Hacettepe University Hospital",20162017,2,2,8,"This paper deals with the problem of operating room (OR) utilizations and the waiting time of
+the elective surgeries. At Hacettepe Hospital, operating rooms are not used in a systematic way
+and that causes overutilization or underutilization problems. Optimizing utilizations for each
+department by regulation of the operating rooms will be maximizing number of operations done
+and patients being served. Additionally, this will be helping to solve the waiting time problem
+for the surgical treatment and conflict between departments. A system makes OR utilizations
+higher will be suggested to the Operating Room Manager of the Hacettepe University Hospital. 
+
+","Simulation Modelling; Operating Room Optimization; Utilization of Operating Rooms"
+93,"Dynamic Production Scheduling Algorithm for Arçelik Dishwasher Plant",20162017,2,2,16,"In the developing world, it is necessary to increase production as much as possible the
+amount of consumption increases. This obligates producers to respond to wide range of product
+demands in the competitive market. In this context, the object of the project is to develop a
+dynamic production scheduling algorithm that can work according to the changeable demands for
+the inner body production unit in the Ar&cedil;elik Dishwasher Plant.<br><br>
+The overall problem of the project is to solve the problems in adapting the dynamic
+production plans to the production line. Production area has layout that contains parallel montage
+lines in two different areas and there are some connections between montage lines. Therefore, we
+will need to construct an software algorithm around a mathematical model in which includes
+many constraints and time factors. So, integer programing optimization has become one of the
+most important methods. In addition, it is expected to use statistical simulation for converging
+real capacities of work stations. The literature review is made to obtain a method that could
+integrate 2 limits such as minimizing the flow time and short production time. Because of this
+reason, integer programming is more appropriate for establishing the goals of the project. The
+required data like total stopping time, operation time etc. is analyzed for integrating into
+software. The analysis results and obtained values are mentioned in the Analysis and Results
+section. The obtained information in Analysis and Results section is used to evaluate more
+realistic simulation results. General issues about implementing the project is mentioned in the
+Discussions section. As a result of this project, it is expected that the instantaneous integration of
+the production plan and the feasible production plan reports will be presented by the software and
+this can decrease the amount of scrap and targeted to the high number of OEE with low setup
+numbers. It is aimed to reduce machine idle-time and eliminate production scheduling problems. 
+
+","Shortest processing time method; scheduling; mathematical programming; production planning; statistical simulation"
+94,"A Study about Perishable Inventory Planning on Supermarkets",20162017,2,2,826,"The aim of this project is to prepare different inventory policies for perishable items with the
+high return rate in supermarkets. In this project to be carried out with Yunus Market, firstly the
+items with high return rate is going to be determined and then alternative inventory policies will
+be recommended to the company according to the characteristics of these items.<br><br>
+In this final report, general information about sector, company and perishable items, and the
+study of multi criteria ABC classification and its results will be available. In addition to the
+previous reports, the studies of recommended inventory policies for different item classes (A, B
+and C Classes) were added to the report in various ways. In discussions section, the impact of
+various topics on the project was discussed. Literature research was mentioned about previous
+studies on similar topics and tried to show different aspects of this work. In the scope section, the
+scope of the project will be understood in detail. The definition of the problem, the objectives of
+the project, real life constraints of the project, the relationship between other disciplines and
+industrial engineering during the project, and ethical considerations could be reached in the
+scope section.<br><br>
+The methods applied in this study are detailed in the methodology section. Finally, the Gantt
+chart was used to observe the history and development of the project.
+
+","Perishable Inventory; Multi Criteria ABC Classification; Supply Chain Management; Inventory Policies"
+95,"A Decision Support System for Container Management",20162017,2,2,208,"In manufacturing, how to feed materials to the assembly lines and how much to keep them
+in inventory are important questions. For automotive assembly processes, from top to bottom,
+there are thousands of different parts used in assembly. In T&uuml;rk Trakt&ouml;r, there are large, small,
+heavy, light, expensive, cheap parts used in assembly with high variations. As an inventory system,
+there are intermediary areas in between main warehouse and assembly lines. Thousands of types
+of parts are being stored at those intermediary areas as Work-in-process (WIP) inventories, in
+several kinds of containers and with determined levels of inner quantities in those containers.
+Because of the difference of demand for each part, high inventory days and shortages occur in
+those areas, these cause corruption of some parts and also missing the production tempo, hence
+high failed part costs. Decision of these feeding types and inner quantities are determined with
+heuristics, in T&uuml;rk Trakt&ouml;r. In this project, a model is presented to support decisions of those
+feeding types and inner quantities for each part. By this, it is aimed to have better feeding type and
+inner quantity decisions to prevent high inventory costs and to better choose suitable feeding
+methods of each part.
+",
+96,"Material Handling Equipment Selection for a Project Based Steel Factory",20162017,1,2,392,"This project has been done for G&uuml;lermak A.S. which is a project based steel factory. The studies
+which have been done for suggesting new material handling equipment for outside storage yard
+of the factory.<br><br>
+Thus in every manufacturing organization material handling places an important role in
+G&uuml;lermak A.S. too. The project crew was focused on material handling processes in outside
+storage yard of the factory. In the outside storage yard there are three main types of raw
+materials. These are tubes, profiles and sheet metals. These raw materials have been moved with
+mobile or portal cranes to first operation and this project were done for creating an alternative
+equipment list for this material handling process.<br><br>
+A better material handling process can constitute a lot of positive affects like cost reduction, time
+saving, more efficient work flow, greater job satisfaction and increasing production. The project
+provides an alternative list for both types of cranes which have been composed according to
+analyses have been done during lifecycle of the project. If the company will decide to change the
+current material handling equipment in future results of this project can be useful resources.
+The works presented in this report can be an example study for selecting material handling
+equipment and instructive report for other similar projects.","Material Handling; Outside Storage Yard; New Alternatives"
+97,"Vehicle Route Planning in Ozrize",20162017,1,2,827,"In recent years, distribution systems have been occurred more complex because of increasing network. In the increasing competitive environment, one of the most effective way to reduce costs is to plan vehicle route. Vehicle routing problem is the most important problem in distribution systems because in real life, vehicle routing problem has a high rate of applicability. In this study, vehicle route is tried to plan by applying Savings method under certain constraints such as capacitated vehicle and time. Due to the complexity of the problem, a heuristic method has been choosen. Since the company has a wide distribution network, the vehicle route is planned only for the 4th. Region which includes Umitkoy, Beysukent, Hacettepe and Bilkent. In the region, there are 74 active customer points and data about the points belong to Ozrize. The python program was used to evaluate the distances and savings which are required to apply method. First of all, only capacitated vehicle constraint was considered but then time constraint was added and solved to increase the reality of the problem. In this way, two different route have been obtained. The company distributes the product with at least 5 vehicles for the 4th region but according to the result of this study 4 vehicles are enough to distribute. In addition, the total distribution cost was calculated based on the fuel consumption.",
+98,"Layout Design Of Raw Materials Stock Area In G&uuml;lermak",20162017,2,2,392,"This report relates to layout design of factory of G&uuml;lermak Heavy Industries Construction and
+Contracting Co. Inc. in Ankara. This project is limited to layout design of raw materials
+stock area of factory. These raw materials are sheet metals, profile metals and tubes. The main
+objectives of this projects are increase the space floor utilization and decrease cost. This
+arrangement includes the classification of these materials and their placement in stock area. The
+classification is based on the quantities and qualities of use of these materials in the production.
+In order to be able to handle these objectives, we will develop mathematical algorithm.
+Simulation was made to compare current layout design with new layout design","Layout Design; Space Allocation and Assignment; Class-based Storage"
+99,"Receiving Area New System Optimization and Integration",20162017,2,2,139,"This report is about the receiving area of the company, FNSS. Receiving area is the starting point of production system and any substantial problem in this area is cumulatively affecting the whole system. The aim of this project is minimizing the cost, redesigning the layout, designing the job descriptions and creating the new system for sorting of the material.<br><br>
+Process starts when the materials arrive at the receiving area and finishes when the materials are put in the warehouse. Fundamental problem of this project is that any sorting systems are not occurred in any section of receiving area. This is causing the delay and cost to company. As mentioned before, because of that it is a main problem, the main purpose of this project to solve this problem and integrate the current system. Also layout is the cause of this problem. Receiving area size is not enough, especially in rush-hours, materials are being put outside of the lines or empty spaces and it is creating the complications and materials to be lost, also decreasing the performances of workers. Unedified section area/border is effecting negatively the line formation and knowledge of the material locations. As a result, searching the materials task is taking redundant time and energy of the workers.<br><br>
+In order to eliminate these problems of the receiving area, -that are caused by intricacies of the system- first, an algorithm will be developed to sort the in-coming materials, in a certain sequence. This algorithm will be integrated with an ERP system to get the necessary data. To control, that the materials are being processed according to the sequence an automatic identification and data capture system will be used. The layout of the area will be redesigned to better work with the system and a new rack system will be established.
+","Sorting System; Layout, Receiving Area; RFID; Rack System; Warehouse Management; ERP Systems"
+100,"Comparison of ARIMA, NN and Hybrid Models for Irregular Demand of White Goods",20162017,2,2,16,"There are many demand forecasting systems in different fields. In this study, we will deal with
+demand forecasting problem in white goods sector. We will examine past years' data of certain
+products that have irregular demands. While we are dealing with problem, we use different
+types of forecasting methods that we introduce in methodology section. At the same time, we
+will try to correct the missing data, so that our analysis will become more meaningful. Our goal
+is to find a meaningful result with one of these methods and thus establish a proper demand
+forecasting system. By accomplish this we will reduce cost of shipment and stock keeping cost.
+However, most importantly we will ensure that dishwasher factory's production targets are
+achieved without penalty.
+","Demand forecast; white goods; Time Series; Forecasting Methods"
+101,"Analysis, Modeling and Optimization of the Warehouse of REHIS Business Sector at ASELSAN",20162017,2,2,1,"A well designed storage area improves the inventory investment of a company, increases
+efficiency of warehouse processes. Because of not well designed warehouse system, workers waste
+time during the preparation of materials, and projects face the risk of not being completed on time.
+Each project has its own kits and the main problem is delaying during the kit preparation. Our
+graduation project focused on the warehouse optimization to improve picking process at REHIS
+Business Sector of ASELSAN.<br><br>
+A fishbone diagram was constructed to focus on essential problems. In the previous section
+of the project, material arrangement study was achieved by constructing a user interface in
+MATLAB. According to material classes, materials were placed respectively by beginning from
+the best feasible area. After the material placement process, workers were reassigned to best
+feasible areas to achieve workloads as uniform as possible and optimal working system. This
+arrangement was a part of the solution steps to reach best feasible solution for the kit preparation
+process in the warehouse. At first, a mathematical program was constructed to see the objective
+function and constraints of the worker arrangement study. Then, a heuristic approach was used to
+assign workers optimally whether the condition of the materials are.<br><br>
+In this stage of the project, work order list system was planned with heuristic approach
+using MATLAB to decrease travelled distance of workers during kit preparation process.Then, the
+current and the developed system were compared by using some simulation techniques to see the
+improvement of the kit preparation process.
+","Warehouse System; Picking Process; Material Placing; Assignment; Work Order Planning; Storage Policy; AHP Analysis; ABC Classification; MILP; MP; User Interface;
+Simulation; Heuristic Approach"
+102,"Product Assortment and Space Allocation for Vivense Showrooms",20162017,1,2,756,"The Internet leads to coming up of new sectors and changing of existing sectors. E-commerce, is
+one of terms used with the internet. This new industry introduced new business principles, as
+well as new strategies for achieving these principles. One of the new strategy is space
+management and product selection for stores. Retailers need to assign limited store space to a
+growing number of product categories such that sales and other performance metrics are
+maximized. The purpose of this project is to develop a model for product assortment
+optimization and space allocation. The model determines the right products to include in a
+showroom's assortment and their space percentages in the showroom. As a result of the project
+21 products are selected by model to display in Vivense showroom.
+","e-commerce; furniture industry; product assortment; retail; showrooming; space allocation"
+103,"ERP's Place for Medium Sized Firms",20162017,1,2,646,"In todays world , supply chain management is crucial to stay competitive and information is the most important part of the supply chain management. Information gives the chance of improving responsiveness and efficiency at the same time to the firms. Recently, new advanced information technologies appeared. In this project , one of the the new advanced information systems which is ERP system , will be aimed by the project team. ERP is a software management system that contains several functions for most of the areas of companies and it aims to maximize the performance of those areas. ERP's usage provides lots of advantages to companies but at the same time this system's price is high. Price is not a key factor for the big size firms, whereas the medium size firms must analyze it clearly because it can cause them to shipwreck. This project's objective is to analyze a medium size firm, try to implement ERP to firm's management system, at the end of analyses decide whether ERP is useful or not for this firm. Main purpose of this project is determination of benefits of ERP to a medium size firm.
+","ERP Implementation; Information Systems; Productivity; ERP"
+104,"Facility Location in Supply Chain Design for a New Company",20162017,1,2,0,"This project focused on selecting  the optimal facility location for a new bakery which has not any facility and demand points. To solve the problem, the P-median problem method is used and the datas are collected from another bakery. Facility location is determined according to the result of the project.
+",
+105,"An Improvement Study for Warehouse Layout at MSIM's Blackpark: A Layout Design at a Project-Based Company",20162017,1,2,369,"Warehouses are the starting point of any production in a production company. They must
+be easy to navigate and the operations in the warehouse must be efficient. The focus of this paper
+is a project based sheet metal processing company's warehouse. ABC analysis and a heuristic
+method will be used to design and suggest a new layout for the company's warehouse. The
+current layout of the warehouse and current problems are discussed in the problem definition and
+introduction sections of the report. Related researches and their relevance with this project are
+discussed in literature review section. ABC analysis, reason of the decision on the heuristic
+method and some constraints are discussed in the methodologies section. 
+","Warehouse; Layout Design; ABC Analysis; Sheet Metal Industry"
+106,"Passenger Demand Forecasting for Anadolujet",20162017,1,2,11,"The Aviation Industry has lots of variables for passenger demands like economic factors, politic events, public and religious holidays, meetings, cultural- art activities, seminars are just some of them. The forecasting accuracy is not good enough for many firms as AnadoluJet because of that reason. The aim of this project is considering effects, flight numbers& weekdays- weekends, on passenger and comparing Hold Winter's Methods and ARIMA to forecast the passenger demand of Ankara-Izmir flight line for August with a successful accuracy and finding the most suitable model for our data. When the study reaches an expected result, AnadoluJet will use it for the latest forecasts of this line. This study will be used to determine accurate forecasts other lines too.
+","Aviation Industry; forecasting; Ad-Hoc Forecasting; VAR; fare classes; capacity"
+107,"Improvements on the Subgroup Area",20162017,1,2,208,NULL,"One-piece; Lean manufacturing; Assembly, Pull systme, 5S, Automotive industry"
+108,"Improvement of Quality Control Process",20162017,1,2,30,"This project is being done in MAN Türkiye A.Ş. MAN Türkiye A.Ş. is a bus producer firm. The project is about improvement of quality control process of Skyliner bus which is double decker bus. Main subject of the project is transition to electronic system of quality control process.","Quality control; standardization; transition to electronic system; configuration; visualization; efficiency; cost"
+109,"Implementation of Augmented Reality in Turkish Aerospace Industry, Inc.",20172018,2,2,15,NULL,"Industry 4.0; Augmented Reality; Aviation Industry; Work Sampling; Analytical Estimating; Experiment"
+110,"Shortage Inventory Prediction",20172018,2,2,139,NULL,"FNSS; item shortages; classification; data mining; CART; inventory management"
+111,"Tracking and Tracing Technology for the Production System in TAI - Turkish Aerospace Industries, Inc.",20172018,2,2,15,NULL,"Traceability; Inventory Accuracy; RFID; Petri Nets"
+112,"Documentation and Process Management of Quality and Laboratory Departments in General Directorate of Highways (KGM)",20172018,2,2,190,NULL,"Efficiency; BPM; electronic document management; 5S"
+113,"Analysis of Social Media Use for Digital Marketing in the Automotive Sector",20172018,2,2,208,NULL,"Digital marketing; text mining; social media; automotive industry"
+114,"Growth and Continuous Improvement Project with Lazzoni",20172018,2,2,238,NULL,"Lean Manufacturing; Facility Layout; Data Incompleteness; Customized Production; Simulation"
+115,"Warehouse Improvement & Project Prioritization Studies at MGEO Business Sector of Aselsan A.Ş.",20172018,2,2,1,NULL,"Warehouse improvement; Material placement; Mixed Integer Programming; Project prioritization and selection"
+116,"Material Handling and Facility Layout Study for a Project-Based Company",20172018,1,2,921,NULL,"Material Handling; Facility Layout; Project-based Company; Layout Design; Product Categorization; Transportation Cost; From-to chart; Relationship chart"
+117,"Alternative Job Shop Scheduling for Dunapack Production Line",20172018,2,2,922,NULL,"Job Shop Scheduling; Assignment Method; Branch and Bound; Integer Programming"
+118,"A Demand Forecast Study in KAREL",20172018,2,2,51,NULL,"Time Series; ARIMA; Bayesian Networks; Demand Forecast"
+119,"Material Flow Optimization",20172018,2,2,139,NULL,"Material Flow Optimization; Vehicle Loading; Vehicle Routing"
+120,"Capacity Increase Studies by Changing Buffer Level at Arçelik Dishwasher Plant",20172018,2,2,16,NULL,"Durable good production; buffer elimination; buffer allocation; cycle time reduction; blocking and starving; white goods sector"
+121,"The Effect of Setup for Production Planning Model in Flexible Manufacturing Systems",20172018,2,2,0,NULL,"Flexible Manufacturing System; Multiperiod; Multistage; Set-up"
+122,"Decision of Alternatives for MKE’s Fuze Production Capacity Growth",20172018,2,2,367,NULL,"Production Planning; Linear Programming; Fuze; Cost-Benefit Analysis"
+123,"Improvement of Electricity Generation Planning at a Hydroelectric Power Plant",20172018,2,2,923,NULL,"Hydroelectric power plant; HEPP; Turkish Electricity Market; Dam optimization; Linear programming application; Simulation"
+124,"Design and Evaluation of an Assembly Line for Producing Air-Conditioner – Case Study, 'Untes Company'",20172018,2,2,298,NULL,"Assembly Line Design; Optimization Methods; Simulation Methods; Workstations"
+125,"Buffer Stock Problem in Upholstery Workshop",20172018,2,2,485,NULL,"Theory of Constraints; Assembly-line balancing; Time study; furniture sector; bottleneck"
+126,"HUIE Department’s Parking Lot Arrangement",20172018,1,2,0,NULL,"Campus Parking; Parking; Parking Problems; Parking Planning; Hacettepe University Industrial Engineering"
+127,"Energy Harvesting from Piezoelectricity",20172018,2,2,0,NULL,"Piezoelectricity; Energy harvesting; Energy storage; Pressure; Vibration"
+128,"Estimating Future Prices: An Autoregressive Study on Historical Data of Bitcoin",20172018,1,2,0,NULL,"Economy; Bitcoin; Cryptocurrency; MetaQuotes; MetaTrader; Autoregression; Estimation"
+129,"Rearrangement of Layout of FIRATPEN Using Hybrid Layout Model",20172018,2,2,1002,NULL,"Layout; Optimization; Efficiency in Production; Hybrid Layout; Machine Positioning"
+130," Designing a Digital Twin of a Physical System using Petri Nets",20172018,1,2,0,NULL,"Industry 4.0; Digital twin; Cyber-physical System; Petri nets; Internet of Things; Arduino"
+131,"Simulating Computer Aided Military Exercise Process Using Anylogic",20172018,1,2,357,NULL,"Computer Aided Military Exercise; AnyLogic; Simulation; Resource Allocation; Training Center Utilization; Havelsan"
+132,"Optimization of Buffer Inventory Using Simulation Studies in Arçelik A.Ş.",20182019,2,2,16,NULL,NULL
+133,"On a Manual Assembly Line Embedded with Augmented Reality and IoT Technologies ",20182019,1,2,1134,NULL,NULL
+134,"Analyzing and Improving The Functional Testing of Arçelik Dishwasher Plant ",20182019,2,2,16,NULL,NULL
+135,"Increasing Number of Sale Points by Using Route Optimization for Red Bull Turkey ",20182019,2,2,1130,NULL,NULL
+136,"Industry 4.0 Applications in Intralogistics of Mercedes-Benz Türk Aksaray Truck Plant",20182019,2,2,99,NULL,NULL
+137,"An Improvement Study of Buffer Stocks at Arçelik Dishwasher Plant ",20182019,2,2,16,NULL,NULL
+138,"Production Planning for Energy Efficiency at Durukan Confectionery",20182019,2,2,834,NULL,NULL
+139,"Scrap or Buy Decision Making for Raw Material Stock Reduction at MİTAŞ",20182019,2,2,369,NULL,NULL
+140,"Process Improvement Due to Continuous Change in İVME Unmanned Aerial Systems",20182019,2,2,1131,NULL,NULL
+141,"Project Prioritization and Order Scheduling at MİTAŞ Polygon Pole Factory",20182019,2,2,369,NULL,NULL
+142,"Lean Manufacturing Implementations for Packaging Operations at Tepe Home ",20182019,1,2,485,NULL,NULL
+143,"Demand Forecasting and Raw Material Order Planning on Box Industry ",20182019,2,2,1132,NULL,NULL
+144,"Predictive Maintenance for Elevator Systems ",20182019,2,2,357,NULL,NULL
+145,"A Database Solution for The Cross Functional Team Allocation Problem in Man Türkiye ",20182019,2,2,30,NULL,NULL
+146,"Putaway Locations Optimization for Warehouses in Defense Industry",20182019,2,2,139,NULL,NULL
+147,"Study of Scheduling in Just-In-Time System",20182019,2,2,1134,NULL,NULL
+148,"Raw Materials Inventory Management",20182019,2,2,835,NULL,NULL
+149,"Solutions to the Cold Storage Capacity Shortage Problem of an Ice Cream Producer",20182019,1,2,1133,NULL,NULL
+150,"Application of Cyber Physical Systems on Autonomous Vehicles: An Approach to Achieve an Efficient Fuel Consumption",20182019,1,2,0,NULL,NULL
+151,"Human Resource Allocation in Anova",20182019,1,2,1031,NULL,NULL
+152,"Passing into Lean Approach with 5S and Inventory Classification Using ABC-VED Matrix Method at Aktif Elektroteknik",20182019,1,2,1043,NULL,NULL
+153,"Spare Parts Inventory Algorithm Under Demand Uncertainty in Arçelik Dishwasher Plant",20182019,1,2,16,NULL,NULL
+154,"An Inventory Tracking System Based On UAV and Image Processing",20182019,2,2,0,NULL,"Inventory tracking; UAV; Image processing; Industry 4.0; Inventory accuracy"
+155,"Line Balancing at Tepe Home Furniture Facilities",20182019,1,2,485,NULL,"Assembly-line balancing; Time study; Furniture sector; Bottleneck"
+156,"Optimization of The Distribution Logistics System for Tepe Home",20182019,1,2,485,NULL,"Distribution Logistics Process; Optimization; Linear Programming; P-Median Method; Discounted Payback Period Method"
+157,"Study of Analysis, Monitoring and Reducing of Defective Products",20182019,2,2,1203,NULL,"Defect and fault analysis; SPC; Gauge R&R; Process Capability; Defect Rate"
+158,"Feasibility Analysis of Marking Device",20182019,2,2,392,NULL,NULL
+159,"ERP Integration for SME",20192020,2,2,1299,NULL,"ERP; Insurance sector; ERP implementation; Canias"
+160,"Improvement Study for the Production Control System at MİTAŞ Bolt",20192020,2,2,369,NULL,"Production control; Excel; Database systems; Error reduction"
+161,"Re-Designing Order Tracking System",20192020,2,2,484,NULL,NULL
+162,"Simulation Modeling of Function Test Lines of a White Appliances Producer and Design Recommendations for a New Function Test Line",20192020,2,2,16,NULL,"Arçelik; Function Test Line; Improvement; Simulation; White goods sector; Demand"
+163,"Stock Area Design in Tepe Betopan A.Ş.",20192020,1,2,196,NULL,"Storage space; Warehouse storage planning; Shelf assignment; Mathematical model; Stock area layout; Heuristic algorithm"
+164,"A Comprehensive Analysis and Modeling of the Production System and Optimal Scheduling of a Project Based Company",20192020,2,2,369,NULL,"Process analysis; Regression; Curve-fitting; Simulation; Scheduling"
+165,"“Q-Track” Database Embedded Risk Analysis",20192020,2,2,30,NULL,"Risk analysis; Risk calculation (estimation); Risk management; Access database system; Quality department"
+166,"Decision Support System for Logistic and Vehicle Routing Optimization",20192020,2,2,139,NULL,"Logistic operations; Decision support systems; Logistics planning and optimization; Supply chain management systems; Logistics automation systems"
+167,"A Tool for Sector Analysis and Monitoring: A Multi-Criteria Decision Approach and a Web-Based Application",20192020,2,2,208,NULL,"Sector analysis; Kraljic Portfolio Matrix; Multi criteria decision making; Purchasing portfolio; Web application; Supply chain management"
+168,"Cyber-Physical Pick by Light System for Manual Assembly Line",20192020,2,2,1134,NULL,"Cyber-Physical systems; Augmented reality; Pick-by-Light; Assembly line"
+169,"Integration of SAP into Production at Ulusoy Electric Eaton",20192020,2,2,359,NULL,"Lean manufacturing; SAP; Inventory controlling; Root cause analysis; Monte Carlo simulation"
+170,"TUSAŞ Personnel Buses Routing and Assignment Optimization",20192020,2,2,15,NULL,"Service route; Route optimization; Progress payment; Database; Algorithm"
+171,"An Improvement Study on the Assembly Line Area at Siemens: Redesign of Facility Layout, Assembly Line & Material Handling System",20192020,2,2,782,NULL,"Layout redesign; Mixed model line balancing; Material handling; Occupational health and safety; Simulation modeling"
+172,"Decision Support System with Power BI for Waste Reduction and Stock Control of Raw Material",20192020,2,2,369,NULL,"Decision support system; Waste reduction; Mathematical modeling and optimization; Power BI DAX; Inventory planning; Production planning"
+173,"Operation Analyses and Optimization Techniques in Receiving Area at FNSS Defense Systems",20192020,2,2,139,NULL,"BPMN; ARENA; Quality control; Simulation; Process optimization; Task assignment; Overtime; Receiving; Shelf design"
+174,"An Inventory Tracking System Based on UAV and RFID",20192020,1,2,1113,NULL,"Inventory tracking; UAV; RFID; Image processing; Industry 4.0; Inventory accuracy"
+175,"An Approach to Optimize Setup Time in a Machine at Aksan Steel Forging Factory",20192020,2,2,477,NULL,"Unrelated parallel machine scheduling; Heuristic; Mixed integer mathematical modeling"
+176,"Capacity Planning and Workforce Assignment in Composite Production Area",20192020,1,2,15,NULL,"Capacity Planning; Workforce Assignment; One-Dimensional Bin Packing; Management Information Systems; Decision Support Systems"
+177,"Developing a New Model with Using MCDM Methods for Supplier Evaluation Process and its Application in Defence Industry",20192020,1,2,139,NULL,"Supplier Selection in Defense Industry; AHP; ANP; TOPSIS; Multicriteria Decision Making; MCDM"

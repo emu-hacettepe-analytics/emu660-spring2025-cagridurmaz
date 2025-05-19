@@ -1,0 +1,2041 @@
+id,userid,companyid,positionid,startdate,enddate,city,country,description,employmentmethod,companydepartment,irecommend,iamhappy,ibenefits,irelationships,ienvironment,icareer,icareerfuture,ieducation,ioverall,erasmus
+3,21030962,5,5,2014-12-01,2017-07-14,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+4,20829421,10,6,2012-10-08,2013-08-02,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+8,21030833,19,8,2014-09-15,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+11,20930149,30,10,2014-07-08,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+13,20727414,30,10,2013-09-23,2015-10-25,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+14,21031054,40,11,2014-08-05,2015-10-28,İstanbul,Turkey,,13,8,5,4,5,3,3,3,4,3,4,0
+15,20930154,42,12,2014-09-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+17,20930121,44,14,2014-08-25,2015-06-12,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+18,20829578,482,15,2013-07-07,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+19,20930011,11,22,2014-07-21,0000-00-00,İstanbul,Turkey,"I am working on fleet planning and aircraft acquisiton. We are making the purshasing, leasing and the other aircraft agreements. We are generally working with international leasing companies, law offices and consulting firms.",14,8,4,3,4,2,4,2,2,3,3,0
+22,20727452,53,17,2014-04-01,2014-12-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+23,20829339,56,3,2011-09-06,2012-03-16,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+25,20829339,57,18,2013-03-11,2013-11-20,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+26,20829339,58,19,2010-06-11,2010-09-19,NJ/Clementon,"United States",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+27,20829339,11,20,2013-12-16,2017-01-27,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+29,20727711,59,23,2011-10-03,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+30,20930006,63,1,2014-06-01,2014-11-01,Mersin,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+32,20929965,68,24,2014-10-02,2015-11-20,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+33,20930039,72,25,2014-08-04,2016-07-15,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+34,20929869,73,26,2014-07-14,2015-07-14,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+36,20727505,15,1,2012-05-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+37,20727672,75,17,2012-08-06,2014-08-01,Kocaeli,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+39,20829377,30,10,2013-09-02,2016-02-26,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+40,20727524,68,1,2013-04-01,2015-06-01,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+43,20727691,78,15,2013-07-01,2016-04-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+44,20829512,79,229,2013-08-05,2015-12-31,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+45,20727471,30,10,2014-06-02,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+46,20727686,80,33,2014-04-07,2019-07-21,İstanbul,Turkey,,14,8,5,5,5,5,5,5,0,5,5,0
+47,20829559,81,5,2014-05-28,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+49,20727485,83,203,2013-10-01,2018-12-16,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+50,20727433,84,226,2015-01-05,2016-06-24,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+52,20829358,86,367,2013-01-02,2016-05-27,Ankara,Turkey,"Project Procurement Engineer for Power Plant Projects",14,8,0,0,0,0,0,0,0,0,0,0
+53,20727538,87,28,2013-07-10,2015-01-01,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+54,20829583,88,20,2013-10-01,2016-04-29,İstanbul,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+55,20727428,11,1,2013-09-23,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+56,20829597,30,1,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+57,20829473,89,1,2014-04-01,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+58,20829325,61,1,0000-00-00,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+60,20727519,91,10,2013-02-25,2014-07-25,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+62,20929946,93,22,2013-08-05,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+63,20727447,94,449,2014-02-03,2023-01-10,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,3,5,0
+64,20727543,95,59,2014-01-01,2016-07-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+65,20829526,96,29,2012-05-01,2015-02-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+68,20829636,98,1,0000-00-00,0000-00-00,Adana,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+69,20970854,100,26,2012-07-11,2014-03-07,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+70,20970854,1,24,2014-03-11,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+73,20829396,30,30,2013-11-25,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+74,20929984,113,5,2014-12-15,2023-03-15,Kayseri,Turkey,,14,8,1,2,2,2,1,4,2,3,1,0
+75,20930187,114,5,2015-01-12,2016-07-23,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+76,20930102,115,22,2014-12-17,0000-00-00,Ankara,Turkey,,3,7,4,4,4,5,5,3,2,4,3,0
+77,20829487,74,20,2014-07-15,2015-01-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+79,20829468,100,34,2014-07-11,2014-11-10,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+80,20829468,100,35,2014-11-10,2016-02-26,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+82,20929817,1,199,2015-03-23,2024-09-30,Ankara,Turkey,,13,7,5,5,5,5,5,5,3,4,5,0
+83,21030871,138,38,2010-08-01,2015-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+85,21030814,143,40,2015-02-10,2015-05-29,Bursa,Turkey,,3,5,5,5,5,2,5,5,5,5,5,0
+86,21031016,146,19,2012-08-01,2012-10-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+87,21030704,198,1,2014-08-24,2014-10-23,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+89,20727576,233,29,2013-06-06,2016-01-15,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+92,20930212,292,17,2015-03-16,0000-00-00,Çanakkale,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+96,20829507,14,47,2013-11-06,2016-08-26,Ankara,Turkey,,14,8,3,4,4,3,3,3,2,4,3,0
+99,21279769,307,51,2015-08-17,2016-02-19,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+101,21030938,61,56,2015-08-17,2016-04-04,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+102,20829622,15,57,2015-09-07,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+104,20901248,17,3,2014-08-27,2015-01-16,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+105,20929855,15,48,2014-11-17,0000-00-00,Ankara,Turkey,,13,6,3,1,4,1,2,3,3,1,3,0
+107,21031126,101,64,2015-09-28,2016-09-16,Zonguldak,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+108,21030919,335,65,2015-11-09,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+109,21030737,1,1,2016-01-04,0000-00-00,Ankara,Turkey,,14,8,4,3,4,5,3,2,4,4,4,0
+110,20829363,15,66,2015-11-09,2021-08-01,Ankara,Turkey,,14,8,5,5,4,4,5,4,4,4,5,0
+112,21131086,343,112,2015-12-08,2016-09-02,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+113,21030847,1,17,2016-03-01,2018-03-03,Ankara,Turkey,"ASELSAN/HBT/ÜPM/Production & Planning Engineer",9,5,4,4,4,5,4,3,3,3,3,0
+116,20930082,11,22,2016-04-04,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+119,21131163,16,47,2016-02-01,2016-06-01,Ankara,Turkey,,14,8,5,4,5,5,5,3,4,4,5,0
+122,21030809,365,20,2016-01-18,2018-07-27,Ankara,Turkey,,10,3,3,2,2,3,2,2,1,1,2,0
+123,21131177,341,20,2016-04-01,2019-12-06,Ankara,Turkey,,14,8,3,5,2,5,5,2,1,2,3,0
+124,20930116,366,75,2015-10-13,0000-00-00,Ankara,Turkey,,14,8,3,3,4,5,5,3,2,3,3,0
+125,20930082,207,45,2014-09-23,2016-02-29,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+127,20829377,15,210,2016-02-29,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,4,0
+128,20829435,370,251,2013-07-08,2016-08-31,Tekirdağ,Turkey,,3,1,5,3,3,4,3,3,2,4,4,0
+129,20829435,371,20,2012-07-09,2013-07-01,İstanbul,Turkey,,14,3,2,2,3,4,3,2,1,2,2,0
+130,20829693,72,77,2015-09-14,2019-03-01,İstanbul,Turkey,,14,8,5,5,3,5,5,4,3,5,4,0
+131,20901248,15,78,2015-10-20,2019-06-30,Ankara,Turkey,"Responsible Programs:
+AIRBUS - PAG SA Section 19 Shells & Barrel Program
+T70 - Turkish Utility Helicopter Program (Sikorsky)
+AIRBUS A321/320/319 SEC-18 Panels of Fuselage Prg.
+AIRBUS LR VTP Rudder Program 
+Spirit Aero Systems Programs
+
+
+
+Responsibilities:
+Creating, managing and monitoring the steering schedules (MS Project),
+Critical path analysis,
+Managing and monitoring Master Production Schedules and feed them into the ERP system,
+Ramp-up analysis for starting programs,
+Presenting weekly/monthly manufacturing status to the upper management, the program team and the customers (Boeing, Airbus, and Sikorsky),
+Presenting KPI Reports,",3,8,3,2,4,3,2,3,1,4,2,0
+132,21030718,50,48,2016-04-20,2018-04-27,Manisa,Turkey,,3,8,2,2,2,3,2,1,1,1,2,0
+133,21030885,425,22,2015-12-21,2017-04-21,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+134,21131254,30,10,2016-04-04,2017-05-12,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+136,21030938,376,80,2016-04-04,2016-12-05,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+137,20929822,377,15,2015-11-10,2017-01-19,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+138,20929822,50,49,2014-09-18,2015-07-31,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+139,21030943,29,81,2015-09-14,2016-09-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+140,21279769,100,441,2016-03-01,2019-08-06,Kocaeli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+141,21031054,11,6,2015-11-02,2017-04-06,Ankara,Turkey,,13,8,3,3,3,2,2,1,1,2,3,0
+143,20727595,381,10,2011-10-10,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+144,20727595,381,83,2012-12-01,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+145,20930168,382,20,2015-04-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+146,20727672,208,565,2014-08-01,0000-00-00,Ankara,Turkey,"Supervised production rate and analyzed stock records. Maintained inventory records to identify the amount of materials available at any time. Monitor and ensure accuracy of all inventory transactions and maintain records of warehouse locations. Analyze non-moving and slow-moving inventory. Analyze and report missing part and first pass yield rate.",14,5,5,5,4,5,5,5,3,4,4,0
+147,20829487,74,33,2015-01-30,2015-08-14,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+148,20930154,43,13,2012-11-05,2015-06-12,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+149,20829669,77,20,2013-07-22,2016-10-14,İstanbul,Turkey,,14,1,0,0,0,0,0,0,0,0,0,0
+150,20929998,340,67,2012-05-12,2015-12-31,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+151,20929888,386,5,2014-12-02,0000-00-00,Konya,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+152,20930025,89,17,2015-12-15,2018-09-15,Bursa,Turkey,"Technical Capacity Planning (TPZ) Coordination
+• Strategic capacity and investment planning for high pressure injector types
+• Systematic improvement of capacity and investment planning
+• Deriving flexibility strategy to eliminate capacity bottlenecks
+
+Investment Coordination
+• Investment coordination, tracking and budget release process
+
+Target Business Plan Coordination
+• Key performance indicator targets definition with ratio projects
+
+Project Management
+• Project leading of new injector releases in a global team
+• Coordination of line modifications, process FMEA, control plan and work instructions updates
+• Product quality, capability evaluation and lessons learned implementation
+
+Engineering Change Management
+• Engineering change requests coordination
+
+Sample Production Coordination
+• Standardization and traceability in sample productions",14,8,0,0,0,0,0,0,0,0,0,0
+155,20829492,92,207,2014-01-26,2015-03-11,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+156,20829492,94,449,2015-03-11,2021-04-05,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+158,N14115597,373,29,2014-01-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+160,N14115597,373,85,2012-10-01,2014-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+161,20727452,15,24,2015-10-19,2021-11-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+162,N14213260,391,86,2013-09-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+165,N14217303,241,17,2018-10-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+167,N14319892,323,59,2011-08-07,2014-04-13,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+168,N14319892,395,57,2014-04-21,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+170,21030899,357,87,2016-05-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+171,21030899,396,32,2015-03-16,2016-03-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+174,N14216535,5,5,2013-10-07,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+176,N14317612,334,29,2004-06-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+178,N14112106,331,50,2014-11-02,2017-01-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+179,N14112106,306,50,2013-09-02,2013-11-14,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+180,20727653,399,73,2011-09-12,2014-02-28,İstanbul,Turkey,,3,5,5,5,4,5,5,4,3,5,5,0
+181,20727653,76,32,2014-03-03,2015-12-26,Ankara,Turkey,,3,3,5,4,3,5,3,4,3,4,4,0
+182,20727653,357,32,2015-12-28,2018-01-01,Ankara,Turkey,,1,3,5,4,5,4,4,4,5,4,5,0
+184,21031035,404,88,2016-02-01,0000-00-00,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+185,20829603,405,54,2014-02-10,2016-09-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+186,N14111765,192,1,2012-08-29,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+188,20930063,29,9,2014-08-06,2016-02-29,Gebze,Turkey,"• Maintaining/reducing total lead time to stores, ensuring minimum shortage rate and maximum shelf availability in stores, taking into consideration FIFO and order type urgency.
+
+• Managing logistics tendering and carrying out negotiations for selection of service providers, doing monthly follow-ups on selected partners via face-to-face performed quantitative QMRs.
+
+• Preparing stores’ transportation budget to Finance. Monitoring stores’ transportation costs, overstock costs and cost-per-item to ensure they stay within their budgets.
+
+• Keeping in contact with stakeholders such as Regional Managers, Store Managers, Store Operation Managers, Logistics service providers, Commercial, Supply and Finance, to review and integrate seasonal & annual priorities, and act coherent as a whole.
+
+• Ensuring best practices are performed to minimize product handling time in stores, optimize
+personnel cost, and improve efficiency.
+
+• Performing goods reception audits in Decathlon stores in Turkey. Ensuring reception procedure is done conforming to standards.
+
+• Evaluating customer (store) satisfaction and know-how, being first-hand responsible from
+communication between warehouse and stores.
+
+• Managing implementation of quality corrective actions taken by Decathlon's own brands, for Turkey stock. Likewise, managing Decathlon brands to start worldwide analysis on technical issues found in Turkey stock.
+
+•Happy team management, remaining flexible for changes, critical decision making that has impact on warehouse operations’ running smoothly.
+
+• Representing warehouse in inter-departmental meetings with stakeholders.",3,8,4,5,3,5,5,5,4,4,4,0
+189,20930063,29,391,2016-03-01,2016-06-30,Lille,France,"HOPE Project is a 4-month, intensive training which from all around the world, potential future leaders of Decathlon, join. This training covers:
+
+• Block courses gathered in 3 main topics: Strategy, Operation and Management
+• Learning how to work in project-mode
+• Supporting the company’s development through targeted workshops
+• Comparing similar and different business models to Decathlon’s.",14,8,4,5,3,5,5,5,4,4,4,0
+190,20930063,29,89,2016-07-01,2016-12-31,İstanbul,Turkey,"• Providing the best service for customers & sports users to discover and practice sports, offering a range of best-price-for-quality products to customers, within the commercial policy of the brand and store.
+
+• Ensuring a profitable business by managing relevant stock, sales and budget.
+
+• Recruiting, training and managing a happy team. Building up skills and potentiality, encouraging
+athletic mind and body, integrating freedom & responsibility through the company values. Preparing future managers.",14,8,4,5,3,5,5,5,4,4,4,0
+191,20930044,29,81,2015-02-02,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+192,20727648,1,1,2016-01-04,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+193,20727648,79,11,2012-07-02,2015-12-14,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+194,20829487,385,28,2015-09-15,2016-09-02,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+195,20930006,410,92,2016-04-01,0000-00-00,Mersin,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+196,20727433,84,17,2013-07-01,2014-12-31,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+197,20930135,1,94,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+198,21030957,11,1,2016-04-18,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+199,20829564,82,33,2014-01-20,2019-11-01,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+200,20829564,415,17,2012-11-12,2014-01-17,Kocaeli,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+202,20727691,1,17,2016-05-10,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+203,21030742,45,95,2015-09-28,2017-11-27,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+204,21031016,384,96,2015-08-03,2016-11-04,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+205,21073479,75,10,2015-09-17,0000-00-00,Kocaeli,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+207,20727499,85,15,2013-03-25,2017-06-23,Ankara,Turkey,,14,8,2,4,4,4,5,3,2,3,3,0
+209,N12220772,360,59,2012-04-24,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+210,21130898,419,99,2016-06-06,2016-12-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+211,20929893,420,20,2015-04-13,2016-02-15,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+212,21030814,392,248,2015-11-02,0000-00-00,Ankara,Turkey,,1,8,5,5,4,5,5,5,5,5,4,0
+213,21031107,421,101,2016-01-04,2016-06-06,İstanbul,Turkey,"Merchandising of raw materials, Production Planning,PLM",14,8,0,0,0,0,0,0,0,0,0,0
+214,21031107,16,274,2016-06-06,2019-05-30,İstanbul,Turkey,"New Production Facility Projects,
+Budget and Long Term Planning,
+Agile and Industy 4.0 Audits,
+Industry 4.0 Projects Development and Integration,
+Business Intelligence Platform Developer",14,5,0,0,0,0,0,0,0,0,0,0
+215,20970651,422,5,2011-09-06,2015-03-10,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+216,20970651,94,416,2015-03-11,2018-07-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+217,21073451,1,94,2015-11-16,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+219,21030679,392,100,2015-11-02,2016-06-03,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+220,21030679,1,24,2016-06-14,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+222,21171288,69,265,2016-08-01,2017-08-01,İstanbul,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+223,21073451,302,48,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+226,21131091,89,108,2016-07-01,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+227,21131067,15,111,2016-07-18,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+232,21030871,45,87,2015-10-01,2015-12-24,Eskişehir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+233,21030871,1,17,2016-02-08,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+234,21131202,93,11,2016-08-01,2019-04-01,İstanbul,Turkey,,14,8,3,2,5,5,2,2,1,1,3,0
+237,21232427,208,58,2016-06-08,2017-05-18,Ankara,Turkey,,3,2,0,0,0,0,0,0,0,0,0,0
+238,20929932,15,47,2016-07-18,0000-00-00,Ankara,Turkey,,14,8,4,3,4,5,2,3,3,4,3,0
+239,21031049,442,24,2016-07-18,2016-09-05,Kayseri,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+240,20727576,1,24,2016-01-18,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+241,20829545,446,5,2016-06-01,2016-11-30,Lappeenranta,Finland,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+242,21030866,425,32,2016-07-25,2018-11-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+243,21131106,376,116,2016-08-01,2017-05-18,Yalova,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+244,20970821,99,117,2012-01-01,2014-12-31,Aksaray,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+245,20829454,453,118,2014-09-01,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+246,20829454,454,119,2013-02-01,2014-06-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+247,20829306,455,17,2012-07-01,2014-04-30,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+248,20727601,11,121,2016-04-01,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+249,20727601,11,122,2012-10-01,2016-03-31,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+250,20829641,458,94,2014-10-01,0000-00-00,Antalya,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+251,20829641,459,10,2013-09-01,2014-10-31,Antalya,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+252,21131273,99,126,2016-07-19,2017-09-22,Aksaray,Turkey,"-Configuration and monitoring current and anticipated investments 
+- Controlling and execution of investment-demand and general expenses’ demands
+- Processing and updating of allowable and actual budget plan",14,8,0,0,0,0,0,0,0,0,0,0
+253,21131111,392,100,2016-07-13,2018-05-28,Ankara,Turkey,,14,8,1,3,1,5,3,1,1,4,2,0
+254,21131221,16,20,2016-08-17,0000-00-00,İstanbul,Turkey,"Yurtiçi satış alanındaki (Bayi ERP sistemi, e-Commerce, Fiyatlandırma, Prim Sistemleri, CRM Sistemleri vs.) müşteri ihtiyaçlarının belirlenmesi, süreçlerin iş analizi metotlarıyla analiz edilmesi ve tasarımı, dokümantasyonu, test senaryolarının hazırlanması, kullanıcı testlerinin organize edilmesi ve yapılan geliştirmelerin doğrulamalarının yapılması",9,3,4,4,5,4,4,4,3,3,4,0
+255,20727414,38,130,2016-08-16,2017-08-26,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+256,20929836,475,11,2015-01-05,2018-01-19,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+257,21131196,478,94,2016-09-05,2016-11-03,İzmir,Turkey,,10,5,3,2,3,3,2,2,1,1,1,0
+258,21232614,482,255,2016-09-19,2018-01-11,İstanbul,Turkey,Promotion,14,8,0,0,0,0,0,0,0,0,0,0
+259,21031126,101,131,2016-09-19,2018-06-28,Zonguldak,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+260,21131163,16,136,2016-06-01,2018-02-13,Ankara,Turkey,,9,8,5,4,5,5,5,3,4,4,4,0
+261,21232671,11,58,2016-09-21,2017-06-30,İstanbul,Turkey,"-Managing projects to successfully deliver solutions for Information Technology specifically for ITSM to improve efficiencies. Working knowledge of ITSM/ITIL concepts and processes.
+
+-Experience in following areas: SAP HCM Payroll, Time & Attendance, Travel Expense Management, Organizational Management, Personnel Administration, ESS/MSS, and Benefits Open Enrollment.
+
+-Establishment of models using operational techniques, testing of the model, making necessary improvements and corrections on the model according to the test results, to provide an optimal solution to the probabilistic problems identified in the system development project as needed.
+
+-Providing coordination and information flow between the project teams of the Presidency and user units during the system design and implementation phases.
+
+Location: Turkish Airlines Information Technologies",13,3,0,0,0,0,0,0,0,0,0,0
+263,N16117016,30,259,2013-09-29,2018-01-05,Ankara,Turkey,"Kick-started her career as a management trainee, promoted to permanent
+engineering position in six months. Took various responsibilities under Supply
+Chain and Logistics Departments; worked for Spare Parts Order  Management, System Design Team in Material Management and served a cross-functional role in Change Management. Had side responsibilities such as white collar union representation, reverse mentoring, designated delegate for orientation and quality audits.",3,8,5,5,5,5,5,5,5,5,5,0
+266,N15212964,583,21,2014-04-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+269,N14313598,15,86,2015-03-09,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+270,21232336,208,142,2016-06-21,2017-05-12,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+271,21232685,208,58,2016-06-21,2017-02-01,Ankara,Turkey,,3,5,5,5,5,4,4,5,1,5,3,0
+272,N15218437,15,59,2015-05-05,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+273,21031049,425,32,2016-09-19,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+274,N16118389,510,173,2013-07-22,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+275,21279741,425,32,2016-09-19,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+276,N15213891,511,54,2013-09-16,2018-05-31,Ankara,Turkey,"Optical design team leader
+–	Optical design by using ZEMAX, for example designing binoculars provided 4 magnification 
+–	Studying practically on integration of optical system and alignment of optical system 
+–	To take part in optical design, production, integration, test processes and project management of a research and development project that is aimed for national design and national production of Head Up Display of F-16 aircrafts 
+o	Analyzing optical components of system which are lenses, mirror and combiner and making physical and optical measurements of lenses such as radius, focal point, center thickness, diameter, chamfer etc.
+o	Writing periodically project progress reports of this project
+o	Writing all documents of this project such as system requirement document, system design description document, acceptance test procedures, assembly plan and instructions etc.
+o	To attend meetings in Undersecretriat for Defence Industries and making presentation in these meetings
+–	Making heat and light transmission measurements in case of customer individual needs
+–	To participate actively in production whenever necessary, for example, assembling objective and thermal core of thermal camera in the first part of serial production and making adjustments of focus and image features such as contrast ratio
+–	To maintain risk  management activities for AV-8 thermal cameras in mass production as a risk  manager
+–	Using some environmental test instruments such as climatic chamber, submersion test station, falling test station etc",1,7,3,3,2,4,3,4,1,5,3,0
+277,N15213891,405,54,2012-09-17,2013-09-11,Ankara,Turkey,"–	According to DIN standards, making tests related to temperature and pressure on products during R&D process and improving solution in case of unexpected test results
+–	Making final performance tests on products completed R&D process considering customer questions in coordination with marketing and exportation department
+–	To participate in research about freeze dryer technology
+–	Preparing product’s technical files including test reports, technical specifications, user’s and service manuel etc. 
+–	Giving both domestic and international technical service education",14,8,5,5,3,5,5,5,3,5,5,0
+278,N14313730,512,144,2012-05-21,2019-02-11,Ankara,Turkey,,14,8,2,3,2,1,1,3,1,1,2,0
+279,N16115574,513,145,2014-09-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+280,N16110095,516,54,2014-01-06,2014-06-20,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+281,N16110095,517,47,2016-01-18,2016-01-29,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+284,N15215540,528,59,2015-07-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+285,21232341,99,36,2016-09-21,2017-06-02,Aksaray,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+287,21130851,208,7,2016-10-21,2017-02-15,Ankara,Turkey,,9,5,4,2,4,3,4,2,1,2,4,0
+289,21232795,99,36,2016-09-21,2017-05-31,Aksaray,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+290,20829507,370,148,2016-09-19,2022-01-31,Ankara,Turkey,,14,8,4,4,4,5,4,3,3,2,4,0
+291,21031087,389,84,2016-11-01,2019-09-30,Anvers,Belgium,,14,8,5,0,5,5,5,5,1,4,4,0
+293,20929965,539,150,2015-11-23,0000-00-00,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+295,21001032,542,144,2015-10-07,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+296,21131086,543,32,2016-09-05,2016-12-31,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+297,N16123506,544,50,2016-05-23,2018-09-02,Ankara,Turkey,"Software developer",1,7,3,4,2,5,2,4,4,4,3,0
+298,N14212998,425,32,2014-04-01,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+299,N14312871,377,1,2011-08-01,2013-01-01,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+300,N14211361,559,151,2014-02-01,2018-02-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+301,N14211361,360,152,2011-09-11,2014-01-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+302,N15213667,560,1,2010-02-15,2012-12-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+303,N14211361,350,153,2008-03-23,2010-03-21,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+304,N15213667,561,137,2013-01-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+305,N16114015,563,59,2016-01-25,2017-05-29,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+310,N16119379,322,1,2014-08-10,2014-12-22,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+311,N16119379,567,94,2015-06-14,2016-07-03,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+314,N16118647,568,154,2015-06-22,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+315,N14313571,397,155,2011-07-04,2013-09-13,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+316,N14313571,569,114,2013-09-16,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+317,N16110582,572,64,2013-07-01,2016-07-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+318,N16110582,573,86,2014-05-05,2018-01-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+320,N14110065,577,158,2015-05-11,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+321,N14115514,1,114,2012-09-03,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+322,N16116250,985,386,2018-11-18,2027-12-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+323,N15210332,582,47,2013-03-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+324,N14114299,360,69,2011-06-01,2013-04-19,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+325,N14114299,633,70,2008-03-03,2011-06-10,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+326,N14114299,584,69,2013-04-21,2015-06-12,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+327,N14114299,585,159,2015-06-22,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+328,N16116888,73,24,2015-04-01,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+329,N15215518,586,86,2014-10-23,2016-08-26,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+330,N15215518,587,57,2016-08-29,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+331,21232757,143,40,2016-10-03,2017-05-30,Bursa,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+332,N15217329,15,160,2010-02-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+333,21030828,590,24,2015-07-06,2015-12-11,Tekirdağ,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+334,21030828,591,161,2016-12-05,2017-08-21,Tekirdağ,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+335,21131001,592,24,2016-12-21,2023-02-10,İstanbul,Turkey,"Malzeme ve satış planlama",3,8,3,3,3,4,4,3,2,4,3,0
+336,21232432,99,36,2016-09-21,2017-06-02,Aksaray,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+337,N14219929,193,54,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+338,N14219929,594,55,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+339,N14219929,30,55,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+340,21232297,143,120,2016-10-03,2017-05-21,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+341,N14218116,38,162,2013-09-08,2015-12-01,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+343,N15218476,596,163,2012-11-12,2017-01-15,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+344,N15218476,597,86,2016-03-21,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+345,N14317902,600,41,2015-06-05,2016-05-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+346,N14317902,601,47,2016-05-02,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+347,N14313379,602,137,2015-05-11,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+348,N14217599,581,22,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+349,N16217946,604,165,2015-05-01,2018-08-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+350,N14311389,608,167,2014-06-09,2015-03-13,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+351,N14311389,609,168,2015-04-20,2015-10-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+352,N14311389,610,41,2015-10-26,2016-09-30,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+353,N14311389,611,169,2016-10-03,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+354,21232446,64,43,2016-12-06,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+356,20930187,612,5,2016-10-19,2018-12-31,Ankara,Turkey,,14,8,1,1,1,2,1,2,1,4,1,0
+357,N14112724,613,151,2014-06-04,2016-11-04,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+358,N14112724,359,170,2017-11-10,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+359,N16213242,615,50,2015-12-10,2017-02-28,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+360,N16115268,616,171,2017-02-13,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+361,N16115268,619,171,2016-09-15,2017-02-11,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+362,N16211348,620,69,2017-01-02,2018-12-17,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+363,N16211348,615,172,2016-01-15,2016-12-20,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+364,N16211348,621,77,2015-10-15,2016-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+365,N16211348,622,77,2013-04-05,2015-10-14,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+366,N16211348,510,173,2010-01-05,2013-04-04,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+367,N16211348,622,173,2008-12-17,2010-01-04,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+368,N14211761,193,17,2013-12-01,2015-02-06,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+369,N14211761,195,86,2015-02-07,2017-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+370,N14211761,195,174,2017-01-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+371,N14317711,629,47,2016-10-10,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+372,N14313730,631,41,2011-10-02,2012-05-17,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+373,N16213242,632,50,2017-03-06,2017-06-09,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+374,N15216525,15,41,2011-03-14,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+375,N15112776,633,70,2009-05-11,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+376,N14313817,634,1,2007-03-01,2008-03-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+377,N14313817,635,178,2009-04-01,2013-03-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+378,N14313817,635,179,2013-04-01,2015-03-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+379,N14313817,635,180,2015-04-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+380,N15216610,15,59,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+381,N15219318,30,10,2015-11-26,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+382,N14318889,1,55,2011-08-22,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+383,N15219394,1,181,2014-05-06,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+384,N15219394,644,181,2013-10-10,2014-05-01,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+385,N15219394,645,183,2010-10-05,2013-10-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+386,N16113151,365,201,2017-02-01,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+387,21332225,646,184,2016-10-16,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+388,N15210491,30,30,2014-02-02,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+389,N15217787,76,32,2013-10-07,2015-03-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+390,N15217787,357,32,2015-04-06,2016-10-07,,,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+391,N15217787,650,32,2016-10-10,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+392,N16119688,651,187,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+393,N16114633,449,188,2015-10-01,2016-04-01,,"Russian Federation",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+394,N16110175,649,186,2015-01-01,2017-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+395,N16110175,654,186,2017-01-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+396,N15216721,51,167,2013-08-01,2017-09-11,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+397,20829339,11,189,2017-02-06,2019-02-13,İstanbul,Turkey,,14,8,5,5,5,5,5,5,5,2,5,0
+399,N15212474,30,10,2014-03-05,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+401,N16217946,496,191,2007-08-30,2010-09-01,,Qatar,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+402,N16217946,656,191,2010-09-05,2012-09-27,,"Saudi Arabia",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+403,N16217946,604,191,2012-10-10,2015-04-30,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+404,N16217946,657,191,2007-02-01,2007-08-01,,Niger,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+405,N16212234,658,190,2007-08-01,2009-06-01,Sakhalin,"Russian Federation",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+406,N16212234,659,190,2009-09-01,2010-06-01,Tblisi,Georgia,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+407,N16212234,660,165,2010-06-15,2013-05-15,Basra,Iraq,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+408,N16217946,661,191,2006-09-01,2007-01-31,,"Saudi Arabia",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+409,N16212234,662,174,2014-08-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+411,N14317314,665,50,2013-06-01,2015-08-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+412,N14317314,364,194,2016-04-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+414,N15216677,668,195,2016-07-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+415,21030794,67,73,2015-12-20,2017-01-20,İzmir,Turkey,,3,8,4,4,5,5,5,5,4,5,4,0
+416,21030794,30,73,2017-01-20,2017-10-26,Ankara,Turkey,,1,8,3,3,3,5,3,3,2,3,3,0
+417,N16117240,1,196,2017-02-05,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+418,N16115796,78,170,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+419,N14213441,669,181,2013-10-27,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+420,N14115970,670,21,2014-09-15,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+421,N14313598,583,54,0000-00-00,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+422,21031054,1,256,2017-04-11,0000-00-00,Ankara,Turkey,,13,8,5,4,5,4,4,3,4,2,4,0
+423,N14212331,357,178,2016-04-25,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+424,21030938,671,197,2016-12-05,0000-00-00,Antalya,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+425,21030995,672,144,2016-08-05,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+426,21030995,673,198,2015-07-28,2016-08-05,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+427,20929893,78,20,2016-12-26,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+428,N14313085,30,83,2015-05-13,2017-07-28,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+429,20829487,676,20,2016-09-19,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+430,N16121595,677,330,0000-00-00,2017-07-21,Ankara,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+432,21030943,678,200,2016-10-02,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+433,N14214690,679,171,2016-09-10,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+434,N16212115,606,166,2016-06-15,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+435,N16212115,680,166,2013-11-26,2016-06-15,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+436,N16212115,681,166,2012-08-06,2013-11-21,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+437,N16113151,683,50,0000-00-00,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+438,N16113151,684,50,0000-00-00,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+439,21030885,1,15,2017-04-24,2018-07-31,Ankara,Turkey,"İnsan Kaynakları süreçlerinin sistematik takibi ve uygulanması.",14,8,0,0,0,0,0,0,0,0,0,0
+440,N16210877,685,343,2014-09-22,2020-10-23,Ankara,Turkey,,3,7,4,4,5,4,4,4,3,3,4,0
+441,N14119155,296,15,2016-02-10,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+442,N15217231,686,94,2013-03-25,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+443,N14210964,694,191,2013-04-01,2013-06-30,Novosibirsk,"Russian Federation",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+444,N14210964,693,191,2013-08-01,2013-12-31,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+445,N14210964,692,24,2014-01-01,2014-06-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+446,N14210964,691,191,2014-07-01,2017-09-04,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+447,N14210964,690,24,2017-05-10,2018-06-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+448,21031112,53,86,2014-08-28,2014-12-21,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+449,21031112,53,17,2014-12-21,2017-07-28,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+450,N14113961,701,41,2015-06-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+451,20727471,702,205,2011-09-05,2014-05-30,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+452,21030756,37,24,2015-12-28,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+453,21130956,30,206,2015-07-06,2017-05-15,Ankara,Turkey,"Main responsibility is evaluating customer special requests(SCR) and checking the overall offer plausibility. So that offers, which sent by MAN Branches and describes the vehicle with code choices and special requests, are now ready to order.
+   Asisting vehicle inspections and monitoring vehicles in the production , mainly in point of CSR view.
+    Communication between engineering/production and salesman/customer",14,8,0,0,0,0,0,0,0,0,0,0
+454,20727447,705,1,2013-08-05,2014-01-03,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+455,20727447,92,207,2012-01-02,2013-08-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+456,20727447,706,208,2011-07-04,2011-12-30,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+457,20929908,707,1,0000-00-00,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+458,21130918,45,444,2015-11-02,2020-05-31,İstanbul,Turkey,,3,4,4,3,4,5,5,3,2,4,3,0
+459,20829377,709,211,2013-02-04,2013-06-28,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+460,20829382,713,17,2015-04-08,2015-08-28,Balıkesir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+461,21131034,716,26,2016-10-03,2017-12-01,Antalya,Turkey,,3,8,1,2,3,4,3,4,2,3,3,0
+462,21101691,446,5,2017-03-01,0000-00-00,Lappeenranta,Finland,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+463,20829473,718,24,2014-01-27,2014-03-28,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+464,N16215528,69,212,2016-10-03,2018-08-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+465,N16215528,721,213,2013-05-01,2016-01-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+466,N14212331,722,178,2012-01-02,2014-01-03,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+467,N14212331,723,178,2014-01-06,2016-04-22,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+468,N15212964,724,1,2012-01-02,2013-01-04,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+469,21030981,726,111,2016-01-04,2018-09-10,Konya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+470,N14316270,329,167,2014-07-01,2015-06-26,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+471,N14316270,329,62,2015-06-29,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+472,N14316270,729,214,2016-11-01,2017-01-27,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+473,N15216677,731,137,2015-11-30,2016-06-30,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+474,20727686,482,103,2012-12-03,2014-04-25,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+475,20727686,6,1,2011-11-07,2012-12-01,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+476,20727691,683,15,2013-04-01,2013-06-28,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+477,20727706,733,215,2012-09-03,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+478,20727706,734,216,2011-06-06,2011-09-30,"New York","United States",NULL,14,8,0,0,0,0,0,0,0,0,0,0
+479,20901272,739,217,2016-11-07,0000-00-00,,Indonesia,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+480,20901272,739,26,2015-11-02,2016-11-04,,Indonesia,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+481,21279813,16,218,2017-02-06,0000-00-00,Kocaeli,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+482,N14314604,742,219,2015-09-07,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+483,N14315528,414,83,2011-09-05,2013-01-07,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+484,N14315528,30,83,2013-01-07,2014-10-03,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+485,N14315528,30,220,2014-10-06,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+486,N14214876,318,53,2013-05-06,2013-07-26,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+487,N14214876,692,53,2013-07-01,2013-11-29,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+488,N14214876,744,221,2015-04-06,2016-09-02,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+489,N14214876,593,222,2016-11-04,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+490,N15217936,746,54,2016-12-05,2017-04-04,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+491,21030698,748,223,2011-11-07,2012-07-27,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+492,21030698,749,224,2012-08-06,2013-03-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+493,21030698,750,225,2013-05-06,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+494,21130884,751,15,2016-11-15,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+495,20727433,754,47,2013-02-04,2013-06-28,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+496,20727433,755,226,2016-06-06,2017-10-15,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+498,20829358,757,227,2016-06-06,2019-11-07,Ankara,Turkey,"Weapon & Ammunition Systems",14,8,5,5,5,5,4,5,4,4,5,0
+501,N14117786,357,47,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+502,N14117786,759,1,2013-09-27,2014-02-28,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+503,20829512,79,230,2016-01-01,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+504,21030905,418,291,2015-08-03,2017-12-31,Kocaeli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+505,20727519,760,1,2012-09-03,2013-02-22,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+506,20727519,91,218,2014-08-04,2016-05-06,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+507,20727519,91,231,2016-05-09,2018-04-30,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+508,20929998,1041,340,2016-03-01,2020-01-15,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+509,20727557,765,111,2014-09-16,2016-01-17,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+510,20727557,766,232,2016-06-02,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+511,20727524,50,233,2015-06-01,0000-00-00,Manisa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+512,20727538,7,42,2012-10-01,2013-07-01,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+513,20727538,87,234,2014-04-01,0000-00-00,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+514,20829526,15,1,2015-11-02,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+515,20727543,1,173,2016-07-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+516,20829583,770,20,2016-04-04,2017-09-11,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+517,21031016,384,235,2016-11-07,2017-07-03,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+518,20829603,771,236,2012-05-01,2013-10-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+519,20829603,772,198,2013-10-02,2014-01-31,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+521,20829655,387,59,2014-08-04,0000-00-00,Kocaeli,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+524,20829545,658,237,2017-04-03,2019-04-01,İstanbul,Turkey,,14,8,4,5,3,3,4,4,1,5,4,0
+525,21030924,394,238,2015-09-01,2017-01-01,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+526,21030924,6,221,2017-01-02,0000-00-00,Bursa,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+527,N15218400,302,1,2014-11-03,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+528,N16116315,780,239,2016-08-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+529,N14311982,30,240,2014-01-06,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+530,N14212998,76,173,2013-11-04,2014-03-31,İstanbul,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+531,N16123506,784,173,2014-11-03,2016-03-04,Ankara,Turkey,"Software developer and analyst",3,3,1,2,3,4,5,4,3,2,1,0
+532,N14126202,581,241,2014-07-07,2015-12-25,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+533,N14126202,78,242,2015-12-28,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+538,N14125864,795,245,2013-08-05,2015-05-29,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+539,N14125864,581,15,2015-05-04,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+541,N14322941,797,22,2012-06-17,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+545,N14312871,354,1,2013-02-17,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+546,N14215266,15,247,2015-11-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+549,N16123408,26,1,2011-01-01,2012-12-31,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+550,N16123408,400,1,2012-07-01,2014-06-30,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+551,N16123408,15,248,2014-07-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+552,N16114862,801,137,0000-00-00,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+553,N14112435,322,59,2005-12-20,2011-01-20,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+554,N14319296,802,47,2013-05-01,2017-05-01,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+555,N14319225,5,72,2014-07-01,0000-00-00,,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+556,N14212755,69,245,2010-09-13,2015-05-21,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+557,N14212755,757,245,2015-05-24,2016-11-18,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+558,N14116854,365,28,2005-12-20,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+559,N14111447,357,173,2014-03-11,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+560,N14117453,803,171,2015-03-31,2017-07-09,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+561,N14313100,804,250,2014-07-07,2017-12-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+562,N14218128,576,10,2016-07-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+563,N14316944,360,178,2017-11-04,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+564,N14316618,69,114,0000-00-00,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+565,20829435,370,252,2016-09-01,2017-06-30,İstanbul,Turkey,,1,1,4,3,3,4,3,4,3,3,3,0
+566,20727629,321,167,2012-09-03,2014-09-30,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+567,20727629,321,253,2014-09-01,0000-00-00,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+568,20727629,807,254,2011-09-01,2012-09-01,İzmir,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+569,N14119058,396,233,2016-05-02,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+570,N14117198,808,167,2016-08-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+571,21131106,1,1,2017-06-05,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+572,21232427,208,1,2017-06-19,2018-11-20,Ankara,Turkey,"Efficiency, Labor Planning and Control",8,5,2,2,3,3,3,2,2,3,3,0
+573,21232413,828,256,2017-06-28,2018-10-19,Ankara,Turkey,,14,8,4,4,4,4,4,3,3,3,4,0
+574,N16112179,354,29,2008-02-01,0000-00-00,Ankara,Turkey,NULL,14,8,0,0,0,0,0,0,0,0,0,0
+579,21232317,421,30,2015-01-04,2015-09-30,Ankara,Turkey,,1,4,3,3,3,3,3,1,1,1,2,0
+586,21232432,30,258,2017-07-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+588,21131182,89,259,2016-08-01,2018-05-04,Bursa,Turkey,,5,8,5,5,5,4,5,4,3,4,4,0
+589,21232561,376,200,2017-07-10,2020-03-01,Yalova,Turkey,,10,5,4,4,4,4,5,4,4,5,4,0
+590,N16111592,832,138,2014-06-10,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+591,N14319064,983,223,2016-03-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+592,N14329623,477,24,2013-06-29,2015-11-06,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+593,N14117538,425,74,2014-12-30,2015-09-30,Ankara,Turkey,"Operational Services Specialist",14,8,0,0,0,0,0,0,0,0,0,0
+594,N14117538,69,219,2015-10-01,0000-00-00,Ankara,Turkey,"Applicaton Operations Specialist",14,8,0,0,0,0,0,0,0,0,0,0
+595,N16114015,833,57,2017-05-29,2017-08-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+596,21232479,208,261,2017-07-06,2017-11-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+597,21130956,836,221,2017-06-01,0000-00-00,Munich,Germany,"Focus product : MAN Chassis. (Info : Three main segments follows like: Couch, City Bus, Chassis)
+Acquiring market demands related with the product Chassis and communicating/processing them with product management.
+Creating new producht ideas based on each markets or regions requirements, obligations and regulations. 
+Fairs, organizations like Bus World, IAA(Internationale Automobile Ausstellung).
+Processing master data of each products offer creation, to make the offer creators database parallel with real time changes over products, strategies etc.",14,8,0,0,0,0,0,0,0,0,0,0
+598,21232374,139,24,2017-07-10,0000-00-00,Ankara,Turkey,,14,8,5,5,5,4,5,3,3,5,4,0
+599,20829468,100,263,2016-03-01,0000-00-00,Dubai,"United Arab Emirates",,14,8,0,0,0,0,0,0,0,0,0,0
+600,21232795,1,17,2017-08-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+601,21232671,11,192,2017-08-07,2018-10-31,İstanbul,Turkey,"Experience with IT Service Management (ITSM / ITIL) and related incident systems
+Level 1 support
+Junior SAP HR Analyst
+Project Manager
+Certified Business Analysis Professional™ (CBAP®) – IIBA / PEM360",13,3,0,0,0,0,0,0,0,0,0,0
+602,21030704,839,198,2017-05-02,2018-10-11,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+603,21171288,69,264,2017-08-01,2018-07-06,İstanbul,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+604,21031068,700,15,2017-06-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+605,N14214057,69,42,2015-05-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+609,N16121595,723,375,2017-08-14,2020-02-14,Ankara,Turkey,,3,3,5,0,0,0,0,0,0,0,0,0
+610,21232484,139,17,2017-09-05,2020-09-14,Ankara,Turkey,,14,8,5,3,4,4,3,4,3,3,4,0
+611,21332005,208,58,2017-08-14,2018-06-08,Ankara,Turkey,"I am working on Industrial Engineering competencies such as project planning and carry out, time study, work analysis. It is a great opportunity for me to be in mass production and acquire Sap-Pm experience in this process",3,5,5,4,5,5,3,4,2,5,4,0
+612,21693497,75,268,2017-09-24,0000-00-00,Kocaeli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+613,21232801,19,197,2017-09-20,2017-11-23,Bursa,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+614,21030962,852,269,2017-09-01,0000-00-00,Eindhoven,Netherlands,,14,8,0,0,0,0,0,0,0,0,0,0
+615,N16217709,30,137,2017-09-28,0000-00-00,Mersin,Turkey,"Internal and External Audits, Quality Conformity Assurance, Documentation Management, Integration to Central Quality-Munich, Preparation and Update of Processes",14,8,0,0,0,0,0,0,0,0,0,0
+616,N17113663,392,47,2007-06-01,2009-08-01,Ankara,Turkey,"SIEMENS, ALSTOM, CMI, POLYSIUS gibi şirketlere yapılan çelik konstrüksiyon imalatları.",14,8,0,0,0,0,0,0,0,0,0,0
+617,N17113663,392,47,2009-08-01,2010-05-02,Sinop,Turkey,"Doğuş Inşaat, Sinop Boyabat Baraji ve Hes Inşaati Kapsamindaki Beton Santrallari ve Soğutma Üniteleri Çelik-Araçelik Imalatlari,  Montaji ve Doğuş Tarafindan Temin Edilen Ekipmanlarin Montaj İşi.(Beton santrali 2x270 m3 saat beton imalat kapasitesine sahiptir).",14,8,0,0,0,0,0,0,0,0,0,0
+618,N17113663,392,47,2010-05-01,2010-09-12,Ankara,Turkey,"Verhnebakanskiy Çimento Fabrikası Mekanik İmalatları",14,8,0,0,0,0,0,0,0,0,0,0
+619,N17113663,392,186,2011-03-01,2011-08-01,Çorum,Turkey,"Kargı Hes Projesi Prekast Segment Fabrikası İnşaatı",14,8,0,0,0,0,0,0,0,0,0,0
+620,N17113663,392,94,2011-08-01,2013-05-01,Çorum,Turkey,"Kargı Hes Projesi 12 km Uzunluğundaki Tünelin 4 km’lik Kısmı İçin Gerekli Olan Prekast Segment İmalatı (46.000 m3 prekast imalatı yapılmıştır)",14,8,0,0,0,0,0,0,0,0,0,0
+621,N17113663,392,186,2013-03-01,2014-03-01,Ankara,Turkey,"Şişecam Polatlı Düz Cam Fabrikası İnşaatı",14,8,0,0,0,0,0,0,0,0,0,0
+622,N17113663,392,412,2014-03-01,2015-05-31,Çorum,Turkey,"Kargı Hidroelektrik Santrali İnşaatı",14,8,0,0,0,0,0,0,0,0,0,0
+623,N17113663,392,272,2015-06-01,2016-01-01,İzmir,Turkey,"İzmir Tramvayı İnşaatı",14,8,0,0,0,0,0,0,0,0,0,0
+624,N17113663,392,100,2016-01-01,0000-00-00,Ankara,Turkey,IFS,14,8,0,0,0,0,0,0,0,0,0,0
+625,N17118787,853,191,2015-09-15,2017-09-05,İstanbul,Turkey,"Technical Office Engineer at SAW Airport",14,8,0,0,0,0,0,0,0,0,0,0
+626,N17118787,853,191,2017-09-05,0000-00-00,Ankara,Turkey,"Tendering Engineer",14,8,0,0,0,0,0,0,0,0,0,0
+627,21232369,1,24,2017-08-14,0000-00-00,Ankara,Turkey,,6,5,5,5,5,5,5,5,5,5,5,0
+628,N16213242,854,173,2017-06-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+632,N17110982,69,219,2013-06-25,2020-08-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+633,N17110982,857,219,2011-12-05,2013-06-24,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+634,N17110982,681,50,2010-05-17,2011-12-03,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+635,20829655,858,273,2017-08-21,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+636,N17136814,5,5,2017-03-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+637,N14112106,862,137,2017-09-05,2018-07-04,Ankara,Turkey,"Bilgi Güvenliği Yönetim Sistemi'nin uygulanması CMMI süreçlerinin uygulanması ve yazılım kalite süreçlerinin doğru yapılmasını denetleme, yazılım kaliteyle ilgili gerekli işlerin yürütülmesi ve proje yöneticiliği yapılmaktadır",14,8,0,0,0,0,0,0,0,0,0,0
+638,21232757,1,17,2017-10-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+639,21232762,208,274,2017-10-04,2018-05-11,Sakarya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+640,21693588,29,134,2016-10-23,2016-12-12,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+641,21331984,576,68,2017-08-07,2018-03-25,Ankara,Turkey,"-Arranging interviews for blue collar personnel,evaluation of interviews,placement of persons into sections,
+- The entrance and exit of the personnel , the registration process of the new personnel to the Logo program,
+-To make execution correspondences, to provide the personnel and information in the cases with related persons,
+-Making the desired monthly reports.
+-",9,8,0,0,0,0,0,0,0,0,0,0
+643,21430881,873,105,2017-09-21,2017-12-21,Ankara,Turkey,"I am working at Verart Group Interior Architecture and Engineering Limited Company as a Foreign Trade Specialist. Also I think this role will give me direct experience about being industrial engineer.",14,8,0,0,0,0,0,0,0,0,0,0
+644,N17135782,208,275,2013-03-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+646,21332148,72,276,2017-10-02,2018-09-25,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+647,21131292,710,274,2017-06-28,2017-07-20,Eskişehir,Turkey,,3,5,1,1,1,1,1,1,1,1,1,0
+648,21131292,912,26,2017-10-19,2018-02-02,Eskişehir,Turkey,,3,8,1,1,1,1,1,1,1,1,1,0
+649,N17133502,913,221,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+651,20930039,425,198,2016-07-18,2017-11-17,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+652,21130851,50,277,2017-11-01,2018-07-30,Manisa,Turkey,,3,5,2,2,1,4,2,2,1,2,2,0
+653,21030828,1320,461,2017-09-18,2019-06-28,Tekirdağ,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+654,N16110246,392,257,2015-04-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+655,21332282,576,58,2017-09-25,2017-10-27,Ankara,Turkey,"My main duty was make and keep track records of bank transactions on SAP in the finance department.",1,8,1,2,1,4,1,1,1,1,1,0
+656,21332282,208,58,2017-11-01,2018-06-08,Ankara,Turkey,"• SAP - tracking, analyzing, reporting, correcting and improving the systematic COGI error records.
+• Responsible for counting, analyzing and correcting the parts used in production throughout the factory.",3,8,5,5,3,5,5,5,2,5,4,0
+657,20930096,400,361,2017-11-08,0000-00-00,Eskişehir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+658,21232322,30,10,2017-11-15,2018-03-28,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+659,21332211,99,36,2017-11-13,2018-06-01,Aksaray,Turkey,,13,8,4,4,5,5,4,4,2,4,4,0
+660,N17116388,30,55,2017-10-16,2018-07-26,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+661,N17137468,449,194,2017-04-10,0000-00-00,Ankara,Turkey,"İş zekası (BI) uygulamalarının geliştirilmesi
+Mevcut raporların bakımı, desteği
+Gelen taleplerde projelerin geliştirme harici her aşamasında (analiz, test, vb.) aktif rol alınması
+Müşteri isterlerinin toplanması, gerekliliklerin tespiti, önceliklendirilmesi
+Gerekli durumlarda müşterinin ve/veya geliştiricinin yönlendirilmesi
+Müşteri isterlerine bağlı olarak ilgili platformun seçilmesi ve raporların geliştirilmesi
+Projelerin analizi, test süreçlerinin yürütülmesi, raporlanması, sunum hazırlıklarının yapılması",14,8,0,0,0,0,0,0,0,0,0,0
+662,N17137468,91,214,2014-02-10,2017-04-07,İstanbul,Turkey,"Müşteri taleplerinin doğru ve eksiksiz toplanması.
+Uygulama geliştirme proje faaliyetleri.
+Analiz, test, vb. aktif rol alınması
+Uygulama geliştirme sonrasında eldeki verilerin raporlanması ile bu verilerin müşteri için anlamlı hale getirilmesi,  her düzey yöneticinin karar vermelerinde ve yönetsel faaliyetlerinde destek sağlanarak etkinliğin ve verimliliğin artırılması",14,8,0,0,0,0,0,0,0,0,0,0
+663,N17137468,917,50,2013-01-14,2014-01-31,Kocaeli,Turkey,"Uygulama geliştirme, analiz, test, vb. proje faaliyetlerinde aktif rol alınması Uygulama geliştirme sonrasında eldeki verilerin raporlanması ile bu verilerin müşteri için anlamlı hale getirilmesi, on-side müşteri kurulum ve desteği",14,8,0,0,0,0,0,0,0,0,0,0
+664,N16112737,574,86,2016-03-07,2017-01-17,Ankara,Turkey,"Günlük-haftalık boyahanede boyanacak malzemelerin belirlenmesi. Canias ERP üzerinden üretim planı ve elde olan malzeme miktarına göre günlük boyanacak boya kodlarının sıralarının belirlenmesi. Boyahanede günlük boya testlerinin yapılması. Kalınlık testi,darbe testi,croscat testi,boya kalınlıklarının ayarlanması,tuz sis testine numune gönderilmesi. Boyahane tesisinin haftalık ve aylık bakım kontrol tarihlerinin belirlenmesi. Kullanılan kimyasalın günlük ölçümü,kazanların yıkanma sürelerinin belirlenmesi,baraların değişim süreleri. Otomatik ve manuel boya robotunun bakım malzemelerinin gerekli zamanlarda değişimlerin sağlanması Günlük boya miktarlarının Canias ERP üzerinden düşülmesi. Belirlenen boya stok seviyelerine göre planlama bölümüne boya siparişlerinin bildirilmesi. Satış birimlerinden oluşturulan siparişler içerisindeki boya kodlarının incelenmesi özel boyalar varsa siparişlerin belirlenmesi Haftalık listeye göre yapılacak kalıpların belirlenmesi Kalıpların eksik olan saclarının bildirilmesi Poliüretan oluşumu için kullanılan polyol ve izosiyanatın stok kontrollerinin yapılması ve sipariş verilmesi Poliüretan makinalarının kimyasala göre değerlerinin (basınç,sıcaklık,yoğunluk..) ayarlanması Kalıp sıcaklığı,ortam ısısı,press sıcaklıkları kontrolleri Poliüretanın testlerinin ve beraberinde makina kalibrasyonlarının yapılması Günlük olarak belirli saniyelerde alınan serbest döküm poliüretan numunesinin tartılması,ürünün oluşum sürelerinin incelenmesi,yoğunluk testlerinin yapılması",14,8,0,0,0,0,0,0,0,0,0,0
+665,N15212862,918,279,2017-04-01,0000-00-00,Ankara,Turkey,"Üretim hedeflerinin belirlenen kalitede, istenilen zaman ve miktarda gerçekleştirilmesini sağlamak, üretim raporların günlük ve haftalık olarak yönetim temsilcisine rapor edilmesi. 
+Üretim planlama, depo, satınalma ve satış birimleri ile koordineli çalışarak yeni alınan projelerinin üretim sürelerine ve teslim sürelerine karar verilmesi.
+Üretim organizasyon şemasının oluşturulması, ürütüm bölüm sorumlarının belirlenmesi, bölüm sorumlarının görev tanımlarının yapılması.
+Satış birimleri tarafından CANİAS erp üzerinde oluşturulan projelerinin incelenmesi, tespit edilen hatalarının satış birimi çalışanları ile paylaşılması, siparişlerin doğru açılmasının sağlanması. 
+CANİAS ERP ile Purt (malzeme isteklerinin kontrol edilmesi), Salt(satış siparişlerinin kontrol edilmesi), Bast (malzeme kartlarının kontrol edilmesi, malzeme stok kartlarının açılması), Mrpt (tek kalem üründe mrp çalıştırılması), Prdt (iş bitiş onayşlarının verilmesi), Bomt (ürün ağaçlarının oluşturulması) ve Rout (ürün imalat rotalarının çıkarılması)
+Personelin, makine ve ekipmanlarının istenilen kalite, verim ve koşullarda çalışmasını sağlamak.
+Üretim Planlama'dan gelen bilgiler doğrultusunda Üretim personelinin günlük iş organizasyonunu belirlemek.
+Üretimi hızlandırmak ve hep aynı kalitede işin çıkması için kalıp, fikstür tasarımlarının yapılması.
+Ürge biriminden gelen teknik çizimlerin üretile bilir hale dönüştürülmesi. 
+Ürge tarafından tasarımları yapılan ürünler üzerinde imalatttaki problemlere göre ve imalatı hızlandırmak için gerekli revizyonların yapılması.",14,8,0,0,0,0,0,0,0,0,0,0
+666,N16133358,919,29,2017-11-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+667,N16118675,920,280,2014-03-01,0000-00-00,Ankara,Turkey,"girişimci, iş veren,",14,8,0,0,0,0,0,0,0,0,0,0
+668,21481853,75,274,2017-11-21,0000-00-00,Kocaeli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+670,N16212118,15,281,2014-06-02,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+671,N17137332,924,221,2016-05-16,2017-08-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+674,21031112,16,283,2017-11-20,2020-01-17,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+675,N16115310,932,174,2017-07-12,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+676,N15212189,934,86,2015-10-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+678,N15214477,680,137,2017-12-31,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+679,N16114015,681,57,2017-08-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+680,N16118626,938,86,2017-03-28,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+681,N14319257,937,1,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+682,N16114862,933,57,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+684,N14310999,30,86,2014-05-11,0000-00-00,Ankara,Turkey,"İnitial sample inspection engineer",14,8,0,0,0,0,0,0,0,0,0,0
+685,N14313085,30,286,2017-08-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+686,N16119379,946,124,2017-08-06,2018-01-08,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+687,N15113829,947,145,2017-03-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+688,N14315984,95,41,2013-06-23,0000-00-00,Ankara,Turkey,"- Kalite Tedarik Takım Lideri
+- Uygun Olmayan Ürün Yönetim Takım Lideri",14,8,0,0,0,0,0,0,0,0,0,0
+689,N14211682,602,298,2008-03-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+690,N14316451,960,287,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+692,N14315681,961,137,2013-05-22,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+693,N14118773,227,272,2008-01-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+694,N15211297,79,29,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+695,N14213092,5,172,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+696,N16113687,965,59,2015-12-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+697,N14311666,966,137,2013-09-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+698,N16119544,940,289,2017-01-25,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+699,N14117293,939,169,2015-07-15,0000-00-00,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+704,N16112133,369,59,2016-05-23,0000-00-00,Ankara,Turkey,"Preparation, follow-up and update of quality system documentation (ISO 9001), planning and implementation of internal audits, participation in certification audits and guidance of auditors, periodical review and update of the quality documents of the departments, the initiation of corrective-preventive activities, the informing of those concerned and the follow, monitoring of national / international standards, registration and follow-up of customer complaints, monitoring and reporting of nonconformities, to carry out studies such as 8D, 5 reasons analysis in response to customer complaints and internal nonconformities, performing of monthly quality activities and reporting to Quality Manager.",14,8,0,0,0,0,0,0,0,0,0,0
+706,21030905,209,291,2018-01-02,2019-03-01,Sakarya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+707,N14117538,338,1,2013-10-22,2014-12-29,Ankara,Turkey,"Electrical and Electronic Engineering",14,8,0,0,0,0,0,0,0,0,0,0
+708,N16115522,635,140,2008-12-10,2014-09-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+709,N14218116,595,221,2016-07-25,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+710,N15216721,896,167,2017-09-11,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+711,N14213441,15,204,2008-07-20,2008-08-28,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+712,N14213441,208,204,2009-07-26,2009-08-20,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+713,N16110528,354,1,2014-07-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+714,N14115530,69,74,2016-01-10,2016-11-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+715,N14115530,69,74,2016-01-10,2016-11-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+716,N14217119,357,1,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+717,N14115530,51,167,2015-01-01,2018-09-02,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+718,N16114633,969,161,2017-09-18,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+719,N16118962,971,47,2017-08-06,2018-01-11,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+720,N16110095,970,293,2017-07-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+721,N14313249,922,174,2016-11-02,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+723,N16110175,974,1,2001-01-20,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+724,N15217033,828,256,2016-11-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+725,N16118961,973,144,2017-06-05,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+726,N16115522,975,144,2014-10-06,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+727,N14119109,976,84,2014-05-01,0000-00-00,,Qatar,,14,8,0,0,0,0,0,0,0,0,0,0
+728,20929822,621,28,2018-01-22,2018-07-27,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+729,21131273,1,24,2017-10-02,2019-01-01,Ankara,Turkey,"Optimization the system and planning all of the materials in the warehouse.",14,8,0,0,0,0,0,0,0,0,0,0
+730,N16211348,360,294,2018-12-18,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+731,21232537,566,242,2018-02-01,0000-00-00,Ankara,Turkey,"Logistic Support Unit",14,8,0,0,0,0,0,0,0,0,0,0
+732,N16110357,662,86,2016-11-15,2016-12-15,Balıkesir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+733,N16110357,978,134,2015-11-01,2016-02-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+734,N16110357,29,295,2018-02-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+735,21030794,1,181,2017-11-08,2023-12-09,Ankara,Turkey,,1,8,5,5,3,5,5,4,4,3,4,0
+736,21031016,384,296,2017-07-03,2019-04-01,İstanbul,Turkey,"•	Responsible from forecasting, with using historical data, creating statistical models, gathering customer’s data, determine seasonality and trend-line. Lead monthly S&OP meetings with sales, marketing, finance and supply chain team.
+
+•	Responsible from Forecast Accuracy and Bias to create awareness among S&OP team to improve actions to link with other SC KPI's (DOH, CSL, DSL, channel base forecast accuracy)
+
+•	Lead monthly Pre-IBP and IBP meetings and responsible from global S&OP meetings.
+
+•	Preparing RCAs to the global team for FAB results.
+
+•	Following market trends, calculating total trade stock and tracking in-line with company targets.
+
+•	Ensure that the monthly forecast submission with using SAP/APO/Demand Planning tool.",14,8,0,0,0,0,0,0,0,0,0,0
+737,N14211361,349,178,2018-02-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+738,21172098,11,22,2018-02-05,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+739,N14115597,373,29,2018-01-01,0000-00-00,Ankara,Turkey,"İstatistik ve Yazı İşleri",14,8,0,0,0,0,0,0,0,0,0,0
+740,21232685,84,297,2018-02-19,2018-12-05,İzmir,Turkey,,3,8,5,5,5,5,5,5,5,5,5,0
+741,N17234729,517,47,2016-11-14,0000-00-00,Ankara,Turkey,"-Tracking the techinal and administrative aspects of Solar Power Plants  
+-Power Plants electrical designs, following legal permits of Project and obtaining relevant approvals from authorities
+-Tracking the process of production of Solar Power Plants",14,8,0,0,0,0,0,0,0,0,0,0
+742,N17118006,484,298,2015-10-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+743,N17115848,425,274,2016-11-21,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+744,N17232147,369,299,2011-12-01,0000-00-00,Ankara,Turkey,"Project Management Office Executive",14,8,0,0,0,0,0,0,0,0,0,0
+749,N17237857,979,54,2017-05-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+750,N17235035,635,173,2017-06-01,2017-12-31,Ankara,Turkey,"User interface software of the MHS (Message Handling System) was created and developed as an R&D project by using the Qt/QML language. User interface software is used to enable the user to easily create and format the message on the computer screen.",14,8,0,0,0,0,0,0,0,0,0,0
+751,N17238561,981,47,2017-08-14,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+752,N17235707,662,24,2017-07-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+754,N17235969,208,254,2014-12-21,2015-07-15,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+755,N17235969,363,54,2015-07-15,2018-05-18,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+757,N17239260,594,55,2016-02-14,2017-02-01,,,,14,8,0,0,0,0,0,0,0,0,0,0
+759,N14313100,804,301,2018-01-01,0000-00-00,,,,14,8,0,0,0,0,0,0,0,0,0,0
+760,N16110582,573,179,2018-01-10,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+761,N14213827,51,232,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+762,N17239702,988,295,2014-04-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+763,21531303,989,302,2017-06-08,2017-09-14,"Wisconsin Dells","United States",,14,8,0,0,0,0,0,0,0,0,0,0
+764,21383565,75,274,2018-03-19,2020-06-19,Eskişehir,Turkey,,13,8,3,1,4,4,3,1,1,2,3,0
+765,N17233730,15,1,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+766,20829382,990,305,2017-08-06,0000-00-00,Balıkesir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+767,21332497,991,300,2018-03-19,2019-03-27,Kayseri,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+768,20829531,15,210,2014-09-08,0000-00-00,Ankara,Turkey,"Alt sözleşme yöneticisi",14,8,0,0,0,0,0,0,0,0,0,0
+769,N16120986,1,59,2014-02-17,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+770,21232408,993,307,2018-01-31,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+771,21232801,994,218,2018-03-26,0000-00-00,Bursa,Turkey,"Responsible of order's operations and logistical operations.",14,8,0,0,0,0,0,0,0,0,0,0
+772,21691657,26,116,2018-03-26,2019-04-01,Bilecik,Turkey,"Montage and Packaging",13,8,3,3,2,4,3,3,3,4,3,0
+773,21331984,208,35,2018-03-27,2018-08-03,Ankara,Turkey,"Following the realizations of  KAI&KPI targets and report them to whole related departments and top management.I published weekly number of Quick Kaizen,Standart Kaizen,Major Kaizen and Advanced Kaizen distribution of departments.Every months are published kaizen numbers of each blue collar employee with departments which saw how long they had stayed or crossed their kaizen targets.Engineer Classification reports which taking into account the projects covering one year of relevant engineers and ranking them with certain criteria are published every months. I did field studies for the statistical information required for the projects.For example;Spagetti Diagram,time study.Also, I took duties during the CNH audit. I had the opportunity to observe and study the Environment and Energy Pillar.",1,8,4,3,5,3,3,5,3,5,4,0
+774,20929836,797,47,2018-02-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+775,21232297,89,218,2018-04-02,2018-08-29,Bursa,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+776,21232322,1,181,2018-04-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+777,20930173,997,111,2017-05-11,2018-08-29,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+778,21232647,42,10,2018-03-05,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+779,21131254,15,210,2017-05-22,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+780,21232341,99,17,2017-07-10,2018-09-07,Aksaray,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+781,21030847,1,47,2018-03-03,0000-00-00,Ankara,Turkey,"ASELSAN/HBT/BTPM/Project Engineer",9,3,5,4,4,5,4,3,3,3,4,0
+782,21332445,1,308,2018-04-18,2018-06-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+783,21131053,998,1,2017-12-12,2018-05-21,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+784,21232393,357,54,2017-08-01,0000-00-00,Ankara,Turkey,"Technology Management
+-Technology Taxonomy
+-Technology Readiness Level
+-Technology Asset Library
+-Technology Roadmap
+Product Management
+-Market Analysis
+-Market Requirements Research
+-Competitor Analysis 
+-Process Research",14,8,0,0,0,0,0,0,0,0,0,0
+785,20829583,11,144,2017-09-25,0000-00-00,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+786,21131292,797,15,2018-04-30,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+787,20829435,1001,309,2017-07-01,2018-01-31,İstanbul,Turkey,,3,1,1,2,5,3,1,3,1,2,1,0
+788,20829435,67,385,2018-02-01,0000-00-00,İstanbul,Turkey,,3,1,5,4,4,4,4,4,3,3,4,0
+789,20930039,80,198,2017-12-04,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+790,20727433,1003,310,2017-10-23,0000-00-00,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+791,21030943,678,311,2018-04-01,2018-07-10,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+792,21130937,1,47,2018-04-18,0000-00-00,Ankara,Turkey,,13,8,4,4,4,4,4,4,4,3,4,0
+793,21332483,1,308,2018-05-02,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+794,21482352,14,17,2018-05-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+795,20929869,73,99,2015-07-14,2016-03-31,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+796,20929869,73,312,2016-04-01,2016-08-01,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+797,20929869,73,313,2016-08-01,2017-11-29,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+798,20929869,1005,314,2017-12-04,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+799,20930044,29,315,2016-10-26,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+800,21481886,1006,5,2018-05-10,0000-00-00,Ankara,Turkey,,14,8,3,4,3,3,2,4,1,5,3,0
+801,21232614,482,316,2018-01-14,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+802,21232781,646,184,2017-11-27,2018-05-30,Ankara,Turkey,"Software development, Project follow-up and management",14,8,0,0,0,0,0,0,0,0,0,0
+803,21232762,1,318,2018-05-15,2020-08-04,Ankara,Turkey,,14,8,5,3,3,5,5,2,5,2,5,0
+805,N16215662,15,59,2011-05-16,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+806,20930077,94,15,2015-03-01,2017-11-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+807,20930077,501,15,2017-11-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+808,21332134,30,54,2018-05-21,2019-05-21,Ankara,Turkey,,3,7,3,2,3,4,3,1,1,1,3,0
+809,N16211017,1,47,2016-05-10,0000-00-00,Ankara,Turkey,"Prepairing, scheduling, coordinating and monitoring the assigned engineering projects.
+Interacting daily with the clients to interpret their neeeds and requirements and representing them in the field. 
+Perform overall quality control of the work (budget, schedule, plans, personel's performance) and report regularly on project status.",14,8,0,0,0,0,0,0,0,0,0,0
+810,21332239,1,320,2018-05-24,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+811,21131235,15,323,2018-06-04,0000-00-00,Ankara,Turkey,"I am working on management, planning and improvement in enterprise processes.",13,8,4,4,3,4,3,3,2,4,3,0
+812,21332225,24,237,2018-06-11,2019-07-05,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+813,21131163,16,136,2018-02-14,0000-00-00,İstanbul,Turkey,,8,8,5,5,5,5,5,3,5,4,5,0
+815,21131111,64,392,2018-06-06,0000-00-00,Ankara,Turkey,,13,7,5,5,5,4,5,5,5,5,5,0
+816,21131307,1009,204,2018-06-18,0000-00-00,Palermo,Italy,,14,8,0,0,0,0,0,0,0,0,0,1
+817,21332445,1,17,2018-07-01,0000-00-00,Ankara,Turkey,,8,5,5,3,4,5,5,2,3,3,4,0
+818,21332244,123,322,2018-07-16,0000-00-00,Kocaeli,Turkey,,14,8,4,4,3,5,5,3,3,4,4,0
+820,21232719,1018,17,2018-07-18,2020-01-13,İzmir,Turkey,,14,8,4,5,5,5,5,4,4,4,5,0
+821,21031126,15,324,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+822,21030742,208,325,2018-07-18,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+823,21232432,1,111,2018-07-23,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+824,21693588,1022,326,2018-07-13,2019-11-01,Ankara,Turkey,"Provide after-sales technical support for security software that Trend Micro has sold.",14,8,1,5,3,3,4,5,1,3,1,0
+825,21431318,1023,327,2018-01-02,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+826,20929841,390,221,2014-08-25,0000-00-00,Bursa,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+828,20970821,1028,329,2017-10-02,0000-00-00,Turgi,Switzerland,,14,8,0,0,0,0,0,0,0,0,0,0
+829,21607949,606,58,2018-07-20,2019-03-28,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+830,21332464,1031,256,2018-07-27,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+831,21232336,1030,330,2018-08-06,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+832,20930121,44,181,2015-06-15,2017-08-04,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+833,20930121,44,24,2017-08-07,0000-00-00,Samsun,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+834,20929822,360,20,2018-08-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+835,21030809,501,382,2018-08-27,0000-00-00,Ankara,Turkey,,14,3,5,5,5,5,5,4,4,4,4,0
+836,21607992,1036,145,2018-07-08,2018-09-28,Kırıkkale,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+838,21030943,15,335,2018-08-06,2019-01-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+839,N14112106,51,336,2018-07-05,0000-00-00,Ankara,Turkey,,14,3,5,5,5,5,5,5,5,5,5,0
+840,21332478,421,337,2018-08-20,0000-00-00,İstanbul,Turkey,,14,4,4,4,4,4,5,4,4,5,4,0
+841,21232297,15,338,2018-09-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+842,21332211,455,26,2018-09-03,0000-00-00,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+843,21430948,74,20,2018-09-03,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+844,21232388,1,47,2018-09-05,0000-00-00,Ankara,Turkey,,3,8,4,4,4,3,4,3,4,4,4,0
+845,21332239,1,339,2018-07-02,2021-06-30,Ankara,Turkey,"Kalite Yönetim Sistemi - Sertifikasyon - İç Tetkik",8,8,5,3,5,3,5,4,5,4,5,0
+846,20930173,1041,24,2018-09-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+847,21232705,1,442,2018-09-12,2020-07-06,Ankara,Turkey,,13,5,4,3,4,3,3,3,3,4,4,0
+848,21332387,425,72,2018-07-09,2018-09-09,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+849,21332387,1,17,2018-09-14,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+850,21430881,425,248,2018-09-17,0000-00-00,Ankara,Turkey,"SAP IS-U - IT Monitoring, FI-CA",7,3,5,4,4,4,3,4,2,3,4,0
+851,21332282,1,47,2018-10-01,0000-00-00,Ankara,Turkey,"My main task is to carry out the administrative processes of the project and to be responsible for the schedule, labor and cost management of the project.",13,8,5,4,5,4,3,3,3,4,4,0
+852,21232341,1,17,2018-09-24,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+853,21831352,1046,342,2018-07-11,2018-09-07,Muğla,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+855,21831328,1049,30,2018-09-01,2018-09-23,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+858,21332302,1,339,2018-10-12,0000-00-00,Ankara,Turkey,"This position presents a different point of view for me as Industrial Engineer. It consists Standards knowledge like ISO, AQAP, etc. to shape organization processes and improve quality of jobs. It can be said that I am a Process engineer for whole of organization. Also, I am a Project Quality Engineer and I should apply my Standard and process knowledge in order to improve quality of the projects.",14,8,5,3,4,4,3,4,3,2,4,0
+860,21232647,1055,345,2018-09-20,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+861,N18136223,15,323,2018-04-09,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+862,N18132856,363,24,2018-01-01,2019-02-15,Ankara,Turkey,,14,8,3,3,5,5,5,4,1,4,3,0
+865,N18135943,1,349,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+866,N18131866,1059,186,2016-03-01,2017-07-26,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+867,N18131866,1060,165,2017-08-01,2018-06-18,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+868,N18131866,1061,350,2018-06-28,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+869,N18139171,1062,394,2015-09-14,2018-09-30,Ankara,Turkey,"Responsible for managing and developing opportunities with various customers. Specializing in finding solutions about data management. Ability to understand enterprise wide issues and to structure innovative, integrated solutions that provide IT decision support for global organizations in achieving their business goals.",2,3,5,5,5,5,5,5,0,0,5,0
+870,N18139171,1063,351,2018-10-01,0000-00-00,Ankara,Turkey,"Responsible for developing profitable and sustainable sales growth in assigned NGX key accounts. Establish and build strong working relationships with business leaders, NGX product teams and my team members to ensure the successful delivery of end to end solutions to my portfolio. Foster and build strong relationships with the reseller and distributor channels. Acquiring and nurturing executive relationships to enable information technology groups develop solutions focused on solving business challenges. Focus on IT transformation towards cloud automation, information intelligence, infrastructure and platform as a service.",14,8,0,0,0,0,0,0,0,0,0,0
+871,21791799,1065,134,2018-06-13,2018-09-29,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+872,21791799,1066,455,0000-00-00,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+873,N17235707,1068,24,2015-11-03,2017-03-15,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+875,21731832,1070,355,2016-07-07,2016-08-04,Izmir,Turkey,"Taking orders, cleaning, storage management",14,8,0,0,0,0,0,0,0,0,0,0
+876,N18136809,1071,173,2011-09-26,2014-08-14,Ankara,Turkey,">E-Defter –used Visual Studio 2010,SQLServer,languages C# and some SQL scripts
+
+>Turkish Court of Accounts Computer Aided Control System with TUBITAK – used Eclipse RCP,SWT,JFace and Revolution R, languages Java and R.System profiling with YourKit Profiler",14,8,0,0,0,0,0,0,0,0,0,0
+877,N18136809,1072,50,2015-05-04,2018-05-04,Ankara,Turkey,">Seferberlik Kaynak Planlama Sistemi (SEKAPS) – C#, ASP.NET, Entity Framework, WebService, MS SQL Server,
+HTML5, CSS3, Javascript, Bootstrap, Telerik KendoUI, jQuery, JSON, AdminLTE, SOA, OOP
+
+>Arıza Kayıt ve Servis İzleme Yazılımı (AASI) – C#, ASP.NET, Entity Framework, WebService, Oracle XE,
+HTML5, CSS3, Javascript, Bootstrap, Telerik KendoUI, jQuery, JSON, AdminLTE, SOA, OOP
+
+>Milli Savunma Bakanlığı Bilgi Sistemi (MBS) – Java, Hibernate, Oracle, Apache Tomcat, IReport",14,8,0,0,0,0,0,0,0,0,0,0
+878,N18136809,1073,50,2018-05-21,2020-03-19,Ankara,Turkey,"Projects; 
+->Cenker at ASELSAN
+Created YTEP, YTET and YTER documents. Develeped health, battery and position simulator in C#. Data transmission via ethernet and seri-port
+
+->Digital Map and Mission Planning Software at AYESAŞ
+Created and update semi-automated test. Project was controlled via Doors and Jira.
+
+->Herkül Gui at Aselsan
+Developed new requirements and resolved bugs
+
+->Tades GIS Manager at Aselsan
+Run test and report the result.
+Create otomated test with TestComplete
+
+->TORX 
+Research and Development
+Create documents for TUBITAK",14,8,0,0,0,0,0,0,0,0,0,0
+879,21031021,5,5,2018-10-25,2020-09-14,Ankara,Turkey,"Hacettepe University Statistics-Operations Research Department",14,8,4,5,5,5,5,4,4,4,4,0
+880,N17235969,1076,54,2018-05-20,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+881,N16123506,1078,173,2018-09-03,2020-07-01,Ankara,Turkey,"Front End Developer",10,7,4,5,4,5,2,4,4,5,4,0
+885,N18139791,449,358,2017-11-01,2018-01-22,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+886,N18139791,1083,202,2018-01-23,2018-04-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+887,N17234409,984,324,2018-02-19,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+888,N18138700,723,173,2017-05-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+889,N18138700,510,173,2014-06-16,2016-04-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+895,21431356,834,120,2018-09-17,2018-09-28,Ankara,Turkey,"Completing my second project in my internship.",14,8,0,0,0,0,0,0,0,0,0,0
+898,21130904,1095,363,2017-08-01,2017-12-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+899,21131029,1,183,2018-09-14,0000-00-00,Ankara,Turkey,,14,8,5,4,5,5,5,4,5,3,4,0
+900,21401406,11,240,2018-10-08,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+901,21332057,1,17,2018-11-05,0000-00-00,Ankara,Turkey,,14,8,4,5,4,5,5,4,4,4,4,0
+903,21332263,1,181,2018-11-05,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+904,21232413,15,210,2018-11-05,2019-11-08,Ankara,Turkey,,14,5,2,1,5,3,3,3,3,4,3,0
+905,21692731,1117,368,2016-01-21,0000-00-00,Ankara,Turkey,"Founder and Managing Director of Kodzer",11,3,0,0,0,0,0,0,0,0,0,0
+906,21692731,1118,351,2017-06-01,2017-09-01,Ankara,Turkey,"Sales manager at Esenboga Airport",12,4,0,0,0,0,0,0,0,0,0,0
+907,21232542,15,338,2018-11-05,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+911,21232671,11,122,2018-11-01,2022-03-16,İstanbul,Turkey,"-Managed a portfolio of 20 accounts from all over the world, which generated roughly $10M in revenue in 2020.
+-Strong knowledge of Corporate travel systems and reporting tools (OBT’s, GDS, PRISM, Tableau, etc.)
+-Ability to deliver engaging presentations to Travel Managers, Procurement and Executive audiences
+-Oversee and maintain data integrity in CRM
+-Manage and participate in all sales phases (RFP, Negotiations, Loading and Rate Audits, Etc.)",3,4,5,5,5,5,3,5,5,1,5,0
+912,N17132407,357,20,2018-02-01,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+914,21431246,1,10,2018-11-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+915,N18139959,357,372,2017-10-25,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+916,21030704,1128,244,2018-11-05,2019-05-05,İstanbul,Turkey,"Sustainability Consultant",14,8,1,1,1,0,0,0,0,0,0,0
+918,21430901,15,61,2018-11-19,2019-05-31,Ankara,Turkey,,14,8,5,3,3,5,4,4,5,5,3,0
+919,21431007,15,61,2018-11-19,2019-05-24,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+920,21332024,15,61,2018-11-26,2019-05-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+921,21431213,15,61,2018-11-19,2019-05-31,Ankara,Turkey,,9,3,4,4,4,4,4,4,4,4,4,0
+922,21531245,15,61,2018-11-26,2019-12-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+923,21531135,15,61,2018-11-19,2019-05-31,Ankara,Turkey,"Yapısal Genel Müdür Yardımcılığı Bölümü",14,8,0,0,0,0,0,0,0,0,0,0
+924,21531393,15,61,2018-11-19,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+925,21431323,15,61,2018-11-19,2019-05-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+926,21431265,15,61,2018-11-19,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+927,21430895,15,61,2018-11-19,2019-05-31,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+928,21171288,1129,161,2018-11-20,2020-05-19,Antwerp,Belgium,,14,8,0,0,0,0,0,0,0,0,0,0
+929,21232427,1,373,2018-11-22,0000-00-00,Ankara,Turkey,,13,7,0,0,0,0,0,0,0,0,0,0
+930,20930154,1,256,2018-09-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+931,21607811,606,274,2018-09-19,2018-11-23,Ankara,Turkey,,3,7,4,4,3,5,3,4,2,4,3,0
+932,21607811,1,181,2018-12-03,0000-00-00,Ankara,Turkey,,9,7,5,5,5,5,4,4,5,3,5,0
+933,N17117591,1135,59,2018-10-15,2019-11-30,Niğde,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+934,21332148,15,374,2018-10-01,2020-12-23,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+935,21030866,357,32,2018-12-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+936,N16127798,1136,5,0000-00-00,0000-00-00,Kocaeli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+938,21130898,1138,375,2018-11-12,2019-12-31,London,"United Kingdom",,14,8,0,0,0,0,0,0,0,0,0,0
+939,21232465,1139,456,2019-01-21,2019-11-30,Milano,Italy,,14,8,3,3,2,5,5,4,1,3,3,0
+940,N17117212,781,86,2017-02-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+941,21232685,1,338,2018-12-07,0000-00-00,Ankara,Turkey,,13,5,5,5,5,5,5,5,5,5,5,0
+942,21232699,1140,214,2018-10-29,0000-00-00,İstanbul,Turkey,"Logistic Applications Consultant",14,8,0,0,0,0,0,0,0,0,0,0
+943,21232699,1141,214,2018-07-23,2018-10-26,Ankara,Turkey,"Logistic Applications Consultant /",14,8,0,0,0,0,0,0,0,0,0,0
+944,21232699,1041,32,2017-05-28,2018-07-20,Ankara,Turkey,"SAP PP assistant specialist",14,8,0,0,0,0,0,0,0,0,0,0
+945,21232303,1043,16,2019-01-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+946,N16117016,995,130,2019-01-10,2021-11-22,Malatya,Turkey,"Led technical purchasing team through several turnkey biomass power plant
+installations and industrial type steam boiler projects under the circumstances
+of covid-19 pandemic and global supply chain crisis (40M USD/year). Focused
+on shifting the team culture to a growth mindset, inspired reduced hierarchy,
+introduced agile approach and cloud based tools. Elevated procurement process to be leaner and automated, established a stronger connection and less competition between departments.",3,6,3,3,1,5,5,2,1,3,3,0
+947,21232317,15,377,2019-01-07,0000-00-00,Ankara,Turkey,,13,8,4,4,3,3,3,4,3,4,3,0
+948,21232724,1043,16,2019-01-07,2020-07-16,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+949,N18133385,208,167,2016-03-17,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+950,N17116307,1124,351,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+951,N17114066,1142,378,2015-08-12,2016-04-04,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+954,N17114066,1143,378,2016-05-16,2018-12-18,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+955,N17112978,1036,76,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+956,N17115848,38,59,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+958,N17111688,1145,298,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+960,N17116388,15,55,2018-08-06,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+961,N17139391,1099,95,2015-10-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+962,N17137081,1030,343,0000-00-00,0000-00-00,Ankara,Turkey,"SYSTEM/ SRMT Engineering
+Responsible for System Safety and RMT of TCASII and GPWS(TAWS) development based on IMA architecture. Developed for EASA TSO certification. 
+FHA, FTA, DD, FMEA, ZSA, CMA, PRA, PSSA, SSA
+ARP4761 Systems Safety Analysis and ARP4754 System Design and Development Process
+CS.25 and CS.23-(1309) and ATA chapters. ICAO Annex-19 Safety Management System
+System requirements development and management using DOORS.",14,8,0,0,0,0,0,0,0,0,0,0
+963,N17133206,896,348,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+964,N17133582,14,256,2016-11-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+965,21332211,455,167,2019-01-25,2019-10-23,İzmir,Turkey,,9,5,3,4,4,4,4,4,3,4,4,0
+966,N16125513,797,47,2015-07-20,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+967,N16125513,1155,86,2006-12-01,2015-03-28,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+968,N16125513,1156,380,2005-07-18,2006-11-30,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+969,N16125513,1157,10,2003-06-23,2004-06-25,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+970,N17114915,1159,8,2012-09-09,2014-02-13,Ankara,Turkey,"Quality Assurance Responsible",14,8,0,0,0,0,0,0,0,0,0,0
+971,N17114915,484,8,2015-01-13,0000-00-00,Ankara,Turkey,"Quality Assurance Responsible",14,8,0,0,0,0,0,0,0,0,0,0
+972,21030885,1,256,2018-08-01,2020-02-02,Ankara,Turkey,"Savunma Sanayi Başkanlığı ile imzalanan proje gereği Emniyet Genel Müdürlüğü ihtiyaçlarını karşılamak için tüm Türkiye'de Güvenlik Kameraları ve Plaka Tanıma Sistemlerinin kurulum, entegrasyon, işletim süreçlerinde proje yönetim, değerlendirme ve analiz aşamalarında yer almaktayım.",14,8,0,0,0,0,0,0,0,0,0,0
+973,N17138709,64,84,2017-04-12,0000-00-00,Ankara,Turkey,"*Projelerin Mali Analiz ve Fiyatlandirmalarının Yapılması
+*Projelerin Sözleşmelerinde bulunup, proje yönetimine  yardımcı olmak",14,8,0,0,0,0,0,0,0,0,0,0
+974,N17133460,1,41,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+976,N17114039,1161,381,2018-08-01,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+978,N17113094,229,10,2019-01-28,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+981,21332244,1,338,2019-02-11,0000-00-00,,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+982,21332005,1,17,2019-02-07,0000-00-00,Ankara,Turkey,"production planning and manage stocks",9,5,5,5,5,5,5,5,5,5,5,0
+983,21505358,298,384,2019-02-04,0000-00-00,Ankara,Turkey,,3,4,0,0,0,0,0,0,0,0,0,0
+984,21030718,50,233,2018-04-29,0000-00-00,Manisa,Turkey,,1,8,2,3,3,4,4,2,1,4,2,0
+985,20727485,662,383,2018-12-17,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+988,N16214521,1162,226,2017-02-06,0000-00-00,Ankara,Turkey,,7,8,0,0,0,0,0,0,0,0,0,0
+991,21332373,1164,214,2019-02-25,2019-12-06,Ankara,Turkey,,1,3,0,0,0,0,0,0,4,3,0,0
+992,N18231355,1165,206,2017-01-26,0000-00-00,Ankara,Turkey,,10,4,4,4,4,3,3,4,4,4,4,0
+993,21332081,1166,386,2019-02-05,2019-04-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+994,20929932,422,5,2015-07-20,2016-07-15,Ankara,Turkey,,14,8,4,5,3,5,4,3,2,4,4,0
+995,N17114039,1161,137,2015-12-07,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+996,N18230376,1167,343,2018-10-01,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+998,N18239714,1,240,2017-02-01,0000-00-00,,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+999,N18237245,1169,47,2018-06-18,2019-07-12,Ankara,Turkey,,3,3,5,5,5,4,4,5,4,5,4,0
+1001,N18234418,1172,388,2012-03-13,2016-05-25,Dohuk,Iraq,,10,8,0,0,0,0,0,0,0,0,0,0
+1002,N18234418,1059,389,2016-06-10,2017-01-10,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1003,N18234418,1173,388,2009-01-01,2011-11-10,Famagusta,Cyprus,"Actual start date is August 2007.",14,8,0,0,0,0,0,0,0,0,0,0
+1004,N18234418,1171,387,2017-08-10,2018-12-20,Ankara,Turkey,"Act as the primary company representative responsible for the overall direction, completion, and financial outcome of commercial and utility solar power plant assigned projects.",10,8,0,0,0,0,0,0,0,0,0,0
+1005,N18239837,662,15,2017-01-17,2019-12-26,Ankara,Turkey,"•	Technical Reporting
+o	Coordinating and handling project documentations
+o	Coordinating and consolidating the daily and monthly reports of the project
+o	Reporting staff based documentation required for organizational structure of the project
+o	Typing of specifications, reports, minutes, etc.
+o	Assist with expediting of open items on the Site Query System
+o	Reporting results of technical interviews
+
+•	Interface Management
+o	Coordinating and handling High Manament reports, plans and programs (Project Directorates and C-Levels) as requested
+o	Coordination of Technical Interviews and participation to recruitment process
+o	Management of HR based documents related to Construction Group Department
+o	Interface Management related to Administrative issues between Administarive Affairs Department and Construction Department
+
+•	Other Responsibilities
+o	Organization of mobilization process of related departments
+o	Attend meetings as required
+o	Ensuring that other inputs/disciplines of the reports are also made available on time such as QA/QC, material delivery, permits, procurement, construction etc.",14,8,5,5,5,5,5,5,5,5,5,0
+1007,N18237319,1175,256,2015-09-13,2018-06-14,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1008,21403562,100,390,2019-02-21,0000-00-00,İstanbul,Turkey,,10,4,5,5,5,5,5,4,4,3,5,0
+1012,N18237474,1183,54,2014-09-02,2016-04-01,İstanbul,Turkey,,9,7,0,0,0,0,0,0,0,0,0,0
+1013,N18237474,1183,239,2016-04-01,2017-09-30,İstanbul,Turkey,,9,8,0,0,0,0,0,0,0,0,0,0
+1014,N18237474,741,59,2017-10-02,0000-00-00,Ankara,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+1015,21232652,672,47,2018-10-08,2020-11-13,Ankara,Turkey,,5,2,4,3,4,4,4,2,3,4,4,0
+1016,20930063,29,496,2017-01-01,2020-04-17,İstanbul,Turkey,"• Weekly, monthly and annual sales piloting. Ensuring to achieve forecasted turnover whilst staying within targeted levels for retail margin and stock lifetime. Guarantying supply margin. Managing stock for the end of season. Treating aging stock.
+
+• Forecasting sales and purchase volumes in product level during the season. Managing good level of availability for products in local warehouse and stores.
+
+• Joining Brand Managers in preparing Commercial Policy. Preparing together the best product offer for all retail channels in Turkey to satisfy our customers and guarantee profitable growth.
+
+• Preparing Supply Policy. Building a profitable supply for upcoming seasons according to past data analysis, seasonality and localized brand strategies.
+
+• Managing automatic supply by optimization of essential supply parameters, forecast and seasonality in SAP ECC and APO platforms.
+
+• Making economic analysis to take business actions with, or give recommendations to, related supply chain actors.
+
+• Building strong relations and working collaboratively with all Supply Chain actors, such as Production, Procurement, Transportation, Homologation, Warehouse and Retail.",14,8,3,3,1,3,3,4,1,4,3,0
+1017,N18231600,1184,351,2008-07-21,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,4,4,0,0
+1018,21130851,1,256,2018-08-01,0000-00-00,Ankara,Turkey,,13,7,5,4,4,3,4,5,4,5,4,0
+1019,N18238186,1174,59,2018-02-12,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1020,20829693,1185,393,2019-03-04,0000-00-00,İstanbul,Turkey,,3,3,5,5,5,5,5,5,5,5,5,0
+1021,21691767,477,24,2019-02-17,0000-00-00,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1022,N18238847,1186,20,2016-11-07,2017-03-31,Ankara,Turkey,,1,7,1,1,1,2,1,1,1,1,1,0
+1023,N18238847,349,20,2017-12-04,0000-00-00,Ankara,Turkey,,2,7,0,0,0,0,0,0,0,0,0,0
+1024,N18239489,568,389,2015-02-02,0000-00-00,Ankara,Turkey,,1,8,5,5,4,5,4,4,5,5,5,0
+1025,21232446,64,54,2016-11-22,0000-00-00,Ankara,Turkey,,8,8,4,4,4,5,4,4,4,3,4,0
+1026,21332191,1140,32,2019-03-11,0000-00-00,İstanbul,Turkey,,13,5,5,0,0,0,0,0,0,0,0,0
+1028,N18132094,1187,395,2017-11-01,0000-00-00,Ankara,Turkey,"Maintenance Planning for Bell Helicopters (429, 430, 407, 230 series), Eurocopter (EC130B4, BK117 C-2 (EC145) series), Agusta (A109E and A109S) rotorcrafts; Embraer Legacy 600, Textron 560, 560XL, 525A, Textron 208/208B, Textron 680, Gulfstream IV and Hawker 400A/XP fixed wings. Preparation of Maintenance Program and Master Equipment Lists. Evaluation and planning of technical bulletins and airworthiness directives. Technical POC for aforementioned aircraft types.",1,8,1,3,4,4,3,5,1,4,3,0
+1029,21332167,1166,47,2019-03-20,2020-02-28,Ankara,Turkey,,7,8,0,0,0,0,0,0,0,0,0,0
+1030,N18132856,1188,429,2019-03-11,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+1031,N18235707,1189,144,2017-01-16,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1032,N18239489,853,389,2007-07-04,2014-12-22,Ankara,Turkey,,1,8,4,3,3,4,3,4,1,3,3,0
+1033,N18237258,1190,312,2018-05-01,0000-00-00,Ankara,Turkey,,14,7,5,5,5,5,4,5,4,4,5,0
+1034,N18237258,354,396,2017-04-01,2018-04-30,Istanbul,Turkey,,14,3,5,4,4,4,4,4,3,3,4,0
+1035,20930187,27,397,2019-04-01,2022-01-31,Antalya,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+1036,N17237240,1169,174,2017-01-09,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1037,N17239894,1191,64,2017-04-03,0000-00-00,Ankara,Turkey,,3,8,5,5,4,4,4,3,3,1,4,0
+1038,21631794,1192,355,2018-06-16,2018-09-21,Portsmouth,"United States",,14,8,0,0,0,0,0,0,0,0,0,0
+1039,N18134892,1194,1,2015-06-09,0000-00-00,Ankara,Turkey,,9,7,0,1,0,1,1,1,1,1,0,0
+1040,N18231612,923,1,2010-01-03,2013-02-10,Denizli,Turkey,,3,5,5,5,5,5,5,5,4,5,5,0
+1041,N18231612,1195,220,2017-06-05,0000-00-00,Ankara,Turkey,,3,8,4,3,3,3,4,5,5,5,5,0
+1042,N18231303,16,205,2017-04-01,2018-12-03,,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+1043,N17231229,1196,24,2018-07-19,2019-04-07,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1044,21332335,1140,400,2019-04-15,2021-07-14,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1045,21332321,68,17,2019-04-01,2020-05-28,Manisa,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1063,21691657,15,338,2019-04-15,0000-00-00,Ankara,Turkey,"Sheet Metal Production and Control",1,5,5,4,5,4,4,4,4,4,4,0
+1064,N17233200,832,59,2018-09-10,0000-00-00,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1065,21332296,1198,17,2019-04-08,2020-10-31,Ankara,Turkey,,5,5,0,0,0,0,0,0,0,0,0,0
+1066,21332407,1197,402,2019-04-15,0000-00-00,İstanbul,Turkey,,3,8,4,5,4,4,4,4,4,4,4,0
+1067,21131202,621,403,2019-04-24,2021-08-01,İstanbul,Turkey,,1,1,5,5,3,5,5,5,5,3,5,0
+1068,21031092,1199,280,2017-10-16,0000-00-00,Doha,Qatar,"Based on the requirement of the companies, creating web and mobile applications from zero. These applications could be ERP,CRM or Dynamic Sites. Generally, we use the Python,Django,Javascript,Html,Css,Bootstrap,Pandas,PHP,MYSQL,POSTGRESQL.
+And also, we analyze of data for companies using statistical computations by R and Python Frameworks.
+Developing Bussiness Intelligence using dashboard systems (Tableau,PowerBI)",11,3,5,5,5,5,5,5,5,5,5,0
+1069,21232451,1200,57,2019-05-13,2020-08-10,Ankara,Turkey,,10,8,2,4,2,3,4,2,2,3,3,0
+1070,21332081,100,390,2019-04-08,0000-00-00,İstanbul,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+1071,N17232861,1204,404,2018-08-27,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1073,21131086,1208,32,2017-01-01,0000-00-00,İstanbul,Turkey,,14,3,3,5,3,5,3,5,1,4,2,0
+1074,21131086,1209,215,2019-01-01,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1075,21031107,16,407,2019-05-30,2019-06-01,İstanbul,Turkey,,14,5,5,4,5,5,4,4,4,5,5,0
+1076,21332497,295,17,2019-04-01,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1077,21332412,1206,405,2019-06-01,2019-12-27,Düsseldorf,Germany,"•	Using data science techniques such as data mining to improve optimization tools, forecast and trading  strategies 
+•	Visualization, devoloping hypotheses, testing statistical models",2,8,5,5,5,5,5,4,0,4,5,0
+1080,N17230775,15,324,2017-04-01,0000-00-00,,Turkey,,10,5,5,5,5,5,5,5,5,5,5,0
+1082,N18235811,1211,1,2016-09-12,2018-01-01,Ankara,Turkey,"EMI/EMC Test Engineering",14,8,3,3,2,5,3,3,2,4,3,0
+1083,N18235811,1212,1,2018-05-21,2018-10-19,Ankara,Turkey,"Software Defined Network(SDN), Information Technology",3,3,4,4,3,5,4,5,4,3,4,0
+1084,N18235811,1189,144,2018-10-22,0000-00-00,Ankara,Turkey,"Management of Information Technology Projects",3,8,4,5,5,5,5,4,5,4,5,0
+1085,21332134,1213,408,2019-06-10,0000-00-00,İstanbul,Turkey,,3,1,5,5,4,4,4,4,4,4,5,0
+1086,21332115,1214,409,2019-06-17,2019-08-22,Ankara,Turkey,,3,4,0,0,0,0,0,0,0,0,0,0
+1087,20727414,1215,409,2019-01-02,2019-09-01,Taipei,Taiwan,,3,4,0,0,0,0,0,0,0,0,0,0
+1088,20829487,1216,410,2019-07-08,0000-00-00,İstanbul,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+1089,21131273,1,273,2019-01-01,0000-00-00,Ankara,Turkey,"Responsible for process improvement activities of Quality Management System, collecting and analyzing process measurements",10,8,0,0,0,0,0,0,0,0,0,0
+1090,21332392,418,411,2019-07-01,0000-00-00,İstanbul,Turkey,,13,8,5,5,5,5,5,5,5,5,5,0
+1091,N15213891,78,413,2018-06-25,0000-00-00,Ankara,Turkey,,13,7,0,0,0,0,0,0,0,0,0,0
+1093,N14210964,1220,24,2018-08-01,0000-00-00,Riyadh,"Saudi Arabia",,1,5,0,0,0,0,0,0,0,0,0,0
+1094,21030828,370,259,2019-07-08,2019-09-05,Tekirdağ,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1095,20970651,1222,417,2018-07-10,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1096,21332225,544,351,2019-05-12,0000-00-00,Ankara,Turkey,,10,4,0,0,0,0,0,0,0,0,0,0
+1097,20727499,85,22,2017-06-23,0000-00-00,Ankara,Turkey,"Planning market surveillance activities of industrial products made available to the market.
+Carrying out project duties either as a project manager or a team member.",14,8,0,0,0,0,0,0,0,0,0,0
+1098,21232609,1,47,2019-07-08,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1099,21531135,15,338,2019-07-22,0000-00-00,Ankara,Turkey,,8,5,5,5,5,5,5,5,5,5,5,0
+1100,21431213,15,418,2019-07-22,0000-00-00,Ankara,Turkey,,8,3,4,4,5,5,4,4,4,4,4,0
+1102,20727519,91,419,2018-05-01,0000-00-00,İzmir,Turkey,,9,6,0,0,0,0,0,0,0,0,0,0
+1104,21531498,1224,158,2018-01-01,2019-07-21,Ankara,Turkey,,11,4,0,0,0,0,0,0,0,0,0,0
+1105,21531498,1192,421,2018-06-13,2018-09-04,Portsmouth,"United States",,6,8,0,0,0,0,0,0,0,0,0,0
+1106,21431059,59,307,2019-07-24,2020-02-07,Ankara,Turkey,,3,1,0,0,0,0,0,0,0,0,0,0
+1109,21030704,1227,214,2019-05-13,2021-02-04,İstanbul,Turkey,"I am sustainability consultant at the Corporate Affairs Department working with directly to the CEO of the Company. My main role is to provide technical support for governing company's sustainability activities.",3,8,5,5,5,5,5,5,5,5,5,0
+1110,21331984,68,200,2019-05-20,2021-02-05,Manisa,Turkey,"-Creating orders according to customer demand and forecast for 4 months,and sending to relevant companies, confirmation processes / Entry of materials to the warehouse, stock control and tracking of their movements
+-Reporting of monthly needs with specific schedules and planning of critical material
+supplies
+-Tracking ship, aircraft and courier cargo, cooperating with the import department
+- Supplier communication and research/ Submission of the received offers to the purchasing department for evaluation
+- Conducting studies in order not to keep the materials of projects that will be End of Life (EOL), initiating the necessary studies if it will be considered as unproductive.
+- Tracking the materials of new projects/
+- Submission of a detailed report on monthly responsible materials",1,8,3,4,3,4,3,5,3,5,3,0
+1111,21431007,15,47,2019-08-05,2019-11-13,Ankara,Turkey,,8,8,5,5,5,5,5,5,5,5,5,0
+1112,21430901,15,47,2019-08-05,2023-08-11,Ankara,Turkey,,8,8,5,5,5,5,5,5,5,5,5,0
+1113,21232589,1228,215,2017-09-01,0000-00-00,Ankara,Turkey,,11,3,5,5,5,5,5,5,5,5,5,0
+1114,21331998,1230,279,2019-08-15,0000-00-00,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1115,20829421,1231,424,2019-02-28,2019-12-28,"Buffalo, New York","United States",,14,8,5,5,5,5,5,5,5,5,5,0
+1116,21531479,1234,426,2018-05-01,2018-09-25,İstanbul,Turkey,"My job was represent a brand in a positive light and by doing so help to increase brand awareness and sales.",5,4,2,0,4,5,3,2,1,1,2,0
+1117,21531479,989,427,2016-06-17,2019-09-19,"Wisconsin Dells",Turkey,"I was an expert swimmer employed to rescue bathers who get into difficulty at swimming pool.",14,8,5,5,5,5,5,1,1,1,4,0
+1118,21531479,1221,477,2019-09-16,2020-09-11,Ankara,Turkey,"My duties are creating operational planning and improvements to improve in-app productivity. Also, produce solutions to users' conversations and complaints with customer service.",9,4,5,5,5,5,5,3,3,3,5,0
+1119,21431323,1,47,2019-07-01,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+1138,N18237319,834,240,2019-09-04,2020-04-15,,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+1139,N12220772,1189,59,0000-00-00,0000-00-00,,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+1140,21693129,477,54,2019-04-30,2020-11-13,Ankara,Turkey,"I am candidate engineer in department of R&D since April 30
+
+* I used some modulus in ERP system and make data entry systematic and regularly. 
+* I used the ERP system and made some reports through excel.
+* We create a new database system together work teammate for meeting the requirements of company.",1,7,5,4,5,5,5,3,3,4,4,0
+1141,21693172,477,54,2019-04-30,0000-00-00,Ankara,Turkey,"I export data in ERP system and prepared reports. I am working on database system. I take active roles in projects in the company.",1,7,4,4,4,4,4,4,4,4,4,0
+1142,21130904,425,32,2019-08-07,0000-00-00,Ankara,Turkey,,1,3,5,5,5,5,5,5,5,4,5,0
+1143,21607949,1,47,2019-09-10,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1144,21131125,678,380,2019-09-02,0000-00-00,İstanbul,Turkey,,1,4,0,0,5,0,0,0,0,5,0,0
+1147,21531303,139,430,2019-10-01,2020-06-30,Ankara,Turkey,,14,2,5,5,5,5,5,4,3,3,4,0
+1148,21430991,68,10,2019-10-01,0000-00-00,Manisa,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+1152,N14211076,1247,28,2018-11-10,2019-09-12,Kabul,Afghanistan,,14,8,0,0,0,0,0,0,0,0,0,0
+1153,N14313730,359,431,2019-09-23,0000-00-00,Ankara,Turkey,,2,1,5,5,5,5,5,4,4,4,5,0
+1154,21531154,325,3,2019-10-01,2020-07-27,Kırıkkale,Turkey,"Maintenance planning engineering",5,8,4,5,4,5,4,4,4,4,4,0
+1155,21693613,376,1,2019-06-24,2019-07-22,Ankara,Turkey,"statistical analysis and production planning",10,5,5,5,5,5,5,5,5,5,5,0
+1156,N19130785,797,3,2018-01-31,2018-03-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1157,N19130785,1250,432,2018-03-30,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1158,N19133847,1251,433,2012-11-06,2016-03-17,Ankara,Turkey,,3,1,0,0,0,0,0,0,0,0,0,0
+1159,N19133847,80,434,2016-04-06,2019-04-08,Ankara,Turkey,,3,1,0,0,0,0,0,0,0,0,0,0
+1160,N19133847,1252,435,2019-10-01,0000-00-00,Ankara,Turkey,,3,1,0,0,0,0,0,0,0,0,0,0
+1161,21531451,139,430,2019-10-02,0000-00-00,Ankara,Turkey,NULL,3,2,0,0,0,0,0,0,0,0,0,0
+1162,N14217303,359,73,2018-11-04,2019-10-08,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1163,N19134433,1122,47,2013-09-07,0000-00-00,Ankara,Turkey,,3,7,3,3,2,4,2,1,1,3,3,0
+1164,N19133501,1253,20,2017-06-19,2020-05-31,Ankara,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+1166,N19135640,1264,191,2016-01-11,2019-07-24,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+1167,21332316,1306,617,2019-10-14,2020-10-14,Ankara,Turkey,"Supply Chain Management,
+Procurement&Purchasing,
+Operations and Planning Engineering",1,8,4,4,4,5,5,4,3,4,4,0
+1168,N19135150,1265,191,0000-00-00,2018-08-06,İzmir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1169,N19131490,518,144,2007-08-30,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1170,21332172,50,24,2019-09-24,0000-00-00,Manisa,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+1171,21631665,208,58,2019-10-01,2020-07-01,Ankara,Turkey,,3,2,0,0,0,0,0,0,0,0,0,0
+1172,21831289,1272,302,2019-06-24,2019-08-20,Wolfeboro,"United States",,14,8,0,0,0,0,0,0,0,0,0,0
+1173,21731612,1273,427,2019-06-21,2019-09-21,"Wisconsin Dells","United States",,14,8,5,5,5,5,5,2,0,0,0,0
+1174,21531322,1276,430,2019-10-07,0000-00-00,Ankara,Turkey,,9,8,5,5,5,5,5,5,5,5,5,0
+1176,21332095,68,439,2019-10-22,2021-08-20,Manisa,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+1178,N19130852,672,192,0000-00-00,0000-00-00,,Turkey,,14,2,0,0,0,0,0,0,0,0,0,0
+1179,21332101,1279,32,2019-10-05,2020-03-04,Ankara,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+1191,21279769,1292,440,2019-11-01,2020-04-09,Kocaeli,Turkey,,3,8,5,5,5,0,0,0,0,0,0,0
+1192,21131067,15,442,2018-06-25,2019-03-24,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1193,21131067,15,443,2019-03-24,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1194,21232776,289,274,2019-10-31,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1195,21332211,91,445,2019-11-11,0000-00-00,İzmir,Turkey,,3,5,5,5,5,5,5,5,5,5,5,0
+1196,21431193,1035,446,2019-11-11,0000-00-00,İstanbul,Turkey,,9,4,5,5,5,5,5,4,4,4,5,0
+1197,21030943,1293,296,2019-08-05,0000-00-00,Ankara,Turkey,"*Lead S&OP process, closely work with sales, marketing, finance and supply chain teams and also
+customers to build an integrated business plan.
+* Understand past and future assumptions, risk and opportunities, and clean sales data, build base
+forecast while keeping track of sales and marketing activity logs.
+* Apply statistical models depending on historical patterns and horizons using exception based
+planning.
+*Report, analyze and deliver KPI’s (Forecast accuracy & bias)
+*Highlight gaps in demand plan, take actions for gap-closing and track the action with stakeholders.
+* Analyze portfolio and make delisting proposals for non-performing products.
+* Handling analysing orders that come through customer portal, mails and supply correct products in
+requested delivery date.
+* Cooperationg with sales, logistics teams for order and return management.
+*Checking customers warehouse stocks in order to increase order fill rate and ease route planning.
+* Tracking customer basis order fill rate, case fill rate, on time delivery, return rates",14,4,0,0,0,0,0,0,0,0,0,0
+1198,21232628,1294,167,2018-11-01,2019-01-01,Denizli,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1199,21232628,1295,94,2019-07-01,0000-00-00,Denizli,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+1200,21031087,1296,20,2019-11-12,0000-00-00,Bornem,Belgium,,2,1,0,0,0,0,0,0,0,0,0,0
+1201,21380929,51,274,2019-11-04,2020-04-04,Ankara,Turkey,,3,8,5,3,4,5,5,3,1,3,4,0
+1202,21030775,1297,167,0000-00-00,0000-00-00,İzmir,Turkey,,14,5,4,5,5,5,5,5,5,5,5,0
+1203,21431232,1,450,2019-12-02,0000-00-00,Ankara,Turkey,,11,8,0,0,0,0,0,0,0,0,0,0
+1204,20727414,1069,451,2019-11-11,0000-00-00,Samsun,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+1205,21531058,1298,452,2019-11-27,2021-11-03,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1206,21531025,208,58,2019-12-10,2020-05-29,Ankara,Turkey,,14,2,0,0,0,0,0,0,0,0,0,0
+1207,20829358,757,453,2019-11-08,2021-02-08,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+1208,21531245,1,430,2019-12-11,2020-08-01,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+1209,21784399,1,430,0000-00-00,0000-00-00,Ankara,Turkey,,13,5,5,4,4,4,4,4,2,3,4,0
+1210,21531187,1,430,2019-12-11,2020-07-31,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1211,21784017,1,430,2019-12-05,2020-06-16,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+1212,21531498,1,430,2019-12-06,0000-00-00,Ankara,Turkey,,8,1,5,5,5,5,5,5,5,5,5,0
+1213,21531341,1,430,2019-12-17,2020-07-24,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1214,21332373,45,454,2019-12-16,2020-11-06,Eskişehir,Turkey,,3,7,5,5,5,5,5,5,5,5,5,0
+1215,N16217946,1300,191,2018-10-01,0000-00-00,Doha,Qatar,,14,8,0,0,0,0,0,0,0,0,0,0
+1218,21531192,1,430,2019-12-11,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1219,21232465,1307,192,2020-01-13,2020-02-07,Milano,Italy,,2,3,0,0,0,0,0,0,0,0,0,0
+1220,21531226,488,10,2019-12-24,0000-00-00,Hatay,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+1221,N18130659,1309,137,2016-08-01,0000-00-00,Ankara,Turkey,"Performing """Supplier Audits""" as a Lead Auditor  Performing"""Corporate Audits""" as a Trainee Auditor  To implement MDSAP, ISO 13485, ISO 9001, ISO 17025, ISO 14971, ISO 62366, ISO 13958, ISO 13959 standards requirements, being leader as a SME  Managing"""Corrective and Preventive Action System""" over the plant and departments by using QTRACK software as a SME, coordination with corporate office regarding CAPA  Configuration and management of """Quality Documentation System""" by using QDMS, First Point, QDOK and also manual system as a SME, coordination with corporate office regarding documentation  For """Supplier Quality Management""", being a leader as a SME, coordination with corporate office regarding Supplier Quality Management  For """Customer Complaints Management""", being a leader as a SME, coordination with corporate office regarding Customer Complaints  Communication with Germany Head Office,  Being a consultant for Microbiology, Biotechnology, Biochemistry and Molecular Biology   Preparing """Stability Study""" and """"Process Validation Protocols""" and """Process Validation Reports""" coordination with corporate office regarding Validation   Being a leader for """Statistical Applications""" for all departments  Being a leader for """Risk Assessment""" (FMEA, Chart, etc.)  Managing "Quality Circle Teams", quality circles' process development practices and kaizens Competence, awaireness and training of white and blue collar employees about Quality management Systems and company strategy  Preparing some parts of """Technical File"""  Generating an "Consolidated Management System" as a SME including the mentioned standards for all departments Manufacturing, Maintenance, Planning, Procurement etc. Project Management on Quality;  Generating projects for "Quality Management Tools" for all integrated management systems  Coordinating projects for "Quality Method Development" processes. Quality Management of other projects",3,8,5,5,5,5,5,5,4,5,5,0
+1224,N18133293,940,431,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1226,N18138700,357,173,2019-02-04,0000-00-00,Ankara,Turkey,,1,7,0,0,0,0,0,0,0,0,0,0
+1227,21332153,1313,20,2020-01-16,0000-00-00,İstanbul,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+1228,21031107,16,457,2019-06-01,2021-05-01,İstanbul,Turkey,"Creating simulation model of production systems, Modelling of processes, Engineering software management",14,5,4,4,4,4,4,3,4,5,4,0
+1229,N16215528,15,47,2018-09-03,0000-00-00,Ankara,Turkey,,13,7,0,0,0,0,0,0,0,0,0,0
+1232,20901248,15,458,2019-07-01,2020-06-26,Ankara,Turkey,,3,8,3,1,4,5,2,3,1,4,2,0
+1233,21232465,1314,192,2020-03-16,0000-00-00,Berlin,Germany,,2,4,0,0,0,0,0,0,0,0,0,0
+1235,21431169,50,14,2020-02-18,0000-00-00,Manisa,Turkey,,3,1,5,5,5,5,5,5,5,5,5,0
+1236,21431188,1041,24,2020-02-10,2021-01-13,Ankara,Turkey,,9,5,3,4,3,5,5,5,1,4,3,0
+1237,21685144,1,430,2019-12-12,2020-07-03,Ankara,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+1238,21693569,75,322,2020-02-24,0000-00-00,Eskişehir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1239,N19235889,1316,191,2019-10-21,0000-00-00,,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+1240,N19235889,441,459,2018-11-21,2019-10-16,Ankara,Turkey,,2,8,3,4,1,5,4,4,1,4,3,0
+1241,N19235889,656,191,2014-03-03,2017-08-30,,Turkey,,1,8,4,5,3,4,4,4,1,5,4,0
+1242,N19235889,1317,459,2017-09-07,2018-11-15,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1243,N19238238,1318,47,2018-04-06,0000-00-00,Ankara,Turkey,,14,7,4,5,5,5,5,5,4,5,5,0
+1244,N19233459,1319,47,2018-11-30,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1245,N19232403,940,460,2008-07-10,0000-00-00,Ankara,Turkey,,3,3,5,5,5,5,5,5,5,5,5,0
+1246,21030828,1320,461,2019-09-23,2020-06-01,Tekirdağ,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1247,N19232876,1321,167,2018-10-01,0000-00-00,Ankara,Turkey,,14,5,4,5,0,0,0,0,0,0,0,0
+1248,21693464,30,10,0000-00-00,0000-00-00,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+1249,N19237978,566,50,2015-09-04,2021-07-18,Ankara,Turkey,,13,7,0,0,0,0,0,0,0,0,0,0
+1250,21692731,1325,300,2020-02-17,2020-05-31,Ankara,Turkey,"Freelance
+
+Development of Tracking Devices for Off-Road Races and Paragliding Competitions
+Taking Part in Development of Tracking Devices
+Following Hardware Development Personnel",5,7,0,5,0,0,5,5,0,0,0,0
+1251,N19237795,425,462,2014-02-17,0000-00-00,Ankara,Turkey,"Dağıtım sistemine sunulan enerjinin tedarik sürekliliğin sağlanması, 
+Şebekenin devamlılığının ve iyileştirmesinin sağlanması, 
+Enerji kesintilerinin minimuma indirilmesi, 
+Mevzuatta belirtilen teknik kalite standartlarının sağlanmasının kontrolü, 
+Gerekli analiz çalışmalarını yaparak sistemsel ihtiyaçların belirlenmesi 
+ve projelendirilmesi,
+Mevcutta yürütülen projelere destek verilmesi.",1,8,4,4,4,4,4,3,3,2,4,0
+1252,N19234411,1041,465,2017-06-19,2018-03-01,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1253,N19234411,1041,75,2018-03-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1254,N18234418,1061,387,2019-04-15,2020-01-10,Ankara,Turkey,"Act as the primary responsible for the overall direction, completion and financial outcome of commercial wind power plant projects with a capacity of 558 Mw. 
+Plan, organise and manage overall activities from the permitting process up to construction stages until government comissioning. 
+Responsible for the construction of extansion works of HPP and WPP projects. Responsible for the direction, financial outcome, contracts management and permitting process for the biggest wind farm project in Turkey with a capacity of 1.000 Mw (YEKA Project)",1,8,0,0,0,0,0,0,0,0,0,0
+1255,N19237654,1276,454,2018-04-16,2019-01-11,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1256,N19237654,1434,467,2019-02-01,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1258,N16121595,1331,375,2020-03-01,0000-00-00,Ankara,Turkey,,1,7,0,0,0,0,0,0,0,0,0,0
+1259,N19238238,1332,74,2016-03-06,2018-03-30,"New York","United States",,14,8,0,0,0,0,0,0,0,0,0,0
+1261,N19135443,1335,471,2016-06-01,0000-00-00,Ankara,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+1262,21531168,208,26,2020-03-05,2021-01-08,Ankara,Turkey,,14,2,3,4,5,5,4,3,4,3,5,0
+1263,21332167,1336,521,2020-03-04,2020-09-30,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1264,21232719,68,473,2020-01-14,0000-00-00,Manisa,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1265,N18237245,51,256,2020-03-05,0000-00-00,,Turkey,,14,7,5,5,5,5,5,5,5,5,5,0
+1266,21580869,122,20,2020-03-16,2022-08-31,Kocaeli,Turkey,"-understanding and analyzing customer needs , preparing
+requirement analysis document, functional test scenario and UAT
+
+-doing tests for the projects
+
+-working coordinately with the developers, business units and operation teams to solve the problems.",14,8,4,2,4,5,4,2,1,0,4,0
+1268,N19231217,1337,459,2017-04-14,2019-03-29,İstanbul,Turkey,,1,8,5,4,3,4,3,3,3,4,3,0
+1269,N19231217,64,256,2019-09-11,0000-00-00,Ankara,Turkey,,2,5,5,5,5,5,5,4,5,4,5,0
+1270,N19235096,15,54,0000-00-00,0000-00-00,,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+1271,21131177,1,47,2019-12-09,0000-00-00,Ankara,Turkey,,14,8,4,3,4,4,4,4,4,2,4,0
+1272,21530999,1339,430,2020-02-17,0000-00-00,Ankara,Turkey,,1,4,4,4,5,5,4,4,3,4,4,0
+1273,N19135155,51,4,0000-00-00,0000-00-00,Ankara,Turkey,,9,8,0,0,0,0,0,0,0,0,0,0
+1274,N19135155,51,430,0000-00-00,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+1275,N19135155,15,467,0000-00-00,0000-00-00,Ankara,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+1276,21332076,1340,475,2020-02-24,2020-08-07,İstanbul,Turkey,,2,8,5,5,4,5,5,4,3,1,4,0
+1277,N19234461,783,59,2019-01-28,2020-05-02,Ankara,Turkey,,3,3,5,4,3,4,4,4,4,3,4,0
+1278,21431007,1341,100,2020-03-16,2022-03-16,Ankara,Turkey,,3,3,1,2,1,4,3,1,1,4,2,0
+1280,N19231979,69,20,2012-04-12,2020-02-27,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1281,N19231979,522,144,2020-03-16,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1282,N19237593,1338,167,2018-09-09,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1284,21791799,1342,476,2020-03-15,0000-00-00,Ankara,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+1285,21731793,1343,478,2019-06-24,2019-09-21,"Mason Ohio","United States",,14,8,0,0,0,0,0,0,0,0,0,0
+1286,N19138620,985,479,0000-00-00,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+1287,20829545,1344,20,2019-05-01,0000-00-00,Istanbul,Turkey,,1,3,5,4,5,4,4,4,3,4,4,0
+1288,N18231303,15,465,2018-12-03,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1289,N18231303,16,167,2015-08-05,2017-04-01,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1290,21531336,940,688,2020-04-13,2022-09-30,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1291,N14210779,501,481,2018-07-02,0000-00-00,Ankara,Turkey,"SAP HR (Personel Yönetimi & Organizasyon Yönetimi & Ücret Yönetimi & Zaman ve İzin Yönetimi), SUCCESSFACTORS (Jam, Eğitim Yönetimi, Performans ve Hedef Yönetimi, Kariyer Geliştirme ve Yedekleme, İşe Alım ve Oryantasyon), SAP FIORI (Çalışan ve Yönetici Servisleri) sistemlerinde kurum ihtiyaçlarının analiz edilerek insan kaynakları süreçlerinin geliştirilmesi, anahtar kullanıcı olarak yetkilerin verilmesi, uyarlamaların - testlerin yapılması, yapılandırılmış mülakat v.b. yöntemlerle işe alım süreçlerinin gerçekleştirilmesi, oryantasyon el kitapçığının hazırlanması ve uygulanması, buddy atamasının yapılması, kurum içi prosedür - yönetmelik vb. geliştirilmesi, her pozisyon için iş analizlerinin yapılarak iş tanımları ve iş gereklerinin çıkarılması, kariyer haritalarının belirlenerek her pozisyon için yetkinlik matrisinin kurgulanması, hedeflerin belirlenmesi ve performans değerlendirme 
+ölçümlerinin yapılması, yetenek yönetimi sisteminin kurgulanması, iş değerleme sisteminin kurgulanması, tüm insan kaynakları süreçlerinin metriklerle ölçülerek üst yönetime raporlanması ve digital dönüşüm sürecine uyarlanması, eğitim ihtiyaçlarının 
+belirlenerek iç eğitim - dış eğitim olacak şekilde eğitim planlarının hazırlanması, eğitim bütçesinin belirlenmesi, organizasyon yapısının kurulması, birim özelinde raporlama vb. işlemler ile ilgileniyorum.",14,2,5,5,5,5,5,5,5,5,5,0
+1292,21332368,1223,56,2019-09-02,2020-08-15,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1293,N14210779,449,481,2016-10-03,2018-07-31,Ankara,Turkey,"SAP HR, SUCCESSFACTORS sistemlerinde şirket ihtiyaçlarının analiz edilerek çözümlerin 
+geliştirilmesi, uyarlamaların ve testlerin yapılması, kullanıcılara canlı sistem desteği verilmesi, son kullanıcı dokümanlarının hazırlanması, son kullanıcı eğitimlerinin verilmesi, insan kaynakları biriminden gelen taleplerin çözülmesi ve birim kullanıcılarının 
+yetkilerinin verilmesi, insan kaynaklarına ait tüm fonkisyonlarının kuruma empoze edilmesi vb. işlemler ile ilgilendim.",14,2,5,5,5,5,5,5,5,5,5,0
+1294,N14210779,86,490,2015-12-01,2016-10-31,Ankara,Turkey,"SAP HR, SUCCESSFACTORS, SAP NETWEAVER PORTAL (ESS-MSS), OPENTEXT, SAP FI-CO-AA-TR-MM-SD-CRM-BASİS sistemlerinde şirket ihtiyaçlarının analiz edilerek çözümlerin geliştirilmesi, uyarlamaların ve testlerin yapılması, kullanıcılara canlı sistem desteği verilmesi, son kullanıcı dokümanlarının hazırlanması, son kullanıcı eğitimlerinin verilmesi, 
+birimlerden gelen taleplerin çözülmesi, kullanıcıların yetkilerinin verilmesi, (ISO 9001 - ISO 15504 - CMMI vb.) kalite standartlarına uygun olarak ürünün yazılım geliştirme faaliyetlerinin iyileştirilmesi, dokümanlara ilişkin uygunsuzlukların belirlenmesi, 
+uygunsuzluklarda gerekli önlemlerin alınması ve kök nedenlerin tespiti, mevcut süreçler ile hedeflenen süreçlerin fark analizlerinin yapılarak süreç tanımlamalarının gerçekleştirilmesi, süreç metriklerinin izlenmesi, stratejik planların belirlenmesi, müşteri memnuniyetinin izlenmesi, konfigürasyon yönetimi vb. işlemler ile ilgilendim.",14,3,5,5,5,5,5,5,5,5,5,0
+1295,N14210779,510,490,2014-04-01,2015-12-31,Ankara,Turkey,"e-Fatura, e-Defter, e-Arşiv, CRM projelerinde müşteriler için ihtiyaç duyulan yazılımların 
+uygulama geliştirme isteklerine göre analizlerin yapılması, mock up ile ekran tasarımlarının yapılması, UML ile iş süreçlerinin çizilmesi, gereksinim analiz dokümanlarının oluşturulması, analize uygun olarak test senaryolarının hazırlanması, hazırlanan test senaryolarına göre (fonksiyonel - performans - entegrasyon) kabul testlerinin yapılması, son kullanıcı eğitimlerinin verilmesi, (ISO 9001 & ISO 15504 & CMMI) standartlarına uygun olarak ürünün yazılım geliştirme faaliyetlerinin iyileştirilmesi, dokümanlara ilişkin uygunsuzlukların belirlenmesi, uygunsuzluklarda gerekli önlemlerin alınması ve kök nedenlerin tespiti, mevcut süreçler ile hedeflenen süreçlerin fark analizlerinin yapılarak süreç tanımlamalarının gerçekleştirilmesi, süreç metriklerinin izlenmesi, stratejik planların belirlenmesi, müşteri memnuniyetinin izlenmesi vb. işlemler ile ilgilendim.",14,3,5,5,5,5,5,5,5,5,5,0
+1296,N14210779,510,278,2010-04-01,2014-04-30,Ankara,Turkey,"İnsan kaynakları süreçlerinin iyileştirilmesi ve geliştirilmesinin sağlanması, işe giriş ve işten çıkış süreçlerinin yönetilmesi, seçme - yerleştirme - oryantasyon ve eğitim süreci ile ilgili çalışmaların yürütülmesi, performans - yetenek - kariyer yönetimi sistemlerinin kurulması, şirketin politika - prosedür ve yönetmeliklerinin oluşturulması, iş analizi yapılarak iş tanımları ve iş gereklerinin çıkarılması, şirket organizasyon yapısının kurulması, departman özelinde raporlama süreçlerinin yürütülmesi vb. işlemler ile ilgilendim.",14,2,5,5,5,5,5,5,5,5,5,0
+1297,N19235909,1057,461,2016-02-01,2020-06-11,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1298,N18239961,1349,11,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1299,N18232541,1350,167,2018-12-02,2019-07-18,Ankara,Turkey,,14,5,0,5,5,5,5,5,5,1,2,0
+1303,N18232541,1351,491,2019-10-10,0000-00-00,Ankara,Turkey,,12,8,1,5,5,5,5,5,5,5,5,0
+1304,21431083,1,450,2020-04-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1305,N19238320,1353,214,0000-00-00,0000-00-00,,"Iran, Islamic Republic of",,12,4,0,0,0,0,0,0,0,0,0,0
+1306,N19131706,1354,5,0000-00-00,0000-00-00,,Germany,,3,7,5,5,5,5,5,5,5,5,5,0
+1307,N19131706,1355,8,0000-00-00,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1308,N19238006,1249,86,0000-00-00,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1309,N19234411,1041,493,2020-02-17,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1312,N19131764,1358,339,2017-04-03,2019-04-02,İzmir,Turkey,,10,7,5,5,5,4,4,5,5,5,5,0
+1313,N19131764,1359,170,2018-10-03,0000-00-00,Ankara,Turkey,,10,5,5,5,5,5,5,5,5,5,5,0
+1314,N18239791,662,47,2018-01-01,0000-00-00,Ankara,Turkey,"technical reporting
+monitoring construction activities
+managing deviation interface",1,8,5,5,5,5,5,3,4,5,5,0
+1315,N18232869,15,609,2018-08-01,2020-08-01,Ankara,Turkey,,13,7,4,4,4,4,4,3,4,3,4,0
+1316,21332459,1361,10,2019-05-13,0000-00-00,Denizli,Turkey,,7,6,0,5,5,0,0,0,0,0,0,0
+1317,N18136809,1362,173,2020-03-20,0000-00-00,Ankara,Turkey,,2,1,0,0,0,0,0,0,0,0,0,0
+1318,20930063,230,495,2020-04-20,2020-11-20,Istanbul,Turkey,,14,4,5,5,5,5,5,5,5,3,5,0
+1319,N19234207,1364,498,2015-09-07,2017-03-17,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1320,N19234207,1364,86,2017-03-20,2017-07-07,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1321,N19234207,1365,499,2017-07-10,2018-07-13,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1322,N19236827,1369,144,2020-02-17,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+1324,21031016,384,501,2019-04-01,0000-00-00,İstanbul,Turkey,"•	Create channel, category-based pricing structure considering product elasticities, market insights, maximizing profitability and financial needs.
+
+•	Lead pricing committee and price up decisions with finance, marketing, strategy & insight and sales teams.
+
+•	Drive topline growth through pricing, sales activities and mix optimization.
+
+•	Create brand & customer specific promotional guidelines, monitoring of compliance to guidelines and evaluation of return on investment from promotional spend. Create promotional calendar.
+
+•	Support the sales terms for trade terms to drive a strategic approach to customer investments.
+
+•	Maximize revenues and profits from brand and product portfolios in the short and long term
+
+•	Define the right brand portfolio architecture by channel /pack format/
+size/ price to optimize company & customer sales/margin and to meet shopper needs.
+
+•	Monthly price tracking, competitor update, ROI Scorecards.
+
+•	Integrate sales activities, mix and pricing effects to IBP process.
+
+•	Monthly mix & channel profitability and trade support tracking with finance team",14,4,0,0,0,0,0,0,0,0,0,0
+1325,N19234461,1370,502,2020-05-04,0000-00-00,Ankara,Turkey,,1,3,5,5,5,5,5,5,5,3,5,0
+1326,N19238119,628,47,2012-09-24,2015-07-03,,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1327,N19238119,757,144,2015-08-03,0000-00-00,,Turkey,,14,7,5,4,5,5,5,5,4,3,5,0
+1328,N16113283,285,1,2018-06-20,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1329,N19234948,30,10,2017-07-03,0000-00-00,Ankara,Turkey,,3,6,5,3,3,5,3,1,1,1,3,0
+1330,21430915,421,337,2020-06-15,2021-01-11,İstanbul,Turkey,,14,8,2,2,3,4,3,1,1,3,2,0
+1331,21232666,1374,26,2020-01-07,2020-04-30,İzmir,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+1332,21232666,1,450,2020-05-11,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1333,21332321,1,503,2020-06-01,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+1334,N19235909,528,86,2020-06-16,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1335,21383565,241,167,2020-06-22,2021-11-01,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1336,21131034,716,505,2017-12-01,2018-07-12,Antalya,Turkey,,3,3,2,2,3,4,3,4,2,3,3,0
+1339,21131034,1375,218,2018-07-16,2020-02-07,Mersin,Turkey,,3,6,3,3,4,4,4,4,3,2,4,0
+1340,21131034,1313,505,2020-02-10,0000-00-00,Adana,Turkey,,3,8,4,4,4,4,3,4,4,4,4,0
+1341,N19232876,1030,167,2020-06-24,0000-00-00,Ankara,Turkey,,14,5,5,5,0,0,0,0,0,0,0,0
+1342,21232479,1377,506,2020-03-09,2021-03-05,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1343,21732086,5,507,2020-05-31,0000-00-00,,Turkey,"Hacettepe University Industrial Engineering Deperatment Social Media Specialist",1,4,5,5,5,5,4,2,3,1,5,0
+1344,21279769,1037,441,2020-04-13,2021-11-26,Kocaeli,Turkey,,3,8,3,3,3,3,3,3,3,3,3,0
+1345,N18238847,1253,490,2019-07-17,2019-07-31,Ankara,Turkey,,1,7,1,1,1,1,1,1,1,1,1,0
+1346,N18238847,1379,144,2019-08-01,0000-00-00,Ankara,Turkey,"Proje takibini yapmak, gereksinimleri toplamak, yazılım - analiz - test adımlarını takip etmek, ekipler arasında koordinasyon sağlamak",1,7,3,3,3,3,3,3,3,3,3,0
+1347,21430895,73,570,2020-07-03,2020-10-19,Ankara,Turkey,,14,8,5,5,5,5,5,3,1,5,5,0
+1348,21030828,1320,510,2020-06-01,0000-00-00,Tekirdağ,Turkey,,14,8,5,4,4,5,4,5,4,5,4,0
+1349,21692731,1380,72,2020-07-01,0000-00-00,Ankara,Turkey,"System and Network Management,
+Coordinating IT and Technical Personnel
+
+in all of the companies within the holding as
+
+TURK İlaç ve Serum,
+TURK Ambalaj,
+TURK Plast,
+TURK Makina,
+Serum Depo",13,3,0,5,3,5,5,0,0,0,0,0
+1350,21692731,1382,368,2020-04-24,0000-00-00,London,"United Kingdom","Software and Payment Solutions,
+
+Development and Management executed by me , Marketing and Support by my friends.
+
+To Create Passive Income,
+
+50,000 ₺ transaction size at the first month.
+
+https://beta.companieshouse.gov.uk/company/12571747",11,7,0,0,0,0,0,0,0,0,0,0
+1351,21130961,1383,5,2020-06-15,0000-00-00,Erzurum,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1352,21531154,1384,47,2020-07-27,0000-00-00,İzmir,Turkey,,10,2,5,5,5,5,5,5,5,5,5,0
+1358,21030905,209,461,2019-03-01,0000-00-00,Sakarya,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+1359,N16123506,1293,418,2020-07-01,0000-00-00,Ankara,Turkey,"I am responsible for the maintenance, development and management of existing software projects and responsible for the projects that will be developed here.",2,3,5,4,5,5,5,4,4,5,5,0
+1360,21784399,1,442,2020-08-04,0000-00-00,Ankara,Turkey,,8,5,5,5,5,5,4,3,2,5,4,0
+1361,21693335,1386,173,2020-07-11,0000-00-00,Ankara,Turkey,,1,3,0,5,0,0,5,0,5,0,0,0
+1362,21531264,1120,144,2020-06-02,0000-00-00,Adana,Turkey,,12,7,5,5,5,5,5,5,5,5,5,0
+1363,21232561,376,512,2020-03-01,0000-00-00,İstanbul,Turkey,,10,4,4,4,3,5,4,4,4,4,4,0
+1364,20829339,11,513,2019-02-13,0000-00-00,İstanbul,Turkey,,13,8,5,5,5,4,5,5,5,2,5,0
+1365,21280021,1387,54,2020-01-28,2020-07-24,Ankara,Turkey,,1,3,1,2,1,3,1,1,1,3,1,0
+1366,21131182,191,324,2019-03-01,0000-00-00,Kayseri,Turkey,,6,8,0,0,0,0,0,0,0,0,0,0
+1367,21131182,191,105,2018-05-14,2019-02-28,Kayseri,Turkey,,3,6,0,0,0,0,0,0,0,0,0,0
+1368,21531303,208,514,2020-07-20,2022-09-26,,Turkey,,14,3,5,5,5,5,5,5,5,5,5,0
+1369,20829669,73,516,2016-10-17,2019-10-01,İstanbul,Turkey,,14,1,0,0,0,0,0,0,0,0,0,0
+1370,20829669,73,515,2019-10-01,0000-00-00,İstanbul,Turkey,,13,1,0,0,0,0,0,0,0,0,0,0
+1371,21530999,208,517,2020-07-20,0000-00-00,,Turkey,,14,3,5,5,3,5,5,5,4,4,4,0
+1372,21531341,1,518,2020-08-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1373,20929998,15,210,2020-01-20,0000-00-00,Ankara,Turkey,,2,5,0,0,0,0,0,0,0,0,0,0
+1375,21030981,1389,59,2018-09-10,0000-00-00,Konya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+1376,21590886,985,519,2020-08-04,2021-03-12,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+1377,21232705,1,461,2020-07-06,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+1378,21431251,1390,368,2019-06-21,0000-00-00,Niğde,Turkey,,12,5,5,5,5,5,5,5,5,5,5,0
+1379,21531245,1,47,2020-08-02,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+1380,21431356,1394,523,2020-08-17,0000-00-00,İstanbul,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+1381,21693503,1395,184,2020-08-17,2021-04-02,Ankara,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+1382,21485586,1378,186,2020-06-29,0000-00-00,"New Liberty",Liberia,,1,8,5,5,5,5,5,5,5,5,5,0
+1383,21332115,30,20,2020-08-17,0000-00-00,Ankara,Turkey,,10,3,0,0,0,0,0,0,0,0,0,0
+1384,N19135150,1398,526,2020-08-24,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3046,21430972,1188,380,2020-09-01,2021-02-28,Ankara,Turkey,,1,4,2,1,1,4,1,1,1,1,1,0
+3047,21130918,45,527,2020-07-01,2020-08-02,İstanbul,Turkey,,14,4,3,3,4,5,4,2,1,3,3,0
+3048,21531025,1404,200,2020-09-07,2023-08-18,Manisa,Turkey,,14,8,3,2,2,4,2,3,1,2,3,0
+3049,21232504,852,5,2019-06-03,0000-00-00,Eindhoven,Netherlands,"Çeşitli üniversite ve şirketlerin katılımıyla başlatılan bir araştırma projesinin (MARCONI) bir parçasıyım. Üniversitemdeki araştırma faaliyetlerini danışmanlarımla birlikte yürütüyorum. Proje altında çalışan yüksek lisans ve lisans öğrencilerinin danışmanlığını yapıyorum. Bununla birlikte projemin de kapsamında bulunduğu Service Logistics Platform (SLF) organizasyonunun internet sitesinin moderatörlüğünü üstleniyorum.",10,8,5,5,5,5,5,5,3,5,5,0
+3050,21430934,79,530,2020-09-07,2021-11-08,İstanbul,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3051,21430986,1408,461,2020-09-14,0000-00-00,Ankara,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3052,N19238320,484,10,2020-08-01,0000-00-00,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3053,21430967,1410,531,2020-08-31,2020-12-18,Ankara,Turkey,,2,7,5,4,4,5,5,4,4,2,4,0
+3054,21531192,1,86,2020-08-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3055,N17110982,1412,256,2020-09-01,0000-00-00,Ankara,Turkey,,13,3,0,0,0,0,0,0,0,0,0,0
+3056,21232498,1211,1,2020-09-15,0000-00-00,Ankara,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3057,21232484,139,429,2020-09-15,0000-00-00,Ankara,Turkey,,11,7,5,4,5,5,5,5,3,4,4,0
+3058,21584833,1259,221,2020-09-01,0000-00-00,Ankara,Turkey,"siparişleri erp programına girmek düzenlemek, firmaya ne üreteceğini bildirmek stok takibi ve satınalmayla irtibatı sağlamak
+müşterilerle irtibatta olup sipariş almak",9,4,2,3,3,5,3,2,1,2,2,0
+3059,21431337,1413,522,2020-09-21,0000-00-00,Istanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3060,21431059,646,184,2020-09-09,2021-06-02,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3061,21531479,1230,461,2020-09-21,2020-12-28,Ankara,Turkey,,1,5,5,5,5,5,5,5,5,5,5,0
+3062,21731846,646,184,2020-09-21,2021-10-13,Ankara,Turkey,,5,3,5,5,5,5,5,3,0,5,5,0
+3063,21332464,1161,256,2020-09-23,2021-08-06,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3064,21631387,678,380,2020-10-05,0000-00-00,İstanbul,Turkey,,7,4,0,0,0,0,0,4,4,0,0,0
+3065,21631593,1,17,2020-10-01,0000-00-00,Ankara,Turkey,,13,5,5,5,0,0,0,0,0,0,0,0
+3066,21531187,1,532,2020-08-01,0000-00-00,Ankara,Turkey,"Proje takvimine göre teslimatların zamanında hazır olabilmesi için diğer bölümlerle koordine olarak hatasız ve kaliteli ürünler üretmek amacıyla verimli bir şekilde organizasyonu planlıyor ve raporluyorum.",14,5,0,0,0,0,0,0,0,0,0,0
+3067,21531063,1415,100,2020-10-05,2021-06-18,Bursa,Turkey,,4,3,0,0,0,0,0,0,0,0,0,0
+3068,21332167,1537,20,2020-10-05,0000-00-00,İstanbul,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3069,21332206,1419,375,2020-09-28,0000-00-00,İstanbul,Turkey,,9,3,0,0,0,0,0,0,0,0,0,0
+3070,21383513,1420,20,2016-02-01,2016-04-01,Ankara,Turkey,"•	Got trained and worked on the fundamentals of business intelligence and database systems
+•	Provided customer feedback to the programmers by creating project reports",1,3,3,3,3,4,2,2,1,3,3,0
+3071,21948322,1422,534,0000-00-00,0000-00-00,Eskişehir,Turkey,,14,8,0,4,3,0,4,1,1,1,0,0
+3072,21631522,1212,59,2020-10-12,2021-01-13,Ankara,Turkey,,3,7,5,5,5,5,5,5,5,5,5,0
+3073,N19133501,1424,20,2020-06-01,0000-00-00,Ankara,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3074,N20135563,1,10,2019-12-23,0000-00-00,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3075,N20135642,1425,17,2019-07-31,0000-00-00,Ankara,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+3076,N20137203,1426,535,2018-04-30,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3077,N20138252,1427,59,2013-10-13,2019-05-10,Ankara,Turkey,,1,8,0,0,0,0,0,3,1,4,3,0
+3078,N20138252,528,386,2019-09-19,0000-00-00,Ankara,Turkey,,3,8,0,4,3,4,4,4,3,4,4,0
+3079,N20143221,499,274,2016-10-10,0000-00-00,Ankara,Turkey,,14,2,0,0,0,0,0,0,0,0,0,0
+3080,N20143221,367,300,2014-09-03,2016-10-07,Ankara,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+3083,N20138913,30,1,2014-05-12,2017-04-13,Ankara,Turkey,,14,7,5,5,5,5,5,5,0,3,5,0
+3085,N20138913,15,168,2017-04-24,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3087,N20132199,1431,538,2020-06-21,0000-00-00,Ankara,Turkey,,8,7,5,4,4,5,5,4,3,5,4,0
+3089,N20131809,518,537,2012-08-30,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3090,N20140851,1435,224,2014-01-09,0000-00-00,Ankara,Turkey,,3,4,0,0,0,0,0,0,0,0,0,0
+3091,N19232767,1,167,0000-00-00,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3092,N20131413,828,114,2010-01-05,0000-00-00,Ankara,Turkey,"I have been preparing Project Charter, Stakeholder List, Project Management Plan, Project Schedule- Budget,  WBS. Project Risk Management Plan, Lessons Learned Document and Project Closing Report. 
+Additionally I have been managing Project Work and Project Knowledge with Project Manager. I have been monitoring and checking Project Work, Cost, Schedule, Quality, Resource, Risks And Procurements with Project Manager every month",3,8,5,5,5,5,5,5,4,5,4,0
+3093,N20133313,1404,167,2015-11-02,2018-03-03,Manisa,Turkey,,3,5,3,2,2,5,4,3,1,4,3,0
+3094,,370,465,2018-03-05,2019-09-08,Tekirda,Turkey,,1,5,4,3,4,4,4,3,1,4,4,0
+3095,,370,465,2018-03-05,2019-09-08,Tekirdağ,Turkey,,1,5,4,3,4,4,4,3,1,4,4,0
+3096,,370,465,2018-03-05,2019-09-08,Tekirdağ,Turkey,,1,5,4,3,4,4,4,3,1,4,4,0
+3098,N20133313,370,465,2018-03-05,2019-09-08,Tekirdağ,Turkey,,1,8,4,3,4,4,4,4,1,4,4,0
+3102,N20133313,16,21,2019-09-09,0000-00-00,Ankara,Turkey,,3,5,5,4,4,4,4,5,4,4,4,0
+3103,N20132883,1437,279,2015-05-17,0000-00-00,Ankara,Turkey,,10,5,4,4,5,5,5,3,3,5,4,0
+3104,N20137890,910,59,2014-12-08,2017-12-17,Çankırı,Turkey,,3,8,4,5,4,5,4,4,4,4,4,0
+3105,N20137890,671,59,2018-01-02,2020-10-02,Ankara,Turkey,,3,8,4,4,4,4,4,4,4,4,4,0
+3106,N20137890,64,137,2020-10-05,0000-00-00,Ankara,Turkey,,3,8,4,4,5,5,4,5,5,5,5,0
+3107,N20133049,797,47,2015-03-24,0000-00-00,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3109,N20135563,208,10,2014-08-10,2019-11-10,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3110,21332412,1438,550,2020-10-15,0000-00-00,"Frankfurt Am Main",Germany,,13,8,0,0,0,0,0,0,0,0,0,0
+3111,N20137203,1439,59,2015-06-23,2017-10-31,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3112,N20136590,15,343,2017-11-30,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3113,21732086,241,430,2020-09-01,0000-00-00,Ankara,Turkey,"I work here as a part of a special training programme called "Sen Ol! Yeni Nesil Staj Programı".  This programme covers not only enhancing my knowledge about the industry and applications of the company as a trainee but also joining the workshop designed for us to improve our soft-skills. As one of the first candidate engineers of this newly launched programme in Nurol Technology, I will work for five months under the Continuous Development Department every week.",1,8,0,0,0,0,0,0,0,0,0,0
+3114,N20134763,1441,541,2020-06-01,0000-00-00,Ankara,Turkey,,14,8,4,4,4,5,4,5,3,4,4,0
+3115,N20131384,566,242,2019-11-04,0000-00-00,,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3116,N20130501,51,343,0000-00-00,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3117,21580822,1312,542,2020-01-06,2020-05-06,İstanbul,Turkey,,10,4,5,5,3,5,5,5,3,1,4,0
+3118,21580822,1442,543,2020-09-07,0000-00-00,İstanbul,Turkey,,2,4,5,5,4,5,5,5,4,1,4,0
+3120,N20132358,1444,339,2019-03-05,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3121,N20136456,435,17,2014-02-24,2017-08-17,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3122,N20136456,38,167,2017-08-20,2019-11-17,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3123,N20136456,566,413,2019-11-18,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3124,N20143908,1055,546,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,5,5,4,5,5,5,4,4,5,0
+3125,N20138087,518,464,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3126,N20134709,64,279,2010-09-05,0000-00-00,Ankara,Turkey,,14,5,5,5,4,4,5,4,4,5,5,0
+3127,N19239149,1447,491,2020-08-21,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3128,N20138298,1449,28,2019-11-01,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3129,N20136928,934,86,2020-10-12,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3134,N20134528,1450,176,2014-07-21,2015-09-01,Samsun,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3136,N20134528,425,462,2015-09-21,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,4,4,4,5,0
+3137,N20137108,1169,343,2020-08-04,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3138,N20138679,5,5,2010-06-30,2012-09-28,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3139,N20137009,1453,57,2019-01-02,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3140,N20139530,1455,221,2019-10-10,2020-02-12,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3141,21131144,1257,549,2020-10-13,0000-00-00,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3142,N20138797,965,239,2018-12-17,0000-00-00,Ankara,Turkey,,14,8,3,5,3,3,4,5,3,4,3,0
+3143,N20135675,1459,298,2017-02-19,0000-00-00,Ankara,Turkey,,5,5,4,3,3,3,5,4,4,4,4,0
+3144,21531077,16,47,2020-10-21,2022-03-13,İstanbul,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3145,N20135891,1460,59,2018-08-06,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3146,N20135642,919,17,2018-11-12,2019-07-26,Ankara,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+3147,N20136662,15,247,2018-09-17,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3150,21531427,695,17,2020-10-26,2021-07-05,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3152,N20135286,1463,551,2018-12-24,0000-00-00,Ankara,Turkey,,3,8,4,3,5,5,5,3,5,3,0,0
+3153,20901248,1464,552,2020-12-01,0000-00-00,Eindhoven,Netherlands,,2,8,0,0,5,0,0,5,5,0,0,0
+3154,N20138639,507,11,0000-00-00,0000-00-00,,Turkey,,14,1,0,0,0,0,0,0,0,0,0,0
+3155,N20138639,15,114,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3156,N20131031,1466,551,0000-00-00,0000-00-00,Ankara,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3157,N16210877,357,559,2020-11-02,0000-00-00,Ankara,Turkey,,1,5,5,5,5,5,5,5,5,5,5,0
+3158,21731813,139,430,2020-11-09,2021-06-30,Ankara,Turkey,,3,8,5,5,5,5,5,0,0,0,4,0
+3159,21631761,1,430,2020-11-16,2021-08-31,Ankara,Turkey,,3,8,5,0,0,0,0,0,0,0,0,0
+3160,21531317,1,430,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3161,21332019,1361,205,2018-10-08,0000-00-00,Denizli,Turkey,,3,7,5,5,5,5,5,5,5,4,0,0
+3162,21692506,1414,173,2020-10-05,2021-02-26,Ankara,Turkey,,14,3,0,4,3,3,4,4,3,2,4,0
+3163,21531465,75,560,2020-11-08,0000-00-00,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3164,21631541,1,430,2020-11-16,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3165,21631497,1,430,2020-11-16,2021-06-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3166,21693129,543,214,2020-11-16,0000-00-00,İstanbul,Turkey,,3,3,5,4,4,3,4,4,4,5,4,0
+3167,21130846,1119,551,2019-01-07,2019-12-13,Tekirda,Turkey,"Preparation of control plans for raw material input control, process control and final control.
+Management and administration of quality control personnel.
+Making preparations for internal, certification and external audits in terms of documentation and workflow and accompanying the audit process.",10,8,3,4,4,5,4,4,2,4,3,0
+3168,21130846,1361,448,2019-12-23,2020-09-25,Denizli,Turkey,"Following the project steps starting from the idea stage.
+Preparation of detailed feasibility studies of the projects.
+Organization of investment meetings and notification of decisions to relevant departments at the end of the meeting.
+Questioning the regularity of the daily reports and the accuracy of the data.
+Setting up automation scenarios and systems in existing facilities.
+Performing internal audits and determination and solution processes of errors or malfunctions in facilities.
+Managing systemic problems and IT issues without causing possible errors.",10,1,4,3,4,5,3,4,3,4,4,0
+3169,21130846,1471,561,2020-10-07,2023-12-01,Mersin,Turkey,"Execution, follow-up and reporting of projects that change and develop in line with the demands and requirements of the head office, internal customers and department. Implementing them if the results are positive.",10,8,5,5,5,5,5,5,5,4,5,0
+3170,21531369,1,450,2020-11-18,0000-00-00,Ankara,Turkey,,7,8,5,5,5,5,5,5,5,5,5,0
+3171,N19234938,1167,491,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3172,21531374,61,97,2020-11-16,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3173,21232451,421,337,2020-12-01,0000-00-00,İstanbul,Turkey,,10,4,4,5,4,0,0,0,0,0,0,0
+3174,N19234207,1041,59,2020-07-27,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3175,21692946,1373,562,2020-11-02,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3176,21332076,1,563,2020-12-01,0000-00-00,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3177,21232652,28,136,2020-11-30,0000-00-00,Ankara,Turkey,"Trademark Specialist",13,8,4,4,4,4,4,4,4,4,4,0
+3178,20930063,146,564,2020-12-01,0000-00-00,Almhult,Sweden,,13,8,0,0,0,0,0,0,0,0,0,0
+3179,21431251,1475,17,2020-12-07,0000-00-00,Adana,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+3180,20930116,1211,549,2020-09-15,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3181,20727672,208,566,2017-03-01,2019-01-01,Ankara,Turkey,"Reported domestic tractor status on daily basis. Owner of the order managing based on the make to order procedure for domestic market. Collecting orders from dealers within N+2 period. Analyzed and confirmed orders with constraint of production. Analyzed, reported and improved forecast accuracy by using sales seasonality. Developed cooperation with Finance, Foreign Trade, Marketing and Sales Teams for campaign and budget processes. Managed import tractor and equipment order processes. Follow up market trends with Marketing and Sales Teams. Presented monthly sales, inventory, order, production quantities to top management. Arranged monthly S&OP meetings and prepared presentation to top management which was related with realized sales, inventory, production quantities and next month’s target.",14,8,4,4,4,4,4,4,4,4,4,0
+3182,20727672,1476,567,2019-04-08,0000-00-00,İstanbul,Turkey,"Managing sales, production and inventory levels of six different global plant which are Turkey, Laurel Hill, Chattanooga, Brazil, Thailand and Indonesia. Collected and analyzed SPI files from all sites. Optimization between production plants, following inventory levels, analyzing production occupancy rates, reducing slow moving inventory, simulating potential slow-moving inventories, working capital study and stock rotation rates. Launching SAP IBP module for SOP integration project. Following, analyzing and reporting KPI for all sites. Preparing and presenting monthly Supply Chain Call Meeting presentation. Evaluating month closure quantities for stock, production and sales with all sites supply chain responsible.",2,8,4,3,3,4,4,3,3,5,4,0
+3183,21031112,146,568,2020-01-20,0000-00-00,İstanbul,Turkey,,2,6,0,0,0,0,0,0,0,0,0,0
+3184,20930058,1477,569,2017-10-09,2019-12-20,Osmaniye,Turkey,,3,4,0,0,0,0,0,0,0,0,0,0
+3185,20930058,1257,94,2020-01-07,0000-00-00,Kayseri,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3186,21631445,208,579,2020-12-14,2021-05-28,Ankara,Turkey,,2,2,5,4,4,5,4,1,1,1,3,0
+3187,21531231,16,256,2020-12-14,0000-00-00,Bolu,Turkey,,2,7,0,0,0,0,0,0,0,0,0,0
+3188,21631809,208,43,2020-12-14,2021-05-28,,Turkey,,13,2,0,0,0,0,0,0,0,0,0,0
+3189,21784017,1483,571,2020-12-21,0000-00-00,İstanbul,Turkey,,13,6,0,0,0,0,0,0,0,0,0,0
+3190,21731626,740,104,2020-12-21,0000-00-00,Bursa,Turkey,,3,6,0,0,0,0,0,0,0,0,0,0
+3191,21631483,208,43,2020-12-14,2021-05-28,Sakarya,Turkey,,2,5,5,5,5,5,5,5,5,5,5,0
+3192,20930102,1484,22,2020-12-14,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3193,20930102,1484,22,2020-12-14,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3194,21430967,680,573,2020-12-21,0000-00-00,Ankara,Turkey,,2,7,5,4,5,4,5,5,5,3,4,0
+3195,21531479,828,256,2021-01-05,0000-00-00,Ankara,Turkey,,1,8,5,5,5,5,5,5,5,5,5,0
+3196,21380929,793,375,2021-01-04,2022-01-05,İstanbul,Turkey,,5,3,5,5,5,5,5,5,5,5,5,0
+3197,21431265,1485,574,2021-01-03,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3198,21531149,1,450,2021-01-04,0000-00-00,,Turkey,,13,8,5,5,5,5,5,5,5,5,5,0
+3199,21280021,723,173,2020-10-11,0000-00-00,Ankara,Turkey,"Developing web applications about cyber security and cyber protection",3,3,3,5,4,4,5,5,3,4,4,0
+3200,21785162,783,575,2021-01-12,0000-00-00,Ankara,Turkey,,13,3,5,5,3,5,5,4,4,5,4,0
+3201,21332373,1486,214,2021-01-03,0000-00-00,Ankara,Turkey,,1,3,5,5,5,5,5,5,5,5,5,0
+3202,21431342,1037,274,2021-01-18,2022-03-15,Kocaeli,Turkey,"Planning daily / monthly capacity assesment,
+Research upon investment opportunities 
+Man-refinement projects managements
+Facility lay-out studies after GEMBA",3,8,1,1,1,1,1,2,1,3,1,0
+3203,21531393,1431,24,2021-01-20,0000-00-00,Ankara,Turkey,,1,7,4,5,4,5,5,4,3,5,4,0
+3204,21431304,477,54,2021-01-14,2021-11-12,Ankara,Turkey,,1,7,4,3,2,5,4,3,2,3,4,0
+3205,21431188,1,24,2021-01-18,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3206,21431279,1487,225,2019-09-25,0000-00-00,Giresun,Turkey,,11,8,5,5,5,5,5,3,3,3,5,0
+3208,21332368,80,577,2021-02-01,2021-04-10,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3209,21606101,1488,578,2021-01-18,2022-05-27,Ankara,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3210,21531121,75,268,2021-02-02,0000-00-00,Kocaeli,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3211,21732144,357,430,2021-02-01,2021-08-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3212,21631569,357,430,2021-02-01,2021-06-30,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3213,21631522,64,588,2021-02-01,0000-00-00,Ankara,Turkey,"CANIAS ERP Applications Developer",13,3,5,5,5,5,5,5,5,5,5,0
+3214,21607992,966,339,2021-02-01,2021-03-11,Ankara,Turkey,,10,8,5,5,5,5,5,5,5,5,5,0
+3215,21030704,72,580,2021-02-15,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3216,21430929,61,581,2021-02-15,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3217,21232724,1,24,2021-02-15,0000-00-00,Ankara,Turkey,,2,8,5,5,5,5,5,5,5,5,5,0
+3218,N17117591,1490,59,2019-12-09,2020-12-31,Denizli,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3219,21531006,618,43,2021-02-15,2021-08-13,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3220,21331984,123,200,2021-02-08,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,5,0,0
+3221,21232413,828,706,2019-11-11,2023-06-16,Ankara,Turkey,,10,8,5,5,5,5,5,5,5,5,5,0
+3222,21631588,208,590,2021-01-23,2021-05-21,,Turkey,,14,8,5,5,5,5,5,3,4,3,5,0
+3223,21531297,75,582,2021-02-08,0000-00-00,Kocaeli,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3224,21332497,773,50,2019-10-01,0000-00-00,Kayseri,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3225,21430972,208,583,2021-03-01,2021-10-08,Ankara,Turkey,,1,3,4,4,0,0,0,0,0,0,0,0
+3226,21693459,1492,461,2021-01-08,2021-10-07,İstanbul,Turkey,,2,5,0,0,0,0,0,0,0,0,0,0
+3227,21831352,1046,342,2019-07-01,2019-09-15,Mu,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3228,21831352,1046,342,2021-08-01,2020-10-10,Mu,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3229,21631794,400,300,2021-03-15,0000-00-00,Eskişehir,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3230,21607992,1306,1,2021-03-15,2022-03-04,Ankara,Turkey,,1,8,5,5,5,5,5,5,5,5,5,0
+3231,21631665,618,43,2021-02-15,2021-07-17,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3232,21431394,1493,310,2021-12-01,2021-10-31,Bursa,Turkey,"+ Machine setup process improvement in furniture manufacturing
++ Organizing lean study training for employees
++ Making a production plan
++ Making contract with foreign and domestic customers and preparing offers
++ Prepare usage instructions of the machines in production line",2,5,2,2,1,5,1,3,1,2,1,0
+3233,21431394,1494,22,2021-02-01,0000-00-00,Bursa,Turkey,"+ Makind agreement products with suppliers
++ Determining product prices
++ Preparing the order amount by predicting the consumption of the branches
++ Developing new strategies to increase the sales of branches
++ To prevent product leaks
++ Follow the quality problems of the product groups assigned to you after sales and to find solutions",3,6,2,3,3,5,4,3,3,4,4,0
+3234,21685144,1,461,2020-07-06,0000-00-00,Ankara,Turkey,,8,5,5,5,5,5,5,5,5,5,5,0
+3235,21692506,1041,175,2021-03-01,0000-00-00,Ankara,Turkey,,2,5,4,4,3,4,4,3,3,4,4,0
+3236,21332148,72,586,2020-12-24,0000-00-00,İstanbul,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+3237,21590886,985,47,2021-02-01,2021-11-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3239,21685086,1498,589,2021-04-06,2022-06-01,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3240,21332349,875,461,2021-04-07,0000-00-00,Osmaniye,Turkey,,9,5,5,5,5,5,5,5,5,5,5,0
+3241,21631483,1499,43,2021-03-01,2021-06-30,İstanbul,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3242,21693503,30,10,2021-04-07,0000-00-00,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3243,21531168,30,10,2021-04-28,0000-00-00,Ankara,Turkey,,14,6,5,5,5,5,5,5,5,5,5,0
+3244,21431227,68,167,2021-04-27,0000-00-00,Manisa,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3245,21631459,843,43,2021-04-20,2022-02-15,Manisa,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3246,21631588,1500,192,2021-05-24,2022-04-01,,Turkey,"Treasury Infrastructure and Fixed Income Securities",6,8,5,5,5,5,5,4,4,4,5,0
+3247,21732029,1286,591,2021-04-05,0000-00-00,Ankara,Turkey,,14,3,5,5,0,5,0,0,0,0,0,0
+3248,21732086,1500,592,2021-05-24,2022-08-16,İstanbul,Turkey,"Data Analyst at Data Warehouse
+
+Title goes by Data Analyst in my department whereas it is more like a Business Analyst with the capabilites of dealing with data architecture and models. 
+
+Main duties are as follows:
+-Requirement management between the corporate client and the development team
+-Modelling datamarts tailored to corporate clients' needs
+-Creating reports and dashboards using Oracle SQL, Oracle BI, Qlik Sense
+-User Interface Design using Justinmind
+-Data quality and datamart test scenarios",2,3,5,5,5,5,5,5,4,4,5,0
+3250,21692764,1501,593,2021-03-01,0000-00-00,İstanbul,Turkey,"• To provide analysis and documentation management for the improvement and development of customer business processes for critical customers that are responsible for the sector.
+• Identifying efficiency and digitalization opportunities and making suggestions on improvement and development projects by realizing the first designs
+• To bring solutions in the focus areas determined in the project, to ensure that the projects are completed on the determined schedule and to publish progress reports
+• To make effective coordination between the relevant functions by taking part in the approved projects
+- To follow the process by transferring the needs to the software teams through the prepared analyzes
+- Making meetings and presentations to relevant managers and teams to share ideas and analysis
+- To provide information and training on the projects developed by working in coordination with the Customer Representative responsible for the customer.
+• To be in regular and close communication with all stakeholders.",6,7,5,4,5,5,5,3,4,4,5,0
+3251,21232479,1503,594,2021-03-08,0000-00-00,Ankara,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+3252,21031107,16,596,2021-05-01,0000-00-00,İstanbul,Turkey,,14,8,4,4,4,4,4,4,4,4,4,0
+3253,21431059,30,10,2021-06-09,2022-06-10,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3254,21531504,15,374,2021-06-07,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3255,21431064,1506,578,2021-05-24,2022-01-14,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3256,N20137192,1430,597,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3257,21531044,1507,598,2021-06-15,0000-00-00,Munich,Germany,,2,6,0,0,0,0,0,0,0,0,0,0
+3258,21531063,1509,100,2021-06-21,0000-00-00,Bursa,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3259,21531427,16,47,2021-07-05,0000-00-00,İstanbul,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3260,21232743,1512,442,2021-07-05,0000-00-00,Kayseri,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3261,21431031,695,17,2021-07-12,0000-00-00,Kütahya,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3263,21607921,783,602,2021-08-02,2023-03-17,Ankara,Turkey,"-Producing system level requirements by doing business analysis
+-Making the system designs necessary for the software to be written
+-Creating inputs for improvements based on user experience
+-Technical project documentation
+-Performing functional and integrational tests of the written software
+-Planning and management of system configurations",13,3,5,3,3,5,4,4,2,5,4,0
+3264,20829564,82,603,2019-11-01,0000-00-00,İstanbul,Turkey,,2,3,5,5,5,5,5,5,4,5,5,0
+3265,21631541,1,47,2021-07-01,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3266,21996049,208,604,2021-08-02,2022-01-14,Ankara,Turkey,,1,2,5,5,5,5,5,4,4,5,5,0
+3267,21431208,1517,10,2021-03-17,0000-00-00,İstanbul,Turkey,,3,6,4,4,2,5,5,5,3,4,4,0
+3268,20829421,5,5,2013-09-02,2021-09-28,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3270,21631775,1519,26,2021-08-02,0000-00-00,İstanbul,Turkey,,2,4,0,0,0,0,0,0,0,0,0,0
+3271,21131202,621,29,2021-08-02,2021-09-30,İstanbul,Turkey,,1,1,5,5,3,5,5,5,5,4,5,0
+3272,21631497,1,609,2021-07-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3273,21332335,1524,410,2021-08-02,0000-00-00,Utrecht,Netherlands,,10,3,0,0,0,0,0,0,0,0,0,0
+3274,21631756,421,611,2021-08-09,0000-00-00,,Turkey,,3,3,5,5,0,0,0,0,0,0,0,0
+3275,21631431,421,613,2021-08-02,0000-00-00,İstanbul,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3276,21332464,1,24,2021-08-16,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3277,21631704,30,10,0000-00-00,0000-00-00,,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3279,21693646,1532,184,2021-04-20,2021-12-31,Ankara,Turkey,,1,3,3,3,0,0,0,0,0,0,0,0
+3280,21531427,1538,259,2021-08-16,0000-00-00,Sakarya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3281,21531082,1527,232,2020-10-22,0000-00-00,Ankara,Turkey,,2,7,5,5,5,4,5,5,5,5,5,0
+3282,21232762,1,144,2020-08-04,0000-00-00,Ankara,Turkey,,10,7,5,5,5,5,5,5,5,5,5,0
+3283,N20236072,15,465,2017-03-06,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3284,21631809,208,218,2021-08-23,0000-00-00,Sakarya,Turkey,,9,8,0,0,0,0,0,0,0,0,0,0
+3285,21731808,99,36,2021-09-06,2021-12-01,Aksaray,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3286,N20234781,1540,137,2018-12-17,0000-00-00,Ankara,Turkey,,14,8,3,3,3,4,4,2,1,3,3,0
+3287,21531006,1541,615,2021-09-15,2022-12-16,İstanbul,Turkey,,2,8,3,2,1,1,2,5,3,4,3,0
+3288,N20132867,1176,360,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,4,5,4,4,4,4,4,4,4,0
+3289,21631632,1543,526,0000-00-00,0000-00-00,Ankara,Turkey,,1,5,4,4,4,4,4,4,4,4,4,0
+3290,21171288,1515,616,2021-09-06,0000-00-00,Brussels,Belgium,,14,3,0,0,0,0,0,0,0,0,0,0
+3291,21631569,357,618,2021-07-01,0000-00-00,Ankara,Turkey,,8,8,5,5,5,5,5,5,5,5,5,0
+3292,21732034,1516,409,2021-07-30,2021-09-16,Ankara,Turkey,,9,4,3,3,2,5,3,3,2,2,4,0
+3293,N20236572,15,465,2017-05-07,0000-00-00,,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3294,N20231575,1194,174,2016-09-01,0000-00-00,Ankara,Turkey,,13,8,5,5,4,5,5,4,4,5,5,0
+3295,21332316,757,274,2020-01-01,2021-12-24,,Turkey,,14,5,5,4,5,5,5,4,4,4,5,0
+3296,21332316,1306,47,2020-10-14,2021-12-26,Ankara,Turkey,"Project Management,
+Strategic Management",14,8,4,4,4,5,5,4,4,4,4,0
+3297,21889981,1544,386,2021-03-08,2021-06-14,Ankara,Turkey,,1,5,3,5,5,5,4,3,3,4,4,0
+3298,21631445,400,619,2021-09-20,0000-00-00,Eskişehir,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3300,21631761,1,144,2021-09-01,0000-00-00,Ankara,Turkey,,8,8,4,5,5,5,4,4,4,4,4,0
+3301,21731956,75,430,2021-10-08,2022-06-24,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3302,21731813,1,47,2021-10-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3303,21631478,1535,430,2021-08-01,2022-06-01,Online,Turkey,,9,3,5,5,5,5,5,5,5,5,5,0
+3305,21631794,1,17,2021-10-18,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3306,21731846,1553,624,2021-10-18,0000-00-00,İstanbul,Turkey,,13,3,5,5,5,5,5,5,5,5,5,0
+3307,21732144,357,618,2021-09-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3308,21430972,1,47,2021-10-18,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3309,21131221,1554,626,2021-10-18,2022-03-04,İstanbul,Turkey,,14,3,5,5,5,5,5,3,3,4,5,0
+3310,21631684,906,47,2021-09-05,0000-00-00,Ankara,Turkey,,9,4,0,0,0,0,0,0,0,0,0,0
+3311,21531058,1555,521,2021-11-08,2022-06-22,İstanbul,Turkey,,1,3,0,0,0,0,0,0,0,0,0,0
+3312,21732034,1,430,2021-11-22,2022-07-31,Ankara,Turkey,,13,8,5,5,5,0,0,0,0,0,0,0
+3313,21731808,1,430,2021-11-23,2022-06-30,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3314,21731587,1,430,2021-11-22,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3315,21731683,1,430,2021-11-22,0000-00-00,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3316,21731573,139,430,0000-00-00,0000-00-00,,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3317,21809036,370,430,2021-12-02,0000-00-00,Tekirdağ,Turkey,,2,7,5,5,5,5,5,5,5,5,5,0
+3318,21889541,566,430,2021-11-05,2022-04-15,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3319,21732106,15,430,2021-12-06,2022-05-31,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3320,21685513,1562,100,2019-08-01,0000-00-00,Amasya,Turkey,,12,7,0,0,0,0,0,0,0,0,0,0
+3321,21631517,1,47,2021-12-21,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3322,21995024,1,430,2021-11-22,0000-00-00,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3323,21731612,1565,430,2022-01-17,0000-00-00,Eskişehir,Turkey,,8,7,0,0,0,0,0,0,0,0,0,0
+3324,21631483,1563,629,2021-10-11,0000-00-00,İstanbul,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3325,21631698,1566,630,2021-12-16,2022-09-30,Zonguldak,Turkey,"Ensuring that the new investments or improvements are feasible and profitable for the company.",1,8,5,5,5,5,5,5,3,5,5,0
+3326,21631665,1,17,2022-01-03,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3327,21731626,740,10,2021-08-02,2021-12-30,Bursa,Turkey,,8,6,0,0,0,0,0,0,0,0,0,0
+3328,21731626,1,631,2022-01-03,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3329,21685273,64,322,2022-01-03,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3331,21732053,141,430,2022-01-17,0000-00-00,,Turkey,,2,6,0,0,0,0,0,0,0,0,0,0
+3332,21131202,1567,632,2021-10-18,0000-00-00,London,"United Kingdom",,1,1,5,5,5,5,5,5,5,5,5,0
+3333,21431304,1568,560,2022-01-10,2023-02-03,İstanbul,Turkey,,14,3,5,5,3,5,5,5,3,3,4,0
+3334,21531173,1569,5,2021-12-20,0000-00-00,Trabzon,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3335,21731898,15,430,2021-12-07,2022-05-31,Ankara,Turkey,,14,7,5,4,4,5,5,3,4,2,4,0
+3336,21806903,646,184,2021-11-29,0000-00-00,Ankara,Turkey,,2,3,5,5,5,5,5,5,5,5,5,0
+3337,21332316,75,277,2021-12-29,2022-07-07,,Turkey,"Raw Material Procurement",13,6,4,4,4,4,4,4,3,3,4,0
+3338,21731937,14,365,2021-09-06,0000-00-00,Ankara,Turkey,,8,5,0,0,0,0,0,0,4,0,0,0
+3339,21430934,1,47,2021-11-15,0000-00-00,Ankara,Turkey,,9,8,4,5,5,4,4,5,4,5,4,0
+3340,21948393,1571,633,2021-08-02,2021-12-31,İzmir,Turkey,"- Tracking the manufacturing area
+- Stock follow-up of semi-finished products and products
+- Selection of the products that will go to the heat treatment furnace
+- Processing the product informations coming from the heat treatment furnace into the CANIAS ERP program
+- Daily production and tonnage tracking with CANIAS ERP program.
+- Creation of work orders from the CANIAS ERP program",9,5,0,0,0,0,0,0,0,0,0,0
+3341,21531207,208,10,2020-08-17,2022-02-11,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3342,21590886,985,636,2021-12-01,2022-02-04,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3343,21531039,1574,20,2021-10-19,0000-00-00,Ankara,Turkey,,10,8,5,5,5,5,5,5,5,3,5,0
+3344,21631459,1,631,2022-03-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3345,21531432,1575,274,2021-10-10,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3347,21431007,1577,173,2022-03-21,2024-02-29,Ankara,Turkey,"• Designed and implemented RESTful API endpoints using Django REST Framework.
+• Created models, views, serializers, and viewsets to handle data interactions.
+• Collaborated with front-end developers to ensure seamless integration of design and functionality.
+• Utilized OpenAPI Specification (OAS) to define RESTful API endpoints, request parameters, and response
+formats using HTML and JSON.
+• Documented API paths, methods (GET, POST, PUT, DELETE), query parameters, request bodies, and
+response schemas.
+• Optimized database queries and improved overall performance.
+• Managed as well feature delivery to production in a Kubernetes based on CI/CD infrastructure.
+• Implemented user authentication and authorization mechanisms.
+• Conducted thorough testing and debugging to ensure high-quality code.
+• Developed test cases to cover various functionalities of the application.
+• Created fixtures to set up preconditions for test functions.
+• Implemented parameterized tests to validate different input scenarios.
+• Implemented E2E tests using Selenium WebDriver and Python programming language.
+• Managed version control (git, github) for complex software projects with multiple contributors,
+branches, and releases.",2,3,5,5,5,5,5,5,5,5,5,0
+3348,21590886,425,20,2022-03-21,0000-00-00,Ankara,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3349,21607992,1306,144,2022-03-04,2022-11-23,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3350,21631613,1552,623,2021-10-18,0000-00-00,Ankara,Turkey,,2,8,4,4,4,4,4,4,4,4,4,0
+3351,21332368,16,47,2022-03-07,0000-00-00,Ankara,Turkey,,9,5,0,0,0,0,0,0,0,0,0,0
+3352,21332081,100,637,2021-04-01,2022-02-15,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3353,21332081,100,638,2022-02-16,0000-00-00,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3354,21693646,72,77,2022-01-03,0000-00-00,,Turkey,,10,3,4,4,4,4,4,4,3,4,4,0
+3355,21531077,75,639,2022-03-14,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3356,20930187,27,640,2022-02-01,0000-00-00,Antalya,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3357,21731631,68,308,2022-01-18,0000-00-00,Manisa,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3358,21731846,1500,192,2022-04-24,0000-00-00,İstanbul,Turkey,,8,3,0,0,0,0,0,0,0,0,0,0
+3359,21332392,1,450,2022-06-01,0000-00-00,Ankara,Turkey,,13,8,5,5,5,5,5,5,5,5,5,0
+3360,21685086,1498,641,2022-06-01,2023-12-01,Ankara,Turkey,,9,8,5,5,5,5,5,5,5,5,5,0
+3361,21731664,906,643,2022-02-14,0000-00-00,Ankara,Turkey,,9,5,0,0,0,0,0,0,0,0,0,0
+3365,N21135120,369,55,0000-00-00,0000-00-00,Ankara,Turkey,,1,8,5,5,5,0,5,0,0,5,5,0
+3367,N21239758,1579,55,2017-06-19,2020-05-01,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3368,N21239758,30,645,2020-05-11,2022-02-25,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3369,N21239758,30,644,2021-11-01,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3370,N21137806,985,519,2016-08-15,2017-11-03,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3371,N21137806,143,322,2017-11-20,2020-07-28,Bursa,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3372,N21137806,95,100,2020-08-05,2021-04-02,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3373,N21137806,15,374,2021-04-05,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3374,21631588,1500,33,2022-04-01,0000-00-00,Remote,Turkey,"Treasury Infrastructure and Fixed Income Securities",9,1,5,5,5,5,5,4,4,4,5,0
+3375,21693459,1580,24,2021-11-01,0000-00-00,Gebze,Turkey,,6,5,0,0,0,0,0,0,0,0,0,0
+3377,21531011,1582,648,2020-12-07,2022-05-31,Remote,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3378,21531011,1581,647,2022-06-01,0000-00-00,Zwaagdijk-oost,Netherlands,,14,8,0,0,0,0,0,0,0,0,0,0
+3379,21631536,72,276,2021-08-02,2022-02-11,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3380,21631536,1,442,2022-02-21,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3381,21731994,793,650,2022-07-18,0000-00-00,İstanbul,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3382,21631828,1,651,2022-05-09,0000-00-00,Ankara,Turkey,,10,5,5,5,4,5,5,5,5,4,5,0
+3383,21631828,241,218,2021-04-01,2022-04-29,Ankara,Turkey,,1,5,3,2,4,4,3,1,1,3,3,0
+3384,21431342,1,461,2022-03-22,0000-00-00,Ankara,Turkey,"Planning of production indigenous projects / products.",10,5,3,2,5,3,5,1,2,5,3,0
+3385,20727452,15,47,2021-11-01,2022-06-01,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3386,20727452,1586,652,2022-06-01,0000-00-00,,Malta,,14,8,0,0,0,0,0,0,0,0,0,0
+3387,21431064,1488,578,2022-01-24,0000-00-00,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3388,21731683,1,94,2022-06-01,0000-00-00,Ankara,Turkey,,9,5,0,0,0,0,0,0,0,0,0,0
+3389,20829363,15,653,2021-08-01,0000-00-00,,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3390,21531116,1438,654,2022-03-01,0000-00-00,Crailsheim,Germany,,9,5,4,4,4,4,4,4,4,4,4,0
+3391,21606101,1,17,2022-06-07,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3392,21731827,1592,658,2022-03-01,0000-00-00,,Turkey,,1,8,5,5,5,5,5,5,4,3,4,0
+3393,21531212,68,86,2022-04-19,0000-00-00,İzmir,Turkey,,3,5,5,5,5,5,5,5,4,5,4,0
+3394,21889541,566,242,2022-04-15,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3395,21383565,241,659,2021-11-01,0000-00-00,Ankara,Turkey,,3,5,5,5,3,5,5,5,5,4,5,0
+3396,21731884,425,20,2022-06-23,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3397,21332239,1,660,2021-07-01,0000-00-00,,Turkey,"Review of the compliance documents
+Preparation of the certification documents
+
+Part 21, DOA, POA, ETSO, SMS, ARP4761, FMEA, Reliability",14,7,5,5,4,5,4,5,4,4,4,0
+3398,21030885,566,114,2020-02-03,2022-07-14,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3399,21030885,1593,144,2022-07-18,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3400,21332095,1594,662,2021-09-13,2022-02-14,İstanbul,Turkey,,10,6,0,0,0,0,0,0,0,0,0,0
+3401,21332095,1595,663,2022-03-01,2022-08-31,İstanbul,Turkey,,3,8,5,5,5,5,5,5,5,4,5,0
+3402,21383513,1596,20,2021-08-26,0000-00-00,Ankara,Turkey,,1,3,5,5,5,5,5,5,5,5,5,0
+3403,21631392,1,318,2022-03-21,0000-00-00,Ankara,Turkey,,2,5,5,5,5,5,5,5,5,5,5,0
+3404,20829492,94,664,2021-04-05,0000-00-00,,"Iran, Islamic Republic of",,14,8,0,0,0,0,0,0,0,0,0,0
+3405,21631651,123,322,2022-03-21,2022-12-23,Kocaeli,Turkey,,13,8,5,5,5,5,3,5,4,5,4,0
+3406,21731808,1,450,2022-07-01,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3407,21279769,26,666,2021-12-06,0000-00-00,Eskişehir,Turkey,,13,8,5,5,5,5,5,5,5,5,5,0
+3408,N21231981,1598,551,2021-12-01,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3409,N21231981,1599,86,2018-06-05,2021-08-12,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3410,21531058,1600,667,2022-06-27,0000-00-00,İstanbul,Turkey,,2,3,5,0,0,0,0,0,0,0,0,0
+3411,21131221,1602,668,2022-03-07,2024-03-01,,Turkey,"Salesforce System Administrator",2,3,5,5,5,5,5,5,5,5,5,0
+3412,21732034,1,450,2022-08-01,0000-00-00,Ankara,Turkey,,8,7,5,5,5,5,5,5,4,5,5,0
+3413,N17136606,5,5,2022-03-23,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3414,20727686,1603,18,2019-07-24,2021-09-30,Vienna,Austria,,1,3,2,1,1,1,1,5,0,5,1,0
+3415,20727686,1604,33,2021-10-01,0000-00-00,Vienna,Austria,,13,3,5,5,5,5,5,5,5,5,5,0
+3416,21731956,75,669,2022-07-27,0000-00-00,İstanbul,Turkey,,9,4,0,0,0,0,0,0,0,0,0,0
+3419,21531283,1605,259,0000-00-00,0000-00-00,Ankara,Turkey,,1,8,5,5,5,5,5,5,5,5,5,0
+3421,21631847,1098,670,2022-07-01,2022-10-15,Berlin,Germany,,10,1,4,3,3,5,4,2,1,2,3,0
+3422,21831132,1609,671,2022-08-01,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3423,21831108,793,674,0000-00-00,0000-00-00,Istanbul,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3424,21431059,64,277,2022-08-08,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3425,21732106,1610,26,2022-08-01,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3426,,64,588,2022-04-11,0000-00-00,Ankara,Turkey,,14,3,5,5,0,0,0,0,0,5,0,0
+3427,,64,588,2022-04-11,0000-00-00,Ankara,Turkey,,14,3,5,5,0,0,0,0,0,5,0,0
+3428,,64,588,0000-00-00,0000-00-00,,Turkey,,14,3,5,5,0,0,0,0,0,5,0,0
+3429,,64,588,0000-00-00,0000-00-00,Ankara,Turkey,,14,3,5,5,0,0,0,0,0,5,0,0
+3432,20829358,797,675,2021-02-08,2022-06-30,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3433,21631503,30,431,2022-07-04,0000-00-00,Ankara,Turkey,,3,7,0,0,0,0,0,0,0,0,0,0
+3435,21693588,425,72,2022-06-01,0000-00-00,Ankara,Turkey,,10,3,5,5,5,5,5,5,4,3,5,0
+3436,N21233421,69,677,2022-08-08,0000-00-00,Ankara,Turkey,,14,3,5,5,5,5,5,5,5,5,5,0
+3437,21232671,1613,678,2022-05-01,0000-00-00,BIRMINGHAM,"United Kingdom","My Tiktok/instagram profile is BRUMMIE_POV. I reached +60k followers.",5,4,5,5,5,5,5,5,5,5,5,0
+3438,21732139,1,17,2022-08-22,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3439,20829421,5,679,2022-04-04,0000-00-00,Ankara,Turkey,,14,8,5,5,5,5,5,5,5,5,5,0
+3440,21332296,484,24,2021-07-01,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3441,21731703,1615,629,2022-09-12,0000-00-00,Kocaeli,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3442,N16117016,1616,259,2022-10-04,0000-00-00,İstanbul,Turkey,,2,8,5,5,5,5,5,5,5,5,5,0
+3443,21731722,793,683,2022-09-26,0000-00-00,İstanbul,Turkey,,2,8,5,0,0,0,0,0,0,0,0,0
+3445,21831093,1609,430,2022-09-26,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3446,21232671,1618,686,2022-03-15,0000-00-00,Remote,Turkey,"Currently I am on learning process of Salesforce CRM ecosystem. Trailhead is a online platform that enables you to gain hands-on experience. Now I don't work at Salesforce but in future I hope I will be :) To learn more about Salesforce register on Trailhead and start learning one of the best CRM platform in the world.",14,3,5,5,5,5,5,5,5,5,5,0
+3447,21531336,1619,687,2022-10-10,0000-00-00,Ankara,Turkey,,1,1,0,0,0,0,0,0,0,0,0,0
+3448,21431389,1620,50,2021-11-01,2022-05-16,"Bennington Vermont","United States",,10,4,5,5,5,5,5,5,5,5,5,0
+3449,21431389,1621,17,2022-05-16,0000-00-00,Malta,"United States",,10,5,5,5,5,5,5,5,5,5,5,0
+3451,21332095,1623,663,2022-11-03,2023-07-21,Vilnius,Lithuania,,10,8,2,2,5,2,2,4,1,4,2,0
+3452,N19237978,1624,173,2021-07-19,2022-09-30,Munich,Germany,,2,3,0,0,0,0,0,0,0,0,0,0
+3453,N19237978,1625,173,2022-10-01,0000-00-00,Munich,Germany,,13,3,0,0,0,0,0,0,0,0,0,0
+3454,21531451,139,256,2019-11-07,2022-04-04,Ankara,Turkey,,8,4,0,0,0,0,0,0,0,0,0,0
+3455,21531451,139,461,2022-04-04,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3456,21631847,1626,28,2022-10-17,0000-00-00,Mannheim,Germany,,2,4,5,5,3,5,5,5,4,4,5,0
+3457,21501405,1627,618,2022-10-03,0000-00-00,"Ankara (remote)",Turkey,,9,8,4,4,3,5,5,5,4,3,4,0
+3458,21332167,1537,172,2022-11-01,0000-00-00,İstanbul,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3460,21631814,421,477,0000-00-00,0000-00-00,İstanbul,Turkey,,2,7,0,0,0,0,0,0,0,0,0,0
+3462,21232671,1628,342,2023-01-30,0000-00-00,Birmingham,"United Kingdom","I moved to Birmingham,UK from Turkey and this is my first job. I try to get to know people and culture in UK.",14,8,0,0,0,0,0,0,0,0,0,0
+3466,21948393,1438,694,2023-04-10,0000-00-00,İstanbul,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3468,test_erdi,5,690,0000-00-00,0000-00-00,,Turkey,"test etmek",14,3,0,0,0,0,0,0,0,0,0,0
+3472,21948393,1438,696,2023-05-09,0000-00-00,İstanbul,Turkey,,9,5,0,0,0,0,0,0,0,0,0,0
+3474,21531207,1,10,2022-03-01,0000-00-00,Ankara,Turkey,,14,6,0,0,0,0,0,0,0,0,0,0
+3476,21607921,1634,658,2023-06-19,0000-00-00,Dortmund,Germany,"I am responsible for the Software Testing activities of Swisslog GmbH, a global company with Swiss roots and one of the world's leading logistics automation companies. We are headquartered in Buchs/Aarau, Switzerland, and stand for innovation, quality, industry-leading software, and robotics technologies developed in-house.",1,3,5,4,5,5,5,5,5,5,4,0
+3478,21531006,1636,700,2023-12-21,0000-00-00,Istanbul,Turkey,,2,4,0,0,0,0,0,0,0,0,0,0
+3480,21232671,1638,702,2023-07-05,0000-00-00,Birmingham,"United Kingdom",,2,8,0,0,0,0,0,0,0,0,0,0
+3482,21431298,1640,274,2022-02-01,2022-08-12,İstanbul,Turkey,,10,8,0,0,0,0,0,0,0,0,0,0
+3484,21431298,1642,50,2022-08-15,0000-00-00,Remote,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3486,21831218,139,430,2022-11-14,2023-07-14,Ankara,Turkey,,8,7,0,0,0,0,0,0,0,0,0,0
+3488,2200469829,139,704,2023-07-17,0000-00-00,,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3490,21232413,757,144,2023-06-19,0000-00-00,Ankara,Turkey,,2,7,0,0,0,0,0,0,0,0,0,0
+3492,21631387,1648,198,2022-12-19,0000-00-00,İstanbul,Turkey,,1,4,0,0,0,0,0,0,0,0,0,0
+3494,21831151,1584,375,2022-10-03,0000-00-00,İstanbul,Turkey,,9,3,0,0,0,0,0,0,0,0,0,0
+3496,21531025,16,546,2023-09-18,0000-00-00,İstanbul,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3500,N21238110,1023,526,2022-02-01,2023-03-20,İstanbul,Turkey,,1,3,0,0,0,0,0,0,0,0,0,0
+3504,N21238110,1169,47,2023-03-20,0000-00-00,Ankara,Turkey,,1,7,0,0,0,0,0,0,0,0,0,0
+3508,21332129,1211,712,2018-07-02,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3510,21232743,191,10,2023-04-24,2023-09-14,Kayseri,Turkey,,1,6,0,0,0,0,0,0,0,0,0,0
+3512,21232743,1,10,2023-10-02,0000-00-00,Ankara,Turkey,,1,6,0,0,0,0,0,0,0,0,0,0
+3514,21947861,1,430,2023-11-01,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3518,2200469829,1,24,2023-12-20,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3520,21631478,1535,720,2022-06-01,0000-00-00,İstanbul,Turkey,"I work on end-to-end data projects and have experience in the following areas as needed:
+Web Scraping
+Data Warehouse
+SQL
+Advanced Python
+Power BI
+Data Analytics and Statistics
+ETL (Extract, Transform, Load)
+Geographic Information Systems (GIS)
+Machine Learning
+Prompt Engineering
+Azure Services",8,3,0,0,0,0,0,0,0,0,0,0
+3522,21831548,64,361,2023-12-18,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3524,2200469018,1658,365,2023-07-31,2023-08-25,Eskişehir,Turkey,"Construction of a project's proposal documents from scratch. Obtaining the key qualities for a quality project manager.",2,7,4,5,5,5,5,3,2,5,5,0
+3526,2200469018,1106,4,2023-09-04,2023-09-29,Ankara,Turkey,"Hands-on experience of day-to-day production line management. Participation in a production improvement project.",1,5,0,0,0,0,0,0,0,0,0,0
+3528,21431389,585,274,0000-00-00,0000-00-00,,"United States",,14,7,0,0,0,0,0,0,0,0,0,0
+3530,20929984,1660,242,2023-06-01,0000-00-00,Leiden,Netherlands,,14,8,0,0,0,0,0,0,0,0,0,0
+3532,21948168,325,430,2023-07-17,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3534,21607992,1,256,2022-12-05,0000-00-00,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3536,21947928,1608,43,2022-11-14,2023-05-31,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3538,21947928,99,43,2023-08-08,2023-11-24,,Turkey,,3,8,4,4,4,5,3,3,3,3,3,0
+3540,21947928,1,430,2023-12-01,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3542,21948044,1608,430,2022-11-15,2023-05-31,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3546,21948044,64,430,2023-12-16,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3548,21831132,1609,47,2024-09-15,0000-00-00,,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3550,2220469117,15,430,2023-11-27,2024-05-31,,Turkey,,14,5,5,5,5,5,5,3,4,5,5,0
+3554,21685086,1,450,2023-12-04,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3558,21948451,64,430,2023-12-16,2024-06-24,Ankara,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3560,20829507,370,172,2022-02-01,2024-02-29,İstanbul,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3564,21232801,1,348,2021-02-17,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3566,21430901,1666,114,2023-08-13,0000-00-00,Darmstadt,Germany,,2,8,0,0,0,0,0,0,0,0,0,0
+3568,21531369,1,377,2024-03-01,0000-00-00,Ankara,Turkey,"I work artificial intelligence and digital technologies sub-department in Digital Transformation. We develop some AI apps for my company. We are interested in Python, MLops, Software System Engineering  and Large Language models.",14,3,0,0,0,0,0,0,0,0,0,0
+3570,21332095,1668,130,2023-07-24,0000-00-00,Vilnius,Lithuania,,10,6,0,0,0,0,0,0,0,0,0,0
+3572,21332057,1,181,2024-03-01,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3574,21631651,64,17,2022-12-26,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3578,,99,141,2023-08-14,2023-10-25,Aksaray,Turkey,"I conducted root cause analysis on the quality problems existing in the Cabin Assembly and Interior Decoration units. Based on the analysis, I proposed possible solution recommendations.",2,5,5,5,4,5,5,5,5,5,5,0
+3580,21130846,1471,728,2023-12-01,0000-00-00,Mersin,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3582,21948011,64,430,2023-12-04,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3584,20727447,1222,730,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3586,2200469827,1286,339,2023-02-13,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3588,21431304,782,560,2023-02-13,0000-00-00,İstanbul,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3590,21332043,1222,417,2022-04-04,0000-00-00,Ankara,Turkey,"Conducting investigations and taking measures to protect the domestic industry against damages caused by unfair competitive practices in imports (dumped or subsidized imports)",14,8,0,0,0,0,0,0,0,0,0,0
+3592,21430895,1670,375,2022-12-01,2024-03-29,Remote,Turkey,"I was working in the AI department and developing machine learning projects and AI chatbots for clients.",2,3,0,0,0,0,0,0,0,0,0,0
+3594,21430895,1672,732,2024-04-15,0000-00-00,London,Turkey,"I am working as AI Engineer and creating AI task manager and chatbots for the clients.",2,3,0,0,0,0,0,0,0,0,0,0
+3596,21530999,1,24,2021-11-08,0000-00-00,,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3598,21831275,1,17,2024-03-04,0000-00-00,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3600,21631665,1,47,2024-04-01,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3602,21831218,1,24,2023-12-20,0000-00-00,Ankara,Turkey,,14,7,0,0,0,0,0,0,0,0,0,0
+3604,2210469037,1674,61,2023-07-17,2024-08-11,Adana,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3606,21332464,1161,144,2023-04-10,0000-00-00,Ankara,Turkey,,1,7,0,0,0,0,0,0,0,0,0,0
+3608,21947894,64,66,2023-08-01,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3610,2200469056,1684,398,0000-00-00,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3612,21831443,1,461,2024-03-05,2024-09-30,Ankara,Turkey,,14,5,5,5,5,5,5,5,5,5,5,0
+3614,2200469066,1688,605,2023-07-10,2023-08-04,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3616,2200469066,464,120,2023-11-14,2024-06-09,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3618,2200469066,78,734,2024-02-19,0000-00-00,,Turkey,"2247-C STAR Scholarship Programme
+Project Title: "Afet Sonrası Acil Hasar Tespiti Için Dronlar Ile Bilgi
+Toplama Ve Hasar Tahmini Problemleri Ve Çözüm Yöntemleri"",14,8,0,0,0,0,0,0,0,0,0,0
+3620,2200469002,208,79,2023-07-05,2023-08-23,Ankara,Turkey,,2,4,0,0,0,0,0,0,0,0,0,0
+3622,21948322,64,430,2023-12-12,0000-00-00,Ankara,Turkey,,8,8,0,0,0,0,0,0,0,0,0,0
+3624,2200469002,15,124,2023-08-28,2022-09-20,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3626,2200469002,1198,267,2022-07-04,2022-08-01,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3628,2200469002,208,120,2023-10-09,2024-06-07,Ankara,Turkey,,9,5,0,0,0,0,0,0,0,0,0,0
+3630,21831184,1,318,2023-07-01,0000-00-00,Ankara,Turkey,,8,5,0,0,0,0,0,0,0,0,0,0
+3632,21831625,1608,16,2023-08-01,0000-00-00,Ankara,Turkey,,8,5,0,0,0,0,0,0,0,0,0,0
+3634,21831041,514,26,2023-08-14,0000-00-00,Bursa,Turkey,,3,3,0,0,0,0,0,0,0,0,0,0
+3636,2200469828,1,17,2023-11-15,0000-00-00,Ankara,Turkey,,8,5,0,0,0,0,0,0,0,0,0,0
+3638,2200469043,1605,193,2024-04-02,0000-00-00,Ankara,Turkey,,2,6,0,0,0,0,0,0,0,0,0,0
+3640,2200469067,325,430,2023-02-22,2024-02-29,,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3642,21947804,15,430,2023-11-15,2024-05-31,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3648,21831055,455,718,2023-08-08,2023-09-08,İzmir,Turkey,,2,7,0,0,0,0,0,0,0,0,0,0
+3650,21831055,400,430,2024-02-06,2024-06-13,Eskişehir,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3652,2200469063,1694,141,2023-08-18,2023-09-15,Ankara,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3654,2200469048,1696,302,2022-06-03,2022-08-26,Mobile,Turkey,"I was the personnel responsible for housekeeping and room cleaning at the hotel.",14,8,0,0,0,0,0,0,0,0,0,0
+3658,2200469818,1,94,2023-11-15,2024-06-01,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3660,21631704,1,47,2023-01-16,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3662,2200469023,1676,682,2023-07-03,2023-07-28,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3666,2200469023,676,20,2023-08-01,2023-09-05,,Turkey,,9,3,0,0,0,0,0,0,0,0,0,0
+3668,2200469023,676,20,2023-12-11,2024-06-11,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3670,2200469015,15,606,2023-07-28,2023-08-24,Ankara,Turkey,,4,5,0,0,0,0,0,0,0,0,0,0
+3678,21948479,1,430,0000-00-00,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3680,2210469104,1538,430,2024-01-22,0000-00-00,,Turkey,"Using SAP to place orders. And then ,tracking these orders regularly.",1,6,0,0,0,0,0,0,0,0,0,0
+3682,2200469015,50,533,2022-08-01,2022-08-26,Istanbul,Turkey,,3,4,0,0,0,0,0,0,0,0,0,0
+3684,2200469015,1615,61,2022-08-22,2022-09-16,Istanbul,Turkey,,3,1,0,0,0,0,0,0,0,0,0,0
+3686,2200469015,139,61,2023-08-28,2023-09-25,Ankara,Turkey,,3,6,0,0,0,0,0,0,0,0,0,0
+3688,20727653,357,144,2018-01-01,2023-02-08,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3690,20727653,1702,144,2023-06-01,0000-00-00,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3694,2200469035,1608,430,2022-11-17,2023-06-02,Ankara,Turkey,,8,6,0,0,0,0,0,0,0,0,0,0
+3698,2200469035,1,430,2023-11-16,2024-06-06,,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3700,21948369,1710,355,2023-06-20,2023-09-15,Nv,"United States","Work and Travel program",14,4,0,0,0,0,0,0,0,0,0,0
+3706,21892542,1108,24,0000-00-00,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3708,21892542,325,24,0000-00-00,0000-00-00,Kırıkkale,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3712,21892542,1108,339,0000-00-00,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3714,21948226,921,4,0000-00-00,0000-00-00,Ankara,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3716,21130918,1712,738,2022-06-26,0000-00-00,,Turkey,,9,8,0,0,0,0,0,0,0,0,0,0
+3718,21948121,1538,47,2023-12-25,0000-00-00,Sakarya,Turkey,,8,7,0,0,0,0,0,0,0,0,0,0
+3720,test_erdi,1720,685,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3722,21332412,1438,740,2021-12-01,0000-00-00,"Frankfurt Am Main",Germany,,14,8,0,0,0,0,0,0,0,0,0,0
+3724,2200469822,141,207,2024-02-12,0000-00-00,Ankara,Turkey,,1,6,0,0,0,0,0,0,0,0,0,0
+3726,21131001,1098,742,2023-02-15,0000-00-00,İstanbul,Turkey,,2,4,0,0,0,0,0,0,0,0,0,0
+3728,21332302,1,698,2023-01-01,0000-00-00,Ankara,Turkey,,1,3,0,0,0,0,0,0,0,0,0,0
+3730,21948432,1724,43,2023-09-05,2023-12-31,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3732,21948432,1726,43,2024-01-01,2024-07-01,,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3734,21996049,1608,324,2022-09-17,0000-00-00,Ankara,Turkey,,1,5,0,0,0,0,0,0,0,0,0,0
+3736,21531303,1,20,2022-10-03,0000-00-00,,Turkey,,14,3,0,0,0,0,0,0,0,0,0,0
+3738,2200469049,1425,43,2024-03-18,0000-00-00,Ankara,Turkey,,4,8,0,0,0,0,0,0,0,0,0,0
+3742,2200469021,1738,744,2023-03-16,0000-00-00,Kırklareli,Turkey,,12,5,0,0,0,0,0,0,0,0,0,0
+3744,2200469022,369,430,2024-05-20,0000-00-00,Ankara,Turkey,,6,8,0,0,0,0,0,0,0,0,0,0
+3746,2200469805,1744,4,2022-08-16,2022-09-23,Antalya,Turkey,,9,8,0,0,0,0,0,0,0,0,0,0
+3748,21948303,1724,650,2023-09-11,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3750,21948006,1564,20,2022-09-22,2022-10-26,Kocaeli,Turkey,"During my time as a business analyst at Elogo, I was actively involved in every stage of the
+agile software development lifecycle processes. My primary focus was on product
+development based on customer requests and surveys. Additionally, I collaborated with
+testing teams to conduct analyses. Beyond these responsibilities, I also played an active role
+in domestic and international new product development feasibility studies.",9,3,0,0,0,0,0,0,0,0,0,0
+3752,21948006,357,373,2022-11-01,2023-11-01,Ankara,Turkey,"My responsibilities include requirement analysis, agile software development lifecycle
+processes, and documentation in addition to decision support and analysis within the software
+development processes.",10,3,0,0,0,0,0,0,0,0,0,0
+3754,2200469014,1748,124,2023-07-07,2023-08-15,Zonguldak,Turkey,,10,5,0,0,0,0,0,0,0,0,0,0
+3758,21030794,1,706,2023-12-10,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3760,21948025,1221,475,2023-12-01,0000-00-00,Ankara,Turkey,,9,4,0,0,0,0,0,0,0,0,0,0
+3762,21731568,418,306,2022-11-08,0000-00-00,Kocaeli,Turkey,"Ekran geliştirmeleri için analizler yapıp iş gereksinimi hazırlamak ve yazılım sürecinde analiste destek vermek.
+Geçmiş verileri kullanarak raporlama yapmak ve yöneticilere karar destek sistemi sağlamak.
+Araştırma ve geliştirme yapmak.",2,6,0,0,0,0,0,0,0,0,0,0
+3764,21831328,1750,748,2022-10-10,0000-00-00,Yalova,Turkey,"- Planning daily electricity production,
+- Planning daily steam production,
+- Trading electricity and steam with customers,
+- Preparing monthly, yearly and 5-year energy budget,
+- Optimising imbalance loss,
+- Energy market analysis,
+- EDA for weekly and monthly meetings with directors.",3,8,0,0,0,0,0,0,0,0,0,0
+3766,21831309,662,750,2023-10-16,0000-00-00,Ankara,Turkey,"Maintaining SAP integration with maintenance processes",3,5,0,0,0,0,0,0,0,0,0,0
+3768,21831515,1608,24,2023-06-01,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3770,21831165,1756,20,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3772,21430901,1760,144,0000-00-00,0000-00-00,,Germany,,14,8,0,0,0,0,0,0,0,0,0,0
+3774,21948283,1,752,2024-04-03,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3776,21831462,418,754,2023-01-02,2023-06-05,Ankara,Turkey,,2,1,0,0,0,0,0,0,0,0,0,0
+3778,21948297,1169,430,2024-03-15,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3780,21430915,1764,221,2024-07-16,0000-00-00,Ankara,Turkey,,14,4,0,0,0,0,0,0,0,0,0,0
+3782,21430915,1146,473,2022-10-10,2023-03-13,Ankara,Turkey,,3,5,0,0,0,0,0,0,0,0,0,0
+3784,21948011,64,17,2024-07-16,0000-00-00,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3786,21631679,101,22,2022-10-17,0000-00-00,Zonguldak,Turkey,,10,2,0,0,0,0,0,0,0,0,0,0
+3788,2210469019,1766,24,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3790,21948168,1,20,2024-07-22,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3792,21948102,1610,375,2024-08-05,0000-00-00,İstanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3794,2210469032,1776,61,2024-08-19,2025-03-15,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3796,21948173,1,461,2024-09-16,0000-00-00,Ankara,Turkey,,1,5,5,5,5,5,5,5,5,5,5,0
+3798,20929817,1,256,2024-10-01,0000-00-00,Ankara,Turkey,,13,7,0,0,0,0,0,0,0,0,0,0
+3800,21431389,585,617,2023-12-01,0000-00-00,,"United States",,14,7,0,0,0,0,0,0,0,0,0,0
+3802,21332316,1,274,2022-07-20,0000-00-00,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3804,2200469004,1778,427,2022-06-13,2022-09-30,"New Jersey","United States","Work and Travel Program",14,8,0,0,0,0,0,0,0,0,0,0
+3806,2220469117,1,430,2024-10-31,0000-00-00,,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3808,21531259,415,758,2021-09-13,2022-12-16,Kocaeli,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3810,21531259,828,256,2022-12-19,0000-00-00,Ankara,Turkey,,1,8,0,0,0,0,0,0,0,0,0,0
+3812,N18232869,15,465,2020-08-01,2022-09-01,Ankara,Turkey,,13,5,0,0,0,0,0,0,0,0,0,0
+3814,N18232869,1784,760,2022-09-01,0000-00-00,Eindhoven,Netherlands,,13,7,0,0,0,0,0,0,0,0,0,0
+3816,2210469050,1786,754,2024-08-05,0000-00-00,Ankara,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3820,21948044,64,47,2024-06-25,0000-00-00,Ankara,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3826,21131221,1792,764,2024-10-21,0000-00-00,İstanbul,Turkey,,2,8,0,0,0,0,0,0,0,0,0,0
+3828,21131221,1790,762,2024-04-01,2024-10-18,,Turkey,,2,3,0,0,0,0,0,0,0,0,0,0
+3830,2200469040,583,754,2024-10-20,2025-05-20,Kırşehir,Turkey,"Excel makrolarını kullanarak yıllık stok devir hızını dinamik bir şekilde hesaplayan bir Excel projesi oluşturdum.
+Yeniden iş gücü optimizasyonunun yapıldığı bir proje ekibinde aktif görev alarak birçok departmandaki iş bölümlerine ve iş dengelerine hakim oldum. İş gücü hesabı için zaman etütlerinde aktif rol üstlendim.
+Departman içinde yapılan işlerin hızlandırılması ve sorunların azaltılması için çeşitli çalışmalar gerçekleştirdim. Örneğin, düzenli olarak kullanılan Excel dosyalarındaki rutin işlemleri tamamen makrolarla otomatikleştirerek süreçleri daha verimli hale getirdim.",2,5,0,0,0,0,0,0,0,0,0,0
+3832,2200469040,436,4,2024-06-15,2024-07-15,Denizli,Turkey,"Ribon üretiminin süreç yeterlilik analizi üretiminden alınan numunelerin veri değerlerini kullanarak, üretimin istenen spesifikasyonlara uygun ürün oluşturma yeteneğini hesapladım.
+Yedek parçaların tedarik ve tüketim sürelerini kullanarak yedek parça stok analizi yaptım.",6,7,0,0,0,0,0,0,0,0,0,0
+3834,2200469040,1794,4,2023-06-12,2023-07-14,Denizli,Turkey,"1.sınıfta yaptığım stajda, tekstil sektörünü yakından tanıma fırsatı bulurken sahadaki iş ortamını ve insan ilişkilerini gözlemleme imkanı elde ettim. Bunun yanı sıra, sahada üretim takibi süreçlerinde de aktif rol aldım.",2,5,0,0,0,0,0,0,0,0,0,0
+3836,2200469055,1796,43,0000-00-00,0000-00-00,Kocaeli,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3838,2200469016,985,598,2025-01-20,2025-03-28,,Turkey,,9,6,0,0,0,0,0,0,0,0,0,0
+3840,2200469005,1798,766,2024-12-09,0000-00-00,Istanbul,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3842,2200469010,1800,754,2024-11-04,2025-05-30,Ankara,Turkey,,3,8,0,0,0,0,0,0,0,0,0,0
+3844,2210469009,1610,642,2023-06-01,0000-00-00,Online,Turkey,,13,8,0,0,0,0,0,0,0,0,0,0
+3850,2220469020,1608,754,2024-12-16,2025-05-31,Ankara,Turkey,,8,5,0,0,0,0,0,0,0,0,0,0
+3852,20929984,1810,680,0000-00-00,0000-00-00,,Turkey,,14,8,0,0,0,0,0,0,0,0,0,0
+3854,21831443,1,318,2024-10-01,0000-00-00,Ankara,Turkey,,14,5,0,0,0,0,0,0,0,0,0,0
+3856,2210469066,1812,772,2024-12-22,0000-00-00,"Las Vegas,Nevada","United States",,2,4,3,4,3,5,4,2,3,2,4,0

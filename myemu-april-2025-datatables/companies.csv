@@ -1,0 +1,1406 @@
+id,name,industry
+1,ASELSAN,52101010
+5,"Hacettepe University",60000005
+6,Coşkunöz,53101020
+7,"Sabancı Holding",52301010
+8,"Hacettepe Hospitals",56102010
+9,"Pimeks Group",52201020
+10,"BNB Consulting",57201010
+11,"THY - Türk Hava Yolları",52402010
+12,"Çepaş Galvaniz",51201020
+14,"SDT Uzay ve Savunma Teknolojileri",52101010
+15,"TAI - TUSAŞ",52101010
+16,Arçelik,53204020
+17,"Sekiza Savunma, Havacılık ve Uzay Teknolojileri",52101010
+18,Dr.Oetker,54102020
+19,"Oyak-Renault Otomobil Fabrikaları",53101010
+20,"Limak Holding Ankara Çimento Fabrikası",51202010
+22,"İş Yatırım Menkul Değerler",55102010
+23,Cook,54201010
+24,"Sedat Tahir",51302020
+25,"Olmuksan International Paper",51301020
+26,"Eczacıbaşı VitrA",51202010
+27,SunExpress,52401010
+28,"Türk Patent Enstitüsü",60000002
+29,Decathlon,53402010
+30,"MAN Türkiye",53101010
+37,"Borusan Logistics",52404020
+38,Şişecam,60000006
+40,"T.C. Ziraat Bankası",55101010
+41,Microsoft,57201020
+42,"ORS Bearings",52102010
+43,"Yandex Turkey",57201020
+44,"Atilla Makine",52201020
+45,"ETİ Gıda Sanayi ve Ticaret",54102020
+46,"Alarko Carrier",53204020
+48,"Demirören Tüp İmalat",50102020
+49,"Adecco İnsan Kaynakları ve Danışmanlık",60000001
+50,Vestel,53204020
+51,KAREL,52102030
+52,"PMC Project Management Centre",60000001
+53,"EMEK Electrical Industry",52102030
+54,DenizBank,55101010
+55,"Ermaksan Makina",52102010
+56,"AN Group Danışmanlık",60000001
+57,"Karacaören Danışmanlık",60000001
+58,"Clementon Amusement Park & Splash World",53301040
+59,"ING Bank",55101010
+60,Prekons,52201020
+61,"Ekol Lojistik",52404020
+62,"Arbel Bakliyat Hububat",54301020
+63,"İnan Danışmanlık",60000001
+64,ROKETSAN,52101010
+65,"Gür Metal Kaplama Sanayii",52102010
+67,"Schneider Electric",52102030
+68,"Vestel Elektronik",53204020
+69,"Türk Telekom",58101020
+72,KPMG,60000001
+73,Vodafone,58101020
+74,"Garanti Teknoloji",57201010
+75,"FORD Otosan",53101010
+76,"Acron Bilişim",57201010
+77,"Garanti Emeklilik ve Hayat",55301060
+78,TÜBİTAK,60000002
+79,"Garanti Bankası",55101010
+80,"Yapı ve Kredi Bankası",55101010
+81,"TED University",60000005
+82,"Eutek Business Solutions",57201010
+83,"Cengiz Enerji",60000003
+84,"CMS Jant ve Makina",53101020
+85,"T.C. Bilim, Sanayi ve Teknoloji Bakanlığı",60000002
+86,"Çalık Enerji",60000003
+87,"Maersk Line",52404020
+88,"ÇözenAdam Elektronik Hizmetler",60000001
+89,BOSCH,53204020
+90,"Ocak Kalıp",52102010
+91,"Philip Morris Sigara ve Tütüncülük",54102030
+92,"DMO - Devlet Malzeme Ofisi",60000002
+93,"Türkiye İş Bankası",55101010
+94,"T.C. Ekonomi Bakanlığı",60000002
+95,"Nurol Makina ve Sanayi",52102010
+96,"HC Evcil Hayvan Yem ve Gıda",54301020
+98,"Sivteks Tekstil",53202010
+99,"Mercedes Benz Türk",53101010
+100,UNILEVER,54201020
+101,"Erdemir Demir Çelik",51201020
+113,"Erciyes University",60000005
+114,"Turgut Ozal University",60000005
+115,"TSKGV - Türk Silahlı Kuvvetlerini Güçlendirme Vakfı",52101010
+116,"T.C. Adalet Bakanlığı",60000002
+117,İston,51202010
+119,"Yudum Gıda",54102020
+120,"Samet Kalıp ve Madeni Eşya",53204040
+122,IBTech,57201010
+123,Autoliv,53101020
+124,"Türkiye Şeker Fabrikaları Ankara Makina Fabrikası",54102020
+125,"Bossa TAŞ",53202010
+126,"Türk Prysmian Kablo ve Sistemleri",52102030
+127,"Karsan Otomotiv",53101010
+131,"Tepe İnşaat",52201020
+133,"DZ Bank AG",55101010
+134,"Fiducia IT AG",57201010
+135,Dimes,60000004
+137,"Conoptica AS",52102010
+138,"Radyo Hacettepe",53302020
+139,"FNSS Savunma Sistemleri",52101010
+141,OTOKAR,53101010
+143,"TOFAŞ Turkish Automotive Company",53101010
+144,"Selnikel Isıtma ve Klima Cihazları",53204020
+145,"Nuh'un Ankara Makarnası",54102020
+146,IKEA,53204040
+147,"URB Group",53101020
+148,Ericsson,58101020
+190,"Karayolları Genel Müdürlüğü",60000002
+191,"İstikbal Mobilya",53204040
+192,"Gölbaşı Belediyesi",60000002
+193,"Formmetal Makine Sanayi",52102010
+195,"TIMEX Filtration & Water Systems",59103010
+196,"Tepe Betopan",51202010
+197,"YKK Fastening Product",53202010
+198,"Vendeka Information Technologies",57201010
+199,"Paşabahçe Cam",54201010
+201,"Dizayn Makine İmalatı ve Mühendislik",52201020
+202,"Zarif Çorap & Tekstil",53202010
+203,"İstanbul Büyükşehir Belediyesi",60000002
+204,"Başakşehir Belediyesi",60000002
+205,"Özyurtlar İnşaat",52201020
+206,"Pervan Teknik",52102010
+207,"Yeryüzü Doktorları",60000007
+208,"Türk Traktör",53101010
+209,"ASAŞ Alüminyum",51201030
+211,"Vestel Savunma Sanayi",52101010
+212,"Omsan Lojistik",52404020
+213,"TPI Kompozit Kanat Sanayi ve Ticaret",50104010
+215,"Boydak Holding",52301010
+216,"Prysmian Group",52102030
+226,"Ağaçlı Petrol & Manufacturing",53101010
+227,"Ardıç Cam Sanayi",60000006
+228,Timay-Tempo,53202010
+229,"Erkunt Traktör",53101010
+230,"Coca-Cola İçecek",60000004
+231,"Yiğit Akü",53101020
+232,"Kombassan Kağıt Matbaa",51301020
+233,"Küçükpazarlı Havacılık",52101010
+234,"Tülomsaş - Türkiye Lokomotif ve Motor Sanayii",53101010
+235,"Mastaş Makina",52102020
+236,"Çimentaş İzmir Çimento Fabrikası",51202010
+237,"Isılsan Makina Sanayi ve Ticaret",53101020
+238,"Lazzoni Mobilya",53204040
+239,"Anadolu Sigorta",55301060
+241,"Nurol Technology",57201010
+242,"İstanbul Elektrikli Tramvay ve Tünel İşletmeleri",60000002
+283,"Beypazarı Doğal Maden Su İşletmeleri",54301020
+284,"Gürçelik Makina",52102010
+285,PTT,60000002
+289,BOTAŞ,50103030
+290,"Arkas Holding",52404020
+291,"Teleset Group",52102030
+292,"Kale Seramik Çanakkale Seramik Kalebodu",53204040
+293,"BIS Çözüm Bilgisayar ve Entegrasyon",57201010
+295,Simfer,53204020
+296,Halkbank,55101010
+297,"Hyundai Assan",53101010
+298,"Üntes Isıtma Klima Soğutma Havalandırma",53204020
+300,"Noven Enerji ve Bilişim Teknolojileri",57201010
+301,"Nissin Yıldız Gıda",54102020
+302,"AFS Boru San.",51202010
+306,"Turuncu Holding",57201020
+307,"Ceva Logistics",52404020
+318,"Mesa Mesken İnşaat",52201020
+319,"Federal Izumi Manufacturing",53101020
+320,"Pupuk Iskandar Muda",60000012
+321,"Delphi Automotive Systems",53101020
+322,"GES Mühendislik",52101010
+323,"ME-GE Teknik",52101010
+324,Cargill,54102020
+325,Tüpraş,50102030
+327,"Copa Coşkunöz Radyatör",54201010
+328,"UTKU Industry",52102010
+329,"Big Bang Burger",53301020
+331,"Duru Bilişim Teknolojileri",57201020
+332,"Dyo Boya",60000009
+333,"TPAO - Türkiye Petrolleri",60000003
+334,"Deser Kimya",59103010
+335,"Martur Automotive Seating and Interiors",53101020
+336,Gtech,52201020
+337,"Avivasa Hayat & Emeklilik",55301030
+338,"ITC Invest Trading & Consulting AG Türkiye",52203010
+340,"Kitapçı Dergisi",53302040
+341,"Girişim Merkezi",52203040
+342,"Daussan-Çukurova Kimya",60000012
+343,"Zivella Ofis Mobilyaları",57103020
+344,"Ülker Bisküvi",54102020
+345,OMTAŞ,53101020
+346,"Boyçelik Metal",51201020
+347,"Aynes Gıda Sanayi ve Ticaret",54102020
+349,Netaş,57201010
+350,"Meteksan Sistem ve Bilgisayar Teknolojileri",57201010
+352,"+90 3B Dijital Fabrika",53403050
+354,TURKCELL,58101020
+355,"Konya Şeker",54102020
+357,HAVELSAN,52101010
+359,"Ulusoy Electric",59101010
+360,İnnova,57201020
+361,"Torun Metal",51201020
+362,"British American Tobacco",54102030
+363,NACE,52102010
+364,"Bisoft Bilgi Teknolojileri",57201020
+365,"Etiya Bilgi Teknolojileri",57201010
+366,"Hazine Müsteşarlığı",60000002
+367,"MKEK - Makine ve Kimya Endüstrisi Kurumu",52101010
+368,"Çalık Tekstil",53202010
+369,MİTAŞ,52201020
+370,"B/S/H/ Home Appliances Group",53204030
+371,"Karadeniz Holding",60000003
+373,"Güven Hastanesi",56102010
+375,"TNT Express International",52404020
+376,"Eczacıbaşı Tüketim Ürünleri Grubu",51202010
+377,"Huawei Telekomünikasyon",58101020
+378,"SYS - Samsun Yurt Savunma",52101010
+379,"Blacktech HSS Otomotiv",53101020
+380,İsko,53202010
+381,"Harput Holding",53202010
+382,"Mavinci Bilişim",57201020
+383,"Grammer Koltuk Sistemleri",53101020
+384,Danone,54102020
+385,"Lojika Field Labs",57201010
+386,"Necmettin Erbakan University",60000005
+387,Plascam,53101020
+388,"Deser Enerji ve Mühendislik",60000003
+389,Nokia,58101020
+390,"Doğuş Otomotiv",53101020
+391,"C.E.S. Advanced Composite Products",52101010
+392,Gülermak,52201020
+393,AFAD,60000002
+394,"BPlas Bursa Plastik Metal",53101020
+395,"AMI Metals",51201030
+396,"Bilkent Holding",52301010
+397,TürkTrust,57201020
+398,"Pfizer İlaç",54301010
+399,"Şölen Çikolata",54102020
+400,TEI,52101010
+401,SÜTAŞ,54301020
+404,"Özel Çakabey Okulları",60000005
+405,"Nüve İmalat",56101020
+409,Mudo,53202010
+410,"Arena System ERP Yazılım ve Yönetim Danışmanlık",57201020
+411,"Pepsi Bottling",60000004
+412,"Türkiye Finans Katılım Bankası",55101010
+414,"Erkunt Sanayi",53101020
+415,"Farplas Oto Yedek Parçaları",53101020
+417,"Proglas Cam Metal",60000006
+418,"Kuveyt Türk Katılım Bankası",55101010
+419,Netmarble,57201010
+420,"Ziraat Teknoloji",57201020
+421,"LC Waikiki",53202010
+422,"TOBB University of Economics and Technology",60000005
+423,"C.H. Schafer Getriebe",53101020
+424,"Medicana International Hospital",56102010
+425,Enerjisa,59101010
+426,"Ek Ambalaj",51302020
+427,"Türkiye Elektromekanik Sanayi",52102030
+428,"Altınel Tasarım",53204040
+429,TBMM,60000002
+430,"Turkish Do&Co",54102020
+434,"Avery Dennison",53202010
+435,"Pi Makina",52201020
+436,"ER-Bakır Elektrolitik Bakır Mamülleri",52102030
+437,"Alemdar Soğutma ve Mutfak Malzemeleri",52102010
+440,Metsims,60000001
+441,Kolin,60000003
+442,"Turkuaz Seramik",60000008
+443,"Matrisled Elektronik",59101010
+444,"Türkiye Vagon Sanayi",52404030
+445,"Türk DemirDöküm Fabrikaları",51201020
+446,"LUT - Lappeenranta University of Technology",60000005
+447,Hidromek,52102020
+448,İÇTAŞ,52201020
+449,"Rönesans Holding",52201020
+450,"Sagra Special",54102020
+451,"İnan Makina",51202010
+453,Roche,56201030
+454,HSBC,55101010
+455,"HUGO BOSS",53202020
+456,"Alkım Kağıt",51301020
+457,"İzmir Demir Çelik Sanayi",51201020
+458,"Özgüç Ambalaj",51302020
+459,"Von Hotels",53301010
+460,"Polin Waterparks",53302030
+461,Teknosa,53403050
+462,"Erkurt Holding",53101020
+463,"Polisan Boya",60000009
+464,Pirelli,53101030
+465,"The Good Agency Asia",53302010
+466,ÇİMSA,51202010
+467,"Teknik Masura",52404020
+472,"Samsun Borsan",52102010
+473,"Samsun Segman Sanayi",53101020
+474,"Aşkale Çimento Sanayii",51202010
+475,Akbank,55101010
+477,"Aksan Çelik Dövme",51201020
+478,FTA,52402010
+479,"FKK Güney Oto Lastik Takoz",53101030
+480,"Marquardt Tunisia",53101020
+481,"Eroğlu Giyim",53202010
+482,"TEB Türk Ekonomi Bankası",55101010
+483,"Ege Fren",53101020
+484,"ASTOR Transformatör",52102030
+485,"Tepe Home Mobilya ve Dekorasyon",51301010
+487,"Eti Maden İşletmeleri",51201050
+488,"İskenderun Demir ve Çelik Fabrikaları",51201020
+489,"Gürok Turizm ve Madencilik",60000006
+490,BTM,53203010
+491,"ADDS Dişli Dövme",53101020
+492,"C&A Moda",53202010
+493,Entil,51201020
+494,"Medis Laboratories",56201030
+495,"Yüksel Composite Technologies",52101010
+496,"GAMA Holding",52201020
+497,"Oasis Medikal",56102010
+498,"Kavaklıdere Şarapları",60000004
+499,"DHMİ - Devlet Hava Meydanları İşletmesi",52402020
+500,"Genpower Generator",60000003
+501,"TCMB - Türkiye Cumhuriyet Merkez Bankası",55101010
+502,"Rona Makina Sanayi",52201020
+504,"Karya Sistem Mühendislik",52101010
+505,"Astaş Çelik Kapı",53203010
+506,"Merih Asansör",52102010
+507,Deloitte,60000001
+508,"Elfa Metal",51201020
+509,"Yörükoğlu Süt ve Ürünleri",54102020
+510,CyberSoft,57201010
+511,Fotoniks,52101010
+512,Eltemtek,60000003
+513,"Saint-Gobain Rigips Alçı",51202010
+514,Nestle,54102020
+516,"Yetsan Oto Radyatörleri",53101010
+517,"Kinesis Enerji",50104010
+518,"Türk Hava Kuvvetleri",52101010
+519,"PepsiCo Beverages",60000004
+520,"TOYOTA Türkiye",53101010
+522,TRT,57102010
+523,SPEKON,52101010
+524,"Turkish Ground Services",52402020
+525,"Toyota Motor Manufacturing Turkey",53403010
+526,"Ankara Şeker Fabrikası",54102020
+527,Netelsan,57102010
+528,"KSB PUMPS",52102020
+529,"Başkent Oto Emniyet Camları",60000006
+530,"Alfa Kazan Sanayi",52102010
+531,ROBOTON,57201020
+532,"ODTÜ Teknokent Yönetim",57201020
+533,"Elektromed Elektronik ve Sağlık Hizmetleri",52102030
+534,"Güney Süt",54102020
+536,"Udea Elektronik",58101020
+537,"Orta Anadolu TAŞ",53202010
+538,Rutaş,52102020
+539,"Power-Packer Turkey",53101020
+540,"Sophistiq Coffee",60000004
+541,"EvdeBiz Furniture",53403030
+542,Akakçe,57201010
+543,"Vektora Bilişim Sistemleri",60000001
+544,"Bilişim A.Ş.",57201010
+559,"Kamu İhale Kurumu",60000002
+560,Düzen-Norwest,52203010
+561,"KORTEK Korozyon Teknolojileri",52201020
+563,"Sisoft Sağlık Bilgi Sistemleri",57201020
+564,"Kazan Soda Elektrik Üretim",59101010
+565,"Ciner Group",60000003
+566,"TÜBİTAK - Sage",52101010
+567,"AYZE Heat Treatment - Göçmenler Group",51201020
+568,"YDA İnşaat",52201020
+569,ODTU-Nic.tr,57201010
+570,"Refik Saydam Hıfzıssıhha Merkezi",56102010
+571,ASKİ,60000002
+572,"NASA Gıda",54102020
+573,BORLAB,51202010
+574,"Nurdil Teknik Soğutma",54102020
+576,"MEFA Group",53204030
+577,"ENVY Energy and Environmental Investments",60000003
+578,"Akana Mühendislik",51201020
+579,"Ünsa Makina",54102020
+580,"Meypo Mühendislik İmalat",54102020
+581,"TSE - Turkish Standards Institute",60000002
+582,"IMS Defence & Security",52101010
+583,Petlas,53101030
+584,"Atos IT Services and Consulting",57201010
+585,IBM,57201010
+586,NODESCO,52102010
+587,"THK Gokcen Aviation",52401010
+590,"DNC Construction",52201020
+591,"Koleksiyon Furniture",53204040
+592,"Mata Automotive",53403010
+593,"BVS Vinç Sanayi",52102020
+594,"TURA Mühendislik",52101010
+595,"Systemair HSK",60000003
+596,"Control Union",60000001
+597,Dogalite,54102020
+598,"Europower Enerji",52102030
+599,"Buğra Kaynak Makineleri",52102010
+600,"Ataç Grup",60000001
+601,"Çözüm Elektrik Klima",53204020
+602,"Emair Aviation Inc.",52402010
+603,Eltaş,52102030
+604,"British Petroleum",50103030
+605,"HITACHI Healthcare",53403090
+606,"Simsoft Bilgi Teknolojileri",52101010
+607,"Türkiye Şeker Fabrikaları",54102020
+608,"Sterilmed Tıbbi Cihazlar",56101020
+609,"Ansava Mühendislik",52201020
+610,"Samlift Asansör",52201020
+611,"Asansör Kontrol Muayene Belgelendirme",52201020
+612,"Başkent University",60000005
+613,"Eldaş Deney ve Kalibrasyon Merkezi",52102030
+614,"Vega Software",57201020
+615,"Mebitech Bilişim",57201020
+616,"Elite Natural",54102020
+617,"Mondelez International",60000004
+618,"Anadolu Efes",60000004
+619,"Ikram Catering",53301020
+620,"Kamu Hastaneleri Kurumu",60000002
+621,"Ernst & Young",60000001
+622,"Başarı Mobile",57201010
+628,"Gate Elektronik",52101010
+629,"Ortana Elektronik",52201020
+630,"Selçuk University",60000005
+631,"Çukurova Holding",60000003
+632,"Bilge Adam",57201020
+633,"İş Bankası Yazılım Geliştirme - SoftTech",57201020
+634,"Pancom Kominikasyon",53403050
+635,"Selex ES Elektronik Turkey",52101010
+636,"Oruçoğlu Holding",55102020
+644,"Samsung CT",52201020
+645,"HAN Teknik Müşavirlik & Mühendislik",52201020
+646,"Thales Bilişim",57201010
+648,SİNPAŞ,52201020
+649,"Akay İnşaat",52201020
+650,"IC Holding",52301010
+651,YPU,52201020
+652,"Torunlar Özyapıcı GYO",52201020
+653,"Baykan Mimarlık",52201020
+654,"Vetta Yapı",52201020
+655,PROKON,52201020
+656,"Yüksel Holding",52201020
+657,Erka,52201020
+658,ENKA,52201020
+659,BECHTEL,50103030
+660,TEKFEN,52201020
+661,"Ilgaz İnşaat",52201020
+662,TANAP,50103030
+663,"İÇDAŞ Demir Çelik",51202010
+664,"AKTAŞ Holding",53403010
+665,"Robit Robot ve Otomasyon Sistemleri",57201020
+668,"UDEM International Certification",60000011
+669,"Prefi Prefabrik Yapı",60000001
+670,Securitas,60000010
+671,"Getinge Group",56102010
+672,"Organik İnsan Kaynakları ve Danışmanlık",60000001
+673,"İnfoloji Kurumsal Danışmanlık",60000001
+674,"Parsat Piston",53101020
+675,"Al-kor Makine",53101020
+676,Intertech,57201010
+677,"Aria Telekom",58101020
+678,"Samsung Electronics Turkey",53204020
+679,"Teknaroma Agency Local & Foreign Trade",54301020
+680,"Bites Savunma Havacılık Uzay",52101010
+681,"YD Yazılım",57201020
+682,"Vardar Yazılım",57201010
+683,KOSGEB,57201020
+684,"Online Kurum Yazılım",57201010
+685,"Elsis Elektronik Sistemler",52101010
+686,"DESU Medical Products and Medical Devices",56101020
+687,"3Y Danışmanlık",60000001
+688,Boytaş,52201020
+689,"Soyak İnşaat",52201020
+690,"Ülke Proje Yönetim",52201020
+691,"CFG Mühendislik",52201020
+692,"Ulubol İnşaat",52201020
+693,"Uzunhan İnşaat",52201020
+694,"Set Stroy Construction",52201020
+695,LAV,60000008
+696,"SANKO SüperFilm Ambalaj Sanayi",51302020
+697,"Akçansa Çimento",51202010
+698,"EÜAŞ - Elektrik Üretim",59101010
+699,YATAŞ,53204040
+700,"T.C. Kalkınma Bakanlığı",60000002
+701,"Promit Mühendislik",52201020
+702,Ekodenge,52203010
+703,"Hayes Lemmerz İnci Alüminyum",51201030
+704,"Salihli Belediyesi",60000002
+705,"T.C. Sağlık Bakanlığı",60000002
+706,Experteam,60000001
+707,"Vakıflar Bankası",55101010
+708,"Diversey Care",54102020
+709,AVEA,58101020
+710,Sarar,53202020
+711,VİKO,52102030
+712,Askaynak,52102010
+713,"Balıkesir Mobilya",53204040
+714,"Meiser Izgara",51202010
+715,"Demas Asansör",52201020
+716,"Akdeniz Elektrik Dağıtım",59101010
+718,"BİS Enerji",60000003
+720,"EMS Emergency Mobile Systems",56102010
+721,"Bilkent University",60000005
+722,Mobiliz,57201020
+723,Comodo,57201020
+724,"Torun Mühendislik ve Isı Sistemleri",52201020
+725,"Ankara Metrosu İşletme ve Bakım Şefliği",60000002
+726,"GTS Brake Systems",53403010
+727,"DPT - Devlet Planlama Teşkilatı",60000002
+728,"ATO - Ankara Ticaret Odası",60000002
+729,"Artibel Belgelendirme",60000011
+730,"Manchester Metropolitan University",60000005
+731,"Siteplus Entegre Yönetim Sistemleri",52201020
+732,"Schattdecor AG",53204040
+733,"230 İnovasyon",53302040
+734,"Central Park Conservancy",60000007
+735,"BNS Techs",53403050
+736,"Food Lion",54301020
+737,"Erikli - Nestle Waters",59103010
+738,Üçge,51202010
+739,JD.ID,57103010
+740,"Groupe Renault",53101010
+741,AYESAŞ,52101010
+742,"Titan Building Technologies",52201020
+743,"Çayeli Bakır İşletmeleri",51201050
+744,"Konspek Madencilik",51201050
+745,"MİM Mühendislik",52201020
+746,"Arteknik Dekoratif Taş",51202010
+747,"Ankara Büyükşehir Belediyesi EGO",60000002
+748,"NUVE Eğitim Danışmanlık",60000001
+749,"BSM Finansal Danışmanlık",60000001
+750,"AltınKüre Eğitim ve Danışmanlık",60000001
+751,"Türk Eximbank",55101010
+752,"Galexis AG",56102010
+753,"Berner Türkiye",51202010
+754,"ETAPAK Baskı Ambalaj",51302020
+755,"Johnson Controls",52301010
+756,"Vivense Home & Living",53204040
+757,STM,52101010
+758,ODTÜ,60000005
+759,Volrad,52102030
+760,"Gates Powertrain",52102010
+761,"Elimko Elektronik",52102030
+762,"Troyka Med Tıbbi Sistemler",52102030
+763,"Albaraka Türk Katılım Bankası",55101010
+764,Componenta,51201030
+765,"Sarten Ambalaj",51302020
+766,"Küçükçalık Tekstil",53202010
+767,Mikropor,52102010
+768,Çaykur,60000004
+769,"Doğan Mobilya",53204040
+770,"Er-Kim İlaç",56201030
+771,HAVAŞ,52402020
+772,"4P Automation and Software",57201020
+773,"HES Kablo",52102030
+774,"Birlik Ekmek",54102020
+775,"Ege Seramik",51202010
+776,"Metal Matris",53204040
+777,"Aldora Mobilya",53204040
+778,ISUZU,53101010
+779,"Petkim Petrokimya",50102030
+780,THK,52402010
+781,Knauf,51202010
+782,Siemens,52102030
+783,MilSOFT,57201020
+784,"Uz Consulting International",57201020
+785,"Mantis Software Company",57201020
+786,"Bor Yazılım",57201020
+787,"Tekboy Tekstil",53202020
+788,"Kilim Group",53202020
+789,"Selin Tekstil İplik",53202020
+790,GfK,52203040
+791,Sandoz,56201010
+792,Uralita,51202010
+793,"Yıldız Holding",54102020
+794,"Reckitt Benckiser",54201020
+795,"Tapu ve Kadastro Genel Müdürlüğü",60000002
+796,"AY Yazılım",57201020
+797,"SSB - Savunma Sanayii Başkanlığı",52101010
+798,"T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",60000002
+799,"TÜİK - Türkiye İstatistik Kurumu",60000002
+800,"SPK - Sermaye Piyasası Kurulu",60000002
+801,"Bıçakçılar Tıbbi Cihaz",56101020
+802,Atempo,52102030
+803,"Garden Catering",54102020
+804,"Genel Energy",60000003
+805,"Friedrich Alexander University",60000005
+806,"Ankor Metal Kaplama",60000012
+807,"Eldor AFZ",52102030
+808,"Utest Material Testing Equipment",52102010
+810,"ASAŞ Ambalaj Baskı - Constantia Flexibles",51302010
+811,"Erdemler Hidrolik",52102010
+812,KABEL,52102030
+813,"Çelik Motor",53403010
+814,"Akkayalar Konveyör",52102010
+815,Proted,56101020
+816,"Soyalan Kozmetik Temizlik",54201020
+817,"Almesan Alüminyum",51201030
+818,"VEN ESCO Consultancy",60000001
+819,"EMKO Isıtma Sistemleri",53204040
+820,"UPS Türkiye",52404020
+821,"Özpor Yalıtım",51202010
+822,"Arlight Aydınlatma",52102030
+823,"Kamil Koç",52404010
+824,"GEMAK Gıda Endüstri Makinaları",52102010
+825,"De Meeuw Turkey",51202010
+826,"Yunus Market",54301020
+827,"Öz Rize",54301020
+828,"Meteksan Savunma",52101010
+829,"Wilhelm Maass GmbH",52102010
+830,"Epsilon Composite",52101010
+831,DHL,52404020
+832,"Ekinoks AG",52101010
+833,"İşlem GIS",57201020
+834,"Durukan Confectionery",54301020
+835,"Emek Boru",52102010
+836,"MAN Truck & Bus AG",52102020
+837,"Devre Teknik",52102030
+838,TEPAV,55103010
+839,"SURATAM - Sürdürülebilir Üretim ArGe ve Tasarım Merkezi",52203010
+842,"Pınar Süt",54301020
+843,"Klimasan Klima",53204020
+844,Maksan,52102040
+845,"Galsan Plastik ve Kalıp",53101020
+846,"ALTA Yedek Parça ve Kalıp",53403010
+847,"James L Williams",52102010
+848,"EMO-SCHAKO Klima",53204020
+849,"Pınar Entegre Et ve Un",54102020
+850,"Trakya Birlik",54102020
+851,Markam,53302010
+852,"Technische Universiteit Eindhoven",60000005
+853,"Çelikler Holding",52201020
+854,"Ekinoks Software",57201020
+855,"BARN Teknoloji",57201020
+856,"Verify Veri İletişimi ve Enformasyon Teknolojisi",57201010
+857,KORVUS,57201010
+858,"Mutlu AKÜ",53101020
+859,Alcap,51302020
+860,Argedor,52203010
+861,"FKT Koltuk Sistemleri",53403010
+862,"AKGÜN Software",57201020
+863,Merinos,53202010
+866,"Kinteks Dokuma ve Boya",53202010
+867,"Tetra Pak",51302020
+868,"Toros Tarım Sanayi ve Ticaret",54102010
+869,"NET İnovasyon",51202010
+870,"Baycan Elektrik",52102030
+871,"Doğanlar Çelik Dövme",51201020
+873,"Verart Grup İç Mimarlık ve Mühendislik",52201020
+874,"Turkish Engine Center",52402020
+875,"Tosyalı Toyo Çelik",51201020
+876,"Noksel Çelik Boru",51201020
+877,Marmarabirlik,54102020
+878,"Emek Çelik Kapı",51202010
+879,"BMT Calsis",56102010
+888,"Akdaş Döküm",52102020
+889,Netmon,58101020
+890,"Konya Çimento",51202010
+891,"İLKO İlaç",56201030
+892,"Efemak Makina",53101020
+893,"Sipil Group- Plastik",53204030
+894,"Çam Hotel Thermal Resort & Spa Convention Center",53301010
+895,"Bülbüloğlu İnşaat",52201020
+896,"Havelsan Teknoloji Radar",52101010
+899,"Ersoylar Demir Çelik",51201020
+900,"Başak Traktör SANKO",53101010
+901,"TTAF Savunma",52101010
+902,"Kardelen Boya ve Kimya",60000009
+903,"Tempo Pompa Vana",53403090
+904,"ERSAN Company",60000003
+906,"Manas Energy Management",60000003
+907,"İstanbul Büyükşehir Belediyesi Deniz Hizmetleri Müdürlüğü",52403020
+908,"Philips Lighting Aydınlatma",60000003
+909,"Maquet Getinge Group",56101020
+910,"Sumitomo Rubber AKO",53101030
+911,"BİEN Yapı Ürünleri",60000008
+912,Esgaz,60000003
+913,"Üzümcü Tıbbi Cihaz ve Medikal Gaz Sistemleri",56101020
+914,"OTIS Elevator Company Turkey",52102020
+916,"MES Elektromekanik Döküm",52102030
+917,"32Bit Bilgisayar Hizmetleri",57201020
+918,"Ateşçi Medikal Mühendislik",56102010
+919,PİMSUN,53101010
+920,"Güngör Poliüretan",51201020
+921,DORÇE,51202010
+922,"Dunapack Packaging",51302020
+923,"Zorlu Enerji",60000003
+924,"Safety Respect AB",52201020
+925,"Ceramic Research Center",60000008
+926,"MTA - General Directorate of Mineral Research and Exploration",55102020
+928,Autoneum,53403010
+930,"Bursalı Tekstil",53202010
+931,"Municipality of Milan",60000002
+932,"ENCON Laboratory",51202010
+933,"Disposet Tıbbi Malzemeler",56102010
+934,"Bağdat Baharat",54102020
+935,"TAA Technic",52101010
+937,"T.C. Yargıtay",60000002
+938,"MiliM Metal Makina ve Savunma",52101010
+939,"Bureau Veritas",60000011
+940,"Türk Kızılayı",60000002
+945,"ODTÜ Pharmacy",60000012
+946,"Atılım Teknik Makine",52101010
+947,"Gempa Elektro Mekanik",52102030
+948,"EMAIR Havacılık ve Ticaret",52402010
+960,"T.C. Çevre ve Şehircilik Bakanlığı",60000002
+961,"DSİ - General Directorate of State Hydraulic Works",60000002
+965,"Türk Hava Kurumu Uçak Bakım Hizmetleri",52101010
+966,"Kozanoğlu Kozmaksan",53403010
+967,"Volrad Elektronik Yazılım",52102030
+968,"TR Teknoloji",52101010
+969,"HT SOLAR",60000003
+970,"ZNT Global",60000003
+971,"ADG Mühendislik",60000001
+972,"ALTES Aluminyum",51201030
+973,"ESA GRUP",60000003
+974,"Astaldi - Türkerler",52201020
+975,"Antensan Elektronik",52101010
+976,"BEST Elektrik",60000003
+978,"Modalife Mobilya",53204040
+979,Teknodizayn,52102010
+980,Hidrolift,52102010
+981,"MezTaş Makina",52102010
+982,"T.C. Gümrük ve Ticaret Bakanlığı",60000002
+983,"Denetsis Danışmanlık Gözetim ve Yazılım",60000001
+984,"Uygur Savunma",52101010
+985,"Bozankaya Otomotiv",53101010
+987,"Ofisus Danışmanlık",60000001
+988,"Sweco Engineering",52201020
+989,"Wilderness Hotel & Golf Resorts",53301010
+990,"Yarış Kabin",53101020
+991,ASPİLSAN,60000003
+992,Termikel,54201010
+993,"Tepe Servis ve Yönetim",52203040
+994,İnoksan,52102010
+995,Mimsan,52102010
+997,"TURKplast Sağlık Ürünleri",56102010
+998,"Best Alüminyum",51201030
+999,"Hidropol Mühendislik",52201020
+1001,"Valeo Automotive",53403010
+1002,Fıratpen,53203010
+1003,"MAHLE Filtre Sistemleri",53403010
+1004,"Oracle Türkiye",57201020
+1005,Kariyer.net,52203030
+1006,"Gazi University",60000005
+1007,"DRC Elektrik ve Plastik",55101050
+1008,"Adnan Menderes Airport",52402020
+1009,"ESO Recycling S.R.L.",52102010
+1011,CarrefourSA,54301020
+1012,"Oyak - OYKA Kağıt Ambalaj",51301020
+1013,"EFOR ENDÜSTRİYEL",52201020
+1014,"GDZ Elektrik Dağıtım",59101010
+1015,"Infinia Mühendislik",57201020
+1016,"İNCİ GS YUASA",53403010
+1018,"Sanko Makina",53101010
+1019,"Mavi Giyim",53202020
+1021,"Ümit Etiket",51301020
+1022,ALBASEC,57201020
+1023,"Turkcell Global Bilgi",58101020
+1026,"TAT Konserve",54102020
+1027,İnovaTİM,57201010
+1028,ABB,52102030
+1029,"ARDEX Yapı Kimyasalları",51202010
+1030,"Esen Sistem Entegrasyon",52101010
+1031,"Anova Proje & Danışmanlık",52101010
+1032,"TEİAŞ - Türkiye Elektrik İletim",59101010
+1033,"ALDAĞ Isıtma Soğutma Klima",53204020
+1034,Prometeon,53101020
+1035,"Nobel İlaç",56102010
+1036,"GAMA Energy",60000003
+1037,"Brisa Bridgestone",53101030
+1040,"Yeditepe University",60000005
+1041,"MİTAŞ Endüstri",51201020
+1042,"Mitsubishi Electric",53204020
+1043,"Aktif Elektroteknik",52102030
+1045,DEKA,52102010
+1046,"Letoile Beach Hotel",53301010
+1047,"Ak Gıda",54102020
+1048,"Stackpole International Otomotiv Ürünleri",53403010
+1049,"Office One Superstore",57103020
+1050,T.C.D.D,52404030
+1053,"Tunca Teknik Makine Sanayi",52102010
+1054,"Presidency of Turkey Strategy and Budget Office",60000002
+1055,"SBB - T.C. Cumhurbaşkanlığı Strateji ve Bütçe Başkanlığı",60000002
+1056,EMGE,52101010
+1057,"Kale Savunma",52101010
+1058,"Solar Power Egypt",50104010
+1059,"Phoenix Solar AG",60000003
+1060,"Halk Enerji",60000003
+1061,"Türkerler Holding",60000003
+1062,"Seven 7 Technology",57201010
+1063,"NGX Storage",57201010
+1064,"İçel Tekstil",53202010
+1065,"KOTON Tekstil ve Mağazacılık",53202010
+1066,AÇILIM,53302040
+1067,"Ankara Atatürk Eğitim ve Araştırma Hastanesi",60000002
+1068,"Prone Project Management Services",60000001
+1069,"Sampa Otomotiv",53101020
+1070,"Starbucks Inc.",54101030
+1071,"Komtaş Bilgi Yönetimi",60000001
+1072,"Altay Yazılım",57201020
+1073,"Proven Bilişim",57201020
+1074,LG,59101010
+1075,"GKN Driveline",53101020
+1076,"MEKA Beton Santralleri ve Kırma Eleme Teknolojileri",52102020
+1077,"LimakPort Uluslararası Liman İşletmeciliği",52403020
+1078,ICterra,57201020
+1079,"Peyman Kuruyemiş",54102020
+1080,"Koza Altın İşletmeleri",51201010
+1081,"İşbir Holding",53204040
+1082,"5nci Ana Bakım Merkezi Komutanlığı - Aselsan",60000002
+1083,"Enso Elektrik",60000003
+1084,"RAM Mühendislik",52201020
+1087,"Telmek Telekomünikasyon",56102020
+1088,Maktek,53204040
+1089,"Maxion Jantaş",53101020
+1091,Ergaz,60000003
+1092,"Buzçelik Termik Cihazlar Sanayi",53204030
+1093,"T.C. İçişleri Bakanlığı",60000002
+1094,"Orta Anadolu Tekstil",53202010
+1095,"Pulsar Robotik",52102010
+1096,"Abdulkadir Özcan",53101020
+1098,BASF,60000012
+1099,"SERKON Ölçü Kontrol",52102010
+1100,"UNDP - United Nations Development Programme",60000002
+1102,"KAİD Eğitim ve Danışmanlık Hizmetleri",60000001
+1103,"Carmen textile",53202010
+1104,"Hekimoğlu Döküm",53101010
+1105,"Haksan Hortum",53403010
+1106,"Türk Henkel",60000012
+1108,"Dora Machinery Manufacturing Industry",52102010
+1109,"Nurmak Araç Üstü Ekipmanları",53403010
+1110,"Ege Profil - Deceuninck",54201010
+1111,Plastika,54201010
+1112,"Bauer Casings",52201020
+1113,"Sonbay Boru Profil",52102010
+1114,PAMAKS,52102030
+1115,"TAT Konserve / SEK SÜT İşletmesi",54102020
+1116,"RAD-TEK Radyatör Metal",53203010
+1117,"Kodzer - İnternet ve Bilişim Hizmetleri",57201010
+1118,"Sun Rent a Car",53403010
+1119,"Sanifoam Sünger",53204040
+1120,"Ersoplast Plastik",54201010
+1121,"Arslan Alüminyum",51201030
+1122,"MESA İmalat",52201020
+1123,"Çolakoğlu Metalurji",51201020
+1124,"Koç Sistem",57201020
+1125,"World Medicine",54301010
+1126,"Inofab Health Service",56102010
+1127,"TSK - Türk Silahlı Kuvvetleri",52101010
+1128,"Doğa HSE Group",60000001
+1129,"Has Food",54102020
+1130,"Red Bull",60000004
+1131,"İVME Unmanned Aerial Systems",52101010
+1132,"Has Kutu",51302020
+1133,"Arolez Food",54102020
+1134,"Model Factory",52102010
+1135,"Göknur Gıda",54102020
+1136,"Kocaeli University",60000005
+1137,"Tamcam Otocam",60000006
+1138,OneDome,57201020
+1139,MotorK,53403010
+1140,"itelligence Türkiye",57201010
+1141,MBIS,57201010
+1142,"DOKAY Laboratuvar ve Mühendislik Hizmetleri",52203010
+1143,"NEN Mühendislik ve Laboratuvar Hizmetleri",52203010
+1144,"Toprak, Gübre ve Su Kaynakları Merkez Araştırma Enstitüsü",52203010
+1145,"Final Savunma",52101010
+1146,"Vilsan İlaç",60000012
+1147,AGE,60000012
+1149,"Votorantim Çimento",51202010
+1151,"Atatürk Hastanesi",56102010
+1153,"Atlas Copco Rockdrills AB",52102020
+1155,"Fırat Plastik Kauçuk",51202010
+1156,"Baydemirler Dış Ticaret",53202010
+1157,"Plas Tekstil",53202010
+1159,"Eren Trafo",52102030
+1160,"Et ve Balık Kurumu",54301020
+1161,DEİCO,52102010
+1162,"UET URAN",52301010
+1163,"Bürke İç ve Dış Ticaret",53204030
+1164,"PRM Yazılım",60000001
+1165,"Sandvik Coromant",52102010
+1166,"SimBT Simülasyon Bilim ve Teknolojileri",52101010
+1167,"Savronik Elektronik",52101010
+1168,"Mesan Elektronik",59101010
+1169,"ONUR Mühendislik",52101010
+1170,"JW Marriott Hotel",53301010
+1171,"Cautha Turkey",50104010
+1172,"Gürbağ İnşaat",52201020
+1173,"Eksen Proje",52201020
+1174,"Roleda Makina",52102010
+1175,"Kredi ve Yurtlar Kurumu İşletmesi",54102020
+1176,"Ankara Halk Ekmek Fabrikası",54102020
+1179,"Böhler Uddeholm GmbH",51201020
+1183,"Dörrenberg Edelstahl GmbH  /  Sağlam Metal",52101010
+1184,"Ankara Seramik Porselen",52102030
+1185,"Barikat Internet Güvenliği Bilişim",57201010
+1186,SinerjiSoft,57201020
+1187,"Skyline Ulaşım Ticaret",52402010
+1188,"Optima Mühendislik",52102020
+1189,AselsanNet,57201010
+1190,"Picus Security",57201020
+1191,Numaş,53204040
+1192,"Palace Entertainment",53302030
+1193,"Petrol Ofisi",50102030
+1194,"Artı Endüstriyel Elektronik",52102040
+1195,WYG,60000001
+1196,"ATAK Engineering",51201020
+1197,"SPRO Teknoloji",60000001
+1198,"Hiperteknoloji Savunma",52101010
+1199,"WEBHRAIN Software",57201020
+1200,"Makim Makina Teknolojileri",52102010
+1201,Söktaş,53202010
+1202,"Hayal Seramik",60000008
+1203,MedMakina,52101010
+1204,"Ankara Araç Muayene İstasyonları",53403010
+1205,"Vision Factory",52203040
+1206,Statkraft,60000003
+1207,"Novi Teknoloji Yazılım ve Danışmanlık",57201020
+1208,"Voyacon Bilişim Teknolojileri",57201010
+1209,Remotify.co,57201010
+1210,ZORLUTEKS,53202010
+1211,"Bilgi Teknolojileri ve İletişim Kurumu",60000002
+1212,"ULAK Haberleşme",57201010
+1213,"Pegasus Hava Taşımacılığı",52402020
+1214,Aygersan,53403010
+1215,"Sharkoon Taiwan",57103010
+1216,Caligo,60000001
+1217,"Renault Mais",53403010
+1218,Pidosan,51202010
+1219,"FEKA Automotive",53403010
+1220,"Doğuş İnşaat",52201020
+1221,Koçtaş,53403020
+1222,"T.C. Ticaret Bakanlığı",60000002
+1223,"Zorlu Holding",53202010
+1224,burdanalcam.com,53302010
+1225,"MT Holding",56101020
+1226,"Tur-Ned International Trading BV",54301020
+1227,"Migros Ticaret",60000013
+1228,"Ray Informatics",57201020
+1229,"E.C.A Valf Sanayi",51202010
+1230,"Albert Genau",51202010
+1231,"State University of New York at Buffalo",60000005
+1233,"Borusan Mannesmann",51201050
+1234,BİİS,57201020
+1235,"Arıkan Automotive",53403010
+1236,"Özdilek Ev Tekstili",53202010
+1237,Casper,53204020
+1238,"Mass Makine",52102010
+1239,"Grebo Otomotiv",53403010
+1241,"Dalgakıran Kompresör",52102010
+1242,"LST Software",57201020
+1243,"Aril Havacılık",52101010
+1244,"Limkon Gıda",54102020
+1245,"Lupe Consulting",60000001
+1246,"Endel Şirketler Grubu",59101010
+1247,NATO,60000002
+1248,"Hezarfen Savunma",52101010
+1249,"Arkitech İleri Yapı Teknolojileri",52102010
+1250,"T.C. Enerji Piyasası Düzenleme Kurumu",60000003
+1251,Finansbank,55101010
+1252,"ASAM (SGDD)",60000007
+1253,"ePlatform Bulut Bilişim",57201020
+1254,Metasolid,57201020
+1256,"Turkish Naval Forces",60000002
+1257,"T.C. Milli Savunma Bakanlığı",60000002
+1258,Yener-san,52102010
+1259,"ARMTEK Elektrik",52102030
+1260,"Güralp Vinç ve Makina",52102020
+1261,"Novagenix Bioanalatik Ar-Ge",56202010
+1264,"NKY - Architects & Engineers",52201020
+1265,"Oligopol Yapı",52201020
+1267,"Oyman Makina",52102010
+1268,"Elite Çelik Kapı",51201020
+1269,Gürgenler,51201020
+1270,"PROMAK - GEMAK",52102010
+1271,"Berdan Civata",52102010
+1272,"Wolfeboro Inn",53301010
+1273,"Mt. Olympus Resort & Theme Park",53301010
+1274,"ELTEKSMAK Textile Machinery",52102010
+1275,AKMİSAN,59103010
+1276,ASİSGUARD,52101010
+1279,Ekomera,60000001
+1281,"KONET Et ve Et Ürünleri",54102020
+1282,LuxSecurity,54102020
+1283,"Town of Bel Air",60000002
+1284,"Medulin Excursion",53301010
+1285,Ferrero,54102020
+1286,"TÜBİTAK BİLGEM YTE",57201020
+1287,CityPack,51302020
+1288,"Kozlu Gida",54102020
+1289,"Kurum International Sh.a",51201020
+1291,"İnspital Medikal Teknoloji",56101020
+1292,"Group Rocher / Flormar",60000014
+1293,"Doğadan Gıda",54102020
+1294,"Eke Tekstil",53202010
+1295,"Vatan Tekstil",53202010
+1296,"VF Corporation",53202020
+1297,"Uysal Makina",52201020
+1298,DeFacto,53403040
+1299,Teknik,55301060
+1300,"Qatar Petroleum",50102020
+1301,"Matay Otomotiv",53101020
+1302,Innofixx,52102010
+1303,"Özka Prefabrik",51202010
+1304,"Arkadaş Kitabevi",53302040
+1305,"Yıldız Entegre",51202010
+1306,"STG Engineering",52101010
+1307,ProntoPro,57201010
+1308,"Saint-Gobain WEBER",60000012
+1309,"Fresenius Medical Care",56101010
+1310,"Aksam Motor",53101020
+1311,"Fikir Ağacı Reklam ve İletişim Hizmetleri",53302010
+1312,"Kolay İK",57201020
+1313,A101,60000013
+1314,FlixBus,52404010
+1315,"Key Yazılım Çözümleri",57201020
+1316,"ACD Construction",52201020
+1317,"Onur Taahhüt Taşımacılık İnşaat",52404030
+1318,"NanoMagnetics Instruments",99999999
+1319,"RST Teknoloji",52101010
+1320,"ELK Motor",52102030
+1321,"Leonardo Turkey Havacılık",52101010
+1323,"MİSTÖK Yangın",53101010
+1324,"Probiz Yazılım Danışmanlık",57201020
+1325,"Xendaba Bilişim",57103010
+1326,"Chemical Engineer",99999999
+1327,"Iran trucktor manufacturing company ITM Co.",53101010
+1328,"MSPM Co.",53101020
+1330,BMC,52101010
+1331,"Orientis AI",57201020
+1332,"N&F Global Corp.",99999999
+1333,"RAMSAN Makina",52102010
+1334,SNTG,99999999
+1335,"UN Migration Agency",60000007
+1336,Tarnet,57201020
+1337,"Kalyon Holding",52201020
+1338,"Ibavalresa Boya ve Kimya",60000012
+1339,"HEPER GROUP",52102030
+1340,Etohum,99999999
+1341,"Atiker Yazılım",57201020
+1342,UDEMY,60000005
+1343,"Kaman's Art Shoppes",53302030
+1344,"i2i Systems",58101020
+1345,"Merkez Bankası",55101010
+1349,"Digicert Belgelendirme",99999999
+1350,Elin,60000003
+1351,"KTM Grup",60000003
+1352,SAP,57201010
+1353,"Sard Oroum Co.",54102020
+1354,"Boehringer Ingelheim",56201030
+1355,"Kamrusepa Samyoung",56101020
+1356,"Carlsberg Group",54101010
+1357,AccessBank,55101010
+1358,"Philips Health Care",56202010
+1359,"Akmeda Medikal",56102010
+1360,"Innomedica Medikal",56102010
+1361,"Abalıoğlu Yumurta ve Besicilik",54102020
+1362,"Türkiye Ürün İhtisas Borsası",55102050
+1363,HELLA,53101020
+1364,"MİTAŞ Enerji",60000003
+1365,"MİTAŞ Cıvata",60000003
+1366,"Hapalki Sanayi Ürünleri Üretim ve Pazarlama",51201020
+1367,"Eskişehir Şeker Makine Fabrikası",51201020
+1368,"Gestamp Toledo",53101010
+1369,"INFOTEKS Technology",99999999
+1370,"Türkiye Noterler Birliği",57201010
+1371,"Dolunay İnşaat",52201020
+1372,"Fiyap İnşaat",52201020
+1373,"Detay Yazılım",57201020
+1374,"Kanat Boya",60000009
+1375,"Koluman Automotive Industry",53101010
+1377,"ODS Consulting Group",60000001
+1378,"ADA Yapı Ürünleri",51202010
+1379,"T.C. Hazine ve Maliye Bakanlığı",60000002
+1380,"Battal Holding",56202010
+1381,"Shipy Software and Payment Solutions",57201010
+1382,"SHIPY Information Technologies",57201010
+1383,"Erzurum Teknik Üniversitesi",60000005
+1384,"iMarine Technologies",52101010
+1386,"BMS Defence Technologies",52101010
+1387,"Evolamp Aydınlatma",52102030
+1388,"Ankara Bilgi Teknolojileri",57201010
+1389,"Filkar Otomotiv",53101010
+1390,"Zafer Walnut Production Line",51301010
+1391,"Adana Pazarlama Dağıtım",59103010
+1392,"FLO Mağazacılık",60000013
+1393,"Orta Karadeniz Kalkınma Ajansı",60000002
+1394,Improva,60000001
+1395,"Industrial Application Software",57201020
+1396,"Egon Zehnder International",60000001
+1397,Boyplast,52102010
+1398,"Duygu Mühendislik İnşaat",52201020
+1399,"GEOTEK Medical",56101020
+1400,"AYMAŞ MAKİNA",52102010
+1401,"VISIOTT Track and Trace Solutions",52102010
+1402,"Farhym Automotive Industry",53101010
+1403,"Utaş Savunma Sanayi",52101010
+1404,"Vestel Beyaz Eşya",54201010
+1405,"YK Enerji",60000003
+1408,T-Kalıp,52101010
+1409,"Atasav Mühendislik Havacılık Makina ve Savunma Sanayi",52101010
+1410,MildMania,57201020
+1412,"TÜRKSAT Uydu Haberleşme Kablo TV ve İşletme",57201010
+1413,"Solvia Digital Solutions",60000001
+1414,"KeyDATA Bilişim Teknolojileri",57201020
+1415,"Sinerjim Bilgi Sistemleri",57201010
+1416,"Türk Hava Yolları Teknik",52402010
+1417,"Elsan Hammadde Sanayii",99999999
+1418,"Ankara Yönlendirme Sistemleri Reklam",52201020
+1419,"Justsnap Technology",57201010
+1420,"Bisoft Information Technology",57201010
+1421,OSSA,52101010
+1422,ADDAX,99999999
+1423,"Kıvanç Tekstil",53202010
+1424,OBSS,57201020
+1425,"Teknik Grup Savunma ve Havacılık",52101010
+1426,"Özben Savunma",52101010
+1427,"Lotus Döküm",52102010
+1428,"Assan Alüminyum",99999999
+1429,"Baştaş Çimento",51202010
+1430,OYAK,99999999
+1431,"AVS Mühendislik",56101020
+1432,"GÜLHANE Eğitim ve Araştırma Hastanesi",56102010
+1433,"GÜLHANE METÜM",56102010
+1434,"HAVELSAN EHSİM",52101010
+1435,"AKBOR Boru",52201020
+1436,"Afghan Construction Company",52201020
+1437,"İST - İşçi Sağlığı Teçhizatı",53202010
+1438,P&G,54201010
+1439,"Metko Medikal ve Tıbbi Cihazlar",56101020
+1441,P.I.Works,58101020
+1442,"ZEO Agency",53302010
+1443,"Fil'm Hafızası",99999999
+1444,Arıkazan,53403020
+1446,"Mercedes-Benz Aydoğanlar Otomotiv",58101020
+1447,"Armas Elektronik",52102030
+1448,"Asis Elektronik ve Bilişim Sistemleri",57201020
+1449,"FEBAS Çevre ve Analiz Laboratuvarı",52203010
+1450,"Ersel Construction Map Development",60000003
+1451,"TAGEM Technology R&D Center",60000001
+1452,"Yeşilyurt Iron, Steel and Harbour Management",51201020
+1453,"Lapis Havacılık Teknolojileri A.Ş.",52101010
+1454,"Gölcük Tersanesi",52201020
+1455,"Colgate & Palmolive",60000014
+1456,"CCN Holding",52201020
+1457,"Promer Consulting & Engineering",52201020
+1459,"Atalar Makine",53101010
+1460,"GEMTA Genel Elektronik",52102030
+1461,"BYART Dekorasyon Mobilya",53403020
+1462,"IST Safety Ltd",53202010
+1463,"Mitaş Kompozit",99999999
+1464,Vanderlande,99999999
+1465,"UNİMAK Mühendislik",52102010
+1466,"Teksan Torna ve Pres",52102010
+1467,"Ar-Can Machine",52102010
+1468,"HAUS Santrifüj Teknolojileri",52102010
+1469,İMESTEK,52102030
+1470,ASYAMAK,99999999
+1471,MIP,52404020
+1472,Ecodation,57201020
+1473,"Sarah Konfeksiyon",53202010
+1474,"SAP MM Consultant",52203040
+1475,"SASA Polyester",60000012
+1476,"Kordsa Technique Textile",53202010
+1477,"FERRA Filter",53403010
+1478,"EKO Savunma Sanayi",52101010
+1479,Farmachem,60000012
+1480,"AS Karo",99999999
+1481,"Ayelteks Güvenlik Sistemleri",60000010
+1482,"Alapros Makina Gıda",54102020
+1483,Amazon,99999999
+1484,"Türkiye Teknoloji Geliştirme Vakfı",99999999
+1485,"Ango AI",57201010
+1486,"Beat Software Solutions",57201010
+1487,"Giresun Yeşil Kent Yapı Denetim",52201020
+1488,"Sade Yazılım ve Danışmanlık",57201020
+1490,"Anadolu Etap Penkon",54102020
+1491,"Kalyon PV",50104010
+1492,"Cadı Design",53204040
+1493,"Messe Home Furniture",53204040
+1494,"Köfteci Yusuf",54102020
+1495,"SFA Electric",52102030
+1497,"Biotekno İnovasyon",58101020
+1498,"SAS Institute",57201020
+1499,Fibabanka,55101010
+1500,"Garanti BBVA Teknoloji",55101010
+1501,"DCS Digital Customs Services",99999999
+1502,"New York Business Excellence",53302040
+1503,Polipiyer,51202010
+1504,"Denizli Merkezefendi Belediyesi",52203010
+1505,"Goodyear Lastikleri",53101030
+1506,"Demir Export",51201050
+1507,"Daiichi Sankyo Europe GmbH",56201010
+1508,"Abdullahoğlu Elektrik Aydınlatma San. ve Tic. A.Ş.",52102030
+1509,"Güncel Yazılım",57201020
+1510,"Anipek Tekstil",53202010
+1511,"Baykar Makina",52101010
+1512,"Kumtel | Dayanıklı Tüketim Malları Plastik San. ve Tic. A.Ş.",54201010
+1513,Airmeet,57201010
+1514,"Sharabati Denim",53202010
+1515,Capgemini,57201010
+1516,"ATILABS | Advanced Technologies & Innovation LABS",57201020
+1517,"Modern Karton",51301020
+1518,"Odak Makina",53101020
+1519,"Otokoç Otomotiv",53403010
+1520,"Pamukkale Kağıt",51301020
+1521,PRESİMSAN,53403010
+1522,"Anipek Tekstil San. Ve Tic. A.Ş.",53202010
+1523,D&R,53205010
+1524,Accenture,60000001
+1525,"MMM Erba Makina",52102010
+1527,"Kaleliler Bağlantı Elemanları",51202010
+1528,"Kardemir Karabük Demir Çelik Sanayi",51201020
+1529,"Hepsi Jet",52404020
+1530,"Benteler Automotive",53403010
+1531,"OBEL Civata",53403010
+1532,"Aydin Bilgi İşlem",57201010
+1534,"Öztürk Endüstriyel Plastik Kalıp Metal Sanayi ve Ticaret Ltd. Şti.",99999999
+1535,TEMSA,53101010
+1536,"Netmak Kesici Takım İmalat Pazarlama",52102010
+1537,"Turkish Airlines Technology",57201010
+1538,"OTOKAR Otomotiv ve Savunma Sanayi A.Ş.",99999999
+1539,"Vesbo (Novaplast) Plastik",99999999
+1540,"Yüksel Proje A.Ş.",52201020
+1541,"Groupe PSA",53403010
+1542,"Ekstra Metal",53101020
+1543,"BHK Greenhouse",99999999
+1544,"Kochendörfer Hydro A.Ş.",60000003
+1545,"Hateks A.Ş.",53202010
+1546,"Gübretaş Maden Yatırımları",51201010
+1547,"Naswood Group",51301010
+1548,"Assan Group",53101020
+1549,"Stelab Yazılım Mühendislik A.Ş.",57201020
+1550,"Alapros Makina Gıda San. ve Tic. A.Ş.",52102010
+1551,"Bosch Termoteknik Isıtma ve Klima San. ve Tic. A.Ş.",99999999
+1552,"Robusta Cognitive Automation",57201010
+1553,"Eczacıbaşı İlaç Pazarlama",53302010
+1554,AbbVie,
+1555,"Akinon İnternet Yatırım ve Proje Geliştirme",57201020
+1556,"Japan Tobacco International",54102030
+1557,"Startup Heroes",57201020
+1558,"Pasha Balloons Üretimi A.Ş.",52402010
+1559,"3EN Defense and Aviation Systems Inc.",52101010
+1560,"AKON HİDROLİK VALF SAN.VE TİC.A.Ş.",99999999
+1561,"Same Deutz-Fahr Tractor Company",53101010
+1562,"Teknik Bilgi İşlem",57201020
+1563,"Yapı Kredi Yatırım",55101010
+1564,"Logo Yazılım",57201020
+1565,"Alp Havacılık",52101010
+1566,"Erdemir Mühendislik",51201020
+1567,"EY UK",60000001
+1568,"Unite BT",57201010
+1569,"Karadeniz Teknik Üniversitesi",99999999
+1570,"5'inci Ana Bakım Fabrika Müdürlüğü",52101010
+1571,"OBEL CIVATA SAN. VE TİC. A.Ş.",53101020
+1572,"HASAŞ Metal ve Yedek Parça Makine San. Tic. Ltd. Şti.",52101010
+1573,"Novumare Technologies",99999999
+1574,"Kinesis Technology Investment",
+1575,"Amec Industries",56101020
+1576,"GAP YEAR",53301040
+1577,Plentific,57201020
+1578,Patika.dev,57201020
+1579,"ERBA Makina",52102010
+1580,"Numarine Denizcilik San. ve Tic A.Ş",
+1581,Action,53402020
+1582,GURUWAGA,55402010
+1583,Jotform,57201020
+1584,"Algopoly Yazılım ve Danışmanlık",57201020
+1585,"Getir Perakende Lojistik",99999999
+1586,"ST Microelectronics",57101010
+1587,"İlbank A.Ş.",52203010
+1588,"Metro Cash&Carry",60000013
+1589,"LABTEST SAVUNMA VE HAVACILIK SAN.",
+1590,"Kod Gemisi",57201010
+1591,"MZD Savunma",52101010
+1592,Virgosol,57201020
+1593,"Koç Bilgi ve Savunma",52101010
+1594,"Flokser Kimya",60000012
+1595,"Freebird Airlines",52402010
+1596,"DEVS Yazılım ve İletişim Teknolojileri A.Ş.",57201020
+1597,"Limaş Liman İşletmeciliği A.Ş. / Hayat Holding",52404020
+1598,"OLİMPİA OTO CAM",60000006
+1599,"ERCE ENERJİ",60000003
+1600,"NTT Data Business Solutions",57201010
+1601,"Hayat Kimya Sanayi A.Ş.",51301020
+1602,"Runecast Solutions",57201020
+1603,"BTO Research",57201010
+1604,"Raiffeisen Bank International",55101010
+1605,"GE Vernova",60000003
+1606,TEOPS,52101010
+1607,"KATSAN MEDICAL DEVICES",56101020
+1608,TUSAŞ,52101010
+1609,"TÜBİTAK BİLGEM İLTAREN",52101010
+1610,"Garanti BBVA",55101010
+1611,"Promo Digital",60000001
+1612,"Loft Mağazacılık INC.",53202010
+1613,Instagram,53302010
+1614,Tiktok,57201010
+1615,"Yapı Kredi Teknoloji",55101010
+1616,Novartis,56201030
+1617,"MSC Mediterranean Shipping Company",52404020
+1618,Salesforce,57201010
+1619,Param,55102050
+1620,"Tempurtech Manufacturing LLC",52102040
+1621,GlobalFoundries,57101010
+1622,"PMS POLİETİLEN MAMÜLLERİ SANAYİ",52403020
+1623,"Bluebird Nordic",52402010
+1624,"Tipico Technology Services GmbH",53301030
+1625,"EGYM GmbH",57201020
+1626,Transporeon,52404020
+1627,"Doping Technology",60000005
+1628,"HILTON HOTELS",53301040
+1630,Test,99999999
+1632,"QNB Finansbank",55101010
+1634,"Swisslog GmbH",57201010
+1636,Nissan,53403010
+1638,TravelPerk,57201020
+1640,"Nisan Mekatronik",52201020
+1642,"Türkiye Sigorta A.Ş.",55301060
+1644,"Target A.Ş.",52101010
+1646,PanJet,52402010
+1648,Stellantis,53101010
+1650,"Anadolu Isuzu",53403010
+1652,"Pimser Proje Elektronik",52101010
+1654,"Veyseloglu Holding",54102020
+1656,"Botta Eco Packaging",51302020
+1658,"İnovasyon Mühendislik Ltd. Şti.",52102010
+1660,"Leiden University",60000005
+1662,"Samur Halıları Sanayi ve Ticaret A.Ş.",
+1664,"Ankasan Casting and Machining",
+1666,EUMETSAT,
+1668,"Avion Express",
+1670,Alotech,
+1672,BOTEL,
+1674,"Eksoy Kimya",
+1676,"Selnikel Energy",
+1678,"Batı Kipaş",
+1680,"İdeal Makina Endüstri Ürünleri San. ve Tic. A.Ş.",
+1682,"MCM SAVUNMA",
+1684,"Başkent Doğalgaz",
+1686,"Polat Makinay",
+1688,"Polat Makina",
+1690,"ZORLU HOLDİNG / KORTEKS",
+1692,GT-ARC,
+1694,"Peak PV Solar Teknolojileri A.Ş.",
+1696,"The Battle House Renaissance Mobile Hotel & Spa",
+1698,"Altyapı ve Ulaştırma Bakanlığı",
+1700,Daikin,
+1702,"Titra Teknoloji A.Ş.",
+1704,"Özgörkey otomotiv gıda turizm A.Ş",
+1706,"UÖzgörkey otomotiv gıda turizm A.Ş",
+1708,"Özgörkeyler Otomotiv Gıda Turizm A.Ş",
+1710,"Round Hill Pines Beach Resort",
+1712,"Sakıp Sabancı Müzesi",
+1714,deneme,
+1716,deneme_,
+1718,test2,99999999
+1722,"Teknik Malzeme",53403010
+1724,"Türk Hava Yolları",52402010
+1726,AJET,52402010
+1728,"Türk Standardları Enstitüsü",99999999
+1730,Faurecia,53101010
+1732,"Güçlü Madeni Çelik Eşya",52101010
+1734,"Türk Tuborg Bira ve Malt Sanayii",60000004
+1736,"PUNTEKS İZOLASYON BEYAZ EŞYA VE OTOMOTİV YAN SAN. TİC. A.Ş",53202010
+1738,"Hastay Makina",51201020
+1740,"BİTES - Defence and Aerospace Technologies",52101010
+1742,"Master Builders Solutions",51202010
+1744,"Solar Bayern Turkey",60000003
+1746,"Pusula Call Center",58101020
+1748,Creavit,60000008
+1750,"Aksa Akrilik Kimya Sanayii A.Ş.",60000012
+1752,"Aksa Enerji",60000003
+1754,"ADOPEN AŞ",99999999
+1756,TRASSIR,57201020
+1758,"Vispera Information Technology",57201010
+1760,"Work Microwave",52102030
+1762,SHELL,60000003
+1764,"Practical Storage",51201020
+1766,"Güriş Holding",52201020
+1768,"Tarım Kredi Tedarik ve Üretim A.Ş.",54301020
+1770,"BEŞLER  GLASSFIBER",60000006
+1772,"BEŞLER GLASSFIBER",60000006
+1774,"BRF - Banvit",54102020
+1776,"Megart Teknoloji Sanayii Ve Ticaret A.Ş.",52101010
+1778,"Six Flags",99999999
+1780,"T.C. Ulaştırma ve Altyapı Bakanlığı",99999999
+1782,"İzmit Belediyesi",60000002
+1784,ASML,57101010
+1786,"MS SPEKTRAL",52101010
+1788,"SAB AEROSPACE",52101010
+1790,"Bluecloud Inc.",57201010
+1792,PwC,60000001
+1794,"Kaynak Tekstil Sanayi ve Ticaret A.Ş.",53202010
+1796,"Hyundai Motor Türkiye",53101010
+1798,"AGS Global",99999999
+1800,TRMOTOR,52101010
+1802,"Başkent Elektrik Dağıtım A.Ş",60000003
+1804,"Leka Proje",52101010
+1806,"Corendon Airlines",52402010
+1808,"Adokim Kimya Aş.",60000012
+1810,"Mudanya University",60000005
+1812,"D4D EXHIBITS",51202010

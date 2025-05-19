@@ -1,0 +1,23 @@
+id,name,type
+1,TOEFL,ENG
+2,"YDS (Eng)",ENG
+3,ALES,ACD
+4,KPSS,PRO
+5,GRE-Verbal,ACD
+6,GRE-Quantitative,ACD
+7,GRE-Analytical,ACD
+8,"IELTS (Academic)",ENG
+9,"IELTS (General)",ENG
+10,"YDS (Pers)",FL
+11,DELF-A1,FL
+12,DELF-A2,FL
+13,DELF-B1,FL
+14,DELF-B2,FL
+15,DALF-C1,FL
+16,DALF-C2,FL
+17,JLPT-N1,FL
+18,JLPT-N2,FL
+19,JLPT-N3,FL
+20,JLPT-N4,FL
+21,JLPT-N5,FL
+22,"Hacettepe Erasmus",ENG

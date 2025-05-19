@@ -1,0 +1,132 @@
+id,industry,industrytr
+50101010,Coal,Kömür
+50102010,"Integrated Oil and Gas","Bütünleşik Petrol ve Gaz"
+50102020,"Oil and Gas Exploration and Production","Petrol ve Gaz Arama ve Üretim"
+50102030,"Oil and Gas Refining and Marketing","Petrol ve Gaz Rafine ve Pazarlama"
+50103010,"Oil and Gas Drilling",NULL
+50103020,"Oil-related Services and Equipment",NULL
+50103030,"Oil and Gas Transportation Services",NULL
+50104010,"Renewable Energy Equipment & Services",NULL
+50104020,"Renewable Fuels",NULL
+51201010,"Precious Metals & Minerals",NULL
+51201020,Steel,Çelik
+51201030,Aluminum,NULL
+51201050,"Specialty Mining & Metals",NULL
+51202010,"Construction Materials, Supplies & Fittings","İnşaat Malzemeleri ve Parçaları"
+51301010,"Forest & Wood Products",NULL
+51301020,"Paper Products",NULL
+51302010,"Non-Paper Containers & Packaging",NULL
+51302020,"Paper Packaging",NULL
+52101010,"Aerospace & Defense","Havacılık ve Savunma"
+52102010,"Industrial Machinery & Equipment","Endüstriyel Makine ve Parçalar"
+52102020,"Heavy Machinery & Vehicles",NULL
+52102030,"Electrical Components & Equipment","Elektrik Parçaları ve Araçları"
+52102040,"Heavy Electrical Equipment",NULL
+52201020,"Construction & Engineering","İnşaat ve Mühendislik"
+52202010,"Diversified Trading & Distributing",NULL
+52203010,"Environmental Services",NULL
+52203020,"Commercial Printing Services",NULL
+52203030,"Employment Services",NULL
+52203040,"Business Support Services & Supplies",NULL
+52301010,"Industrial Conglomerates",NULL
+52401010,"Air Freight & Courier Services",NULL
+52402010,Airlines,"Hava Yolları"
+52402020,"Airport Services","Havaalanı Hizmetleri"
+52403020,"Marine Port Services",NULL
+52404010,"Passenger Transportation, Ground & Sea",NULL
+52404020,"Logistics and Freight Transportation","Lojistik ve Taşımacılık"
+52404030,"Highways & Rail Tracks",NULL
+53101010,"Auto, Truck & Motorcycle Manufacturers","Otomobil, Kamyon ve Motorsiklet Üreticileri"
+53101020,"Auto, Truck & Motorcycle Parts & Service","Otomobil, Kamyon ve Motorsiklet Yedek Parça ve Hizmetleri"
+53101030,"Tires & Rubber Products",NULL
+53202010,"Textiles & Leather Goods","Tekstil ve Deri Ürünleri"
+53202020,"Apparel & Accessories",NULL
+53202030,Footwear,NULL
+53203010,Homebuilding,NULL
+53204020,"Consumer Electronics","Tüketici Elektroniği"
+53204030,"Appliances, Tools & Housewares","Alet, Cihaz ve Ev Eşyaları"
+53204040,"Home Furnishing",NULL
+53205010,"Toys & Games",NULL
+53205020,"Recreational Products",NULL
+53301010,"Hotels, Motels & Cruiselines",Otelcilik
+53301020,Restaurants,NULL
+53301030,"Casinos & Gaming",NULL
+53301040,"Leisure & Recreation",NULL
+53302010,"Advertising & Marketing",NULL
+53302020,Broadcasting,NULL
+53302030,"Entertainment Production",NULL
+53302040,Publishing,NULL
+53302090,"Diversified Media",NULL
+53402010,"Department Stores","Büyük Mağazacılık"
+53402020,"Discount Stores",NULL
+53403010,"Auto Vehicles, Parts & Service Retailers","Otomotiv Araç, Yedek Parça ve Hizmetleri"
+53403020,"Home Improvement Products & Services Retailers",NULL
+53403030,"Home Furnishings Retailers",NULL
+53403040,"Apparel & Accessories Retailers",NULL
+53403050,"Computer & Electronics Retailers",NULL
+53403090,"Other Specialty Retailers",NULL
+54101010,Brewers,NULL
+54101020,"Distillers & Wineries",NULL
+54101030,"Non-Alcoholic Beverages",NULL
+54102010,"Fishing & Farming",NULL
+54102020,"Food Processing","Gıda İşleme"
+54102030,Tobacco,Tütün
+54201010,"Household Products",NULL
+54201020,"Personal Products","Kişisel Ürünler"
+54201030,"Personal Services",NULL
+54301010,"Drug Retailers",NULL
+54301020,"Food Distribution & Convenience Stores",NULL
+55101010,Banks,Bankacılık
+55101030,"Consumer Financial Services",NULL
+55101050,"Specialty Financials",NULL
+55102010,"Investment Banking & Brokerage Services",NULL
+55102020,"Investment Management & Fund Operators",NULL
+55102030,"Diversified Investment Services",NULL
+55102040,"Specialty Investment Services",NULL
+55102050,"Financial & Commodity Market Operators",NULL
+55103010,"Diversified Financial Services",NULL
+55301010,"Multiline Insurance",NULL
+55301020,"Property & Casualty Insurance",NULL
+55301030,"Life & Health Insurance",NULL
+55301050,Reinsurance,NULL
+55301060,"Insurance Brokers",NULL
+55402010,"Real Estate Development & Operations",NULL
+55402020,"Real Estate Services",NULL
+55403010,"Diversified REITs",NULL
+55403020,"Commercial REITs",NULL
+55403030,"Residential REITs",NULL
+55501010,"Investment Trusts",NULL
+56101010,"Advanced Medical Equipment",NULL
+56101020,"Medical Equipment, Supplies & Distribution",NULL
+56102010,"Healthcare Facilities & Services",NULL
+56102020,"Managed Healthcare",NULL
+56201010,"Diversified Pharmaceuticals",NULL
+56201030,"Generic & Specialty Pharmaceuticals",NULL
+56202010,"Biotechnology & Medical Research",NULL
+57101010,Semiconductors,NULL
+57101020,"Semiconductor Equipment & Testing",NULL
+57102010,"Communications Equipment",NULL
+57103010,"Computer Hardware",NULL
+57103020,"Office Equipment",NULL
+57201010,"IT Services & Consulting","Bilgi Teknolojileri ve Danışmanlık"
+57201020,Software,Yazılım
+58101020,"Telecommunication Services","Telekomünikasyon Hizmetleri"
+59101010,"Electric Utilities","Elektrik Kurumları"
+59102010,"Natural Gas Utilities",NULL
+59103010,"Water & Other Utilities",NULL
+59104010,"Multiline Utilities",NULL
+60000001,Consulting,Danışmanlık
+60000002,"Public Sector",Kamu
+60000003,Energy,Enerji
+60000004,Beverages,NULL
+60000005,Education,Eğitim
+60000006,Glass,NULL
+60000007,"Non-profit Organization",NULL
+60000008,Ceramics,NULL
+60000009,Paint,NULL
+60000010,Security,NULL
+60000011,Certification,NULL
+60000012,"Chemicals: Commodity, Agricultural, Specialty",NULL
+60000013,"Retail Supermarket",NULL
+60000014,Cosmetics,Kozmetik
+99999999,Other,Diğer

@@ -1,0 +1,219 @@
+id,name,type
+0,"Not specified",
+1,English,Language
+2,German,Language
+3,French,Language
+4,Persian,Language
+5,Italian,Language
+6,Spanish,Language
+7,Arabic,Language
+8,R,Computer
+9,Matlab,Computer
+10,"Visual Basic",Computer
+11,C,Computer
+12,C#,Computer
+13,Java,Computer
+14,PHP,Computer
+15,Python,Computer
+16,SQL,Computer
+17,"MS Office",Computer
+18,Minitab,Computer
+19,Arena,Computer
+20,"JMP Pro",Computer
+21,RapidMiner,Computer
+22,Greek,Language
+23,Perl,Computer
+24,Chinese,Language
+25,"Data Analysis",Other
+26,"Time Management",Other
+28,Teamwork,Other
+29,Creativity,Other
+30,Leadership,Other
+31,Portuguese,Language
+33,SolidWorks,Computer
+34,"SAP HCM",Computer
+35,"SAP SCM",Computer
+36,"SAP MM",Computer
+37,"Primavera P6",Computer
+38,Dutch,Language
+39,AutoCAD,Computer
+40,Tennis,Other
+41,Japanese,Language
+42,Sailing,Other
+43,"Music (Guitar)",Other
+44,Swimming,Other
+45,Dancing,Other
+46,HTML,Computer
+47,Arduino,Computer
+48,"Adobe Photoshop",Computer
+49,"Adobe Illustrator",Computer
+50,"GNU/Linux System Management",Computer
+51,Archery,Other
+52,"Table Tennis",Other
+53,Painting,Other
+54,Chess,Other
+55,Korean,Language
+56,"Music (Side Flute)",Other
+57,"Music (Piano)",Other
+58,Turkish,Language
+59,"Music (Violin)",Other
+60,Bosnian,Language
+61,Football,Other
+62,"Sindarin Elvish",Language
+63,Catia,Computer
+64,"Siemens NX",Computer
+65,"10 m Air Rifle Shooting",Other
+66,SIMULE8,Computer
+67,"Canias ERP",Computer
+69,"FTI Sheet Metal Forming Simulation",Computer
+71,"NETSİS ERP",Computer
+72,"Creo Parametric",Computer
+73,Photography,Other
+74,Basketball,Other
+75,"Music (Drums)",Other
+77,"Music (Bağlama)",Other
+78,"Music (G Clarinet)",Other
+79,Taekwondo,Other
+80,Latin,Language
+82,"CNC Programming (G-Code)",Computer
+83,GO,Other
+84,Poeticise,Other
+85,Russian,Language
+86,Anylogic,Computer
+88,Fishing,Other
+90,JIRA,Computer
+91,"Microsoft Excel VBA",Computer
+92,"Online Marketing",Other
+93,Android,Computer
+94,SAS,Computer
+95,Volleyball,Other
+98,"Dance (Folk Dances)",Other
+100,"Ice Skating",Other
+101,"Scuba Diving",Other
+102,Karate,Other
+103,Scouting,Other
+105,"Effective Speech",Other
+106,"Crisis Management",Other
+114,Caving,Other
+115,Pinball,Other
+116,Cycling,Other
+117,"10 Finger Typing",Computer
+120,Singing,Other
+121,"Arabic (Speaking)",Language
+122,"SAP HRM",Computer
+123,Kyrgyz,Language
+124,Acting,Other
+125,"IFS ERP",Computer
+126,Climbing,Other
+127,"SAP ECC",Computer
+128,"SAP APO",Computer
+129,"SAP BI Analysis Office",Computer
+130,Witness,Computer
+131,Skiing,Other
+132,SolidWork,Computer
+133,Fortran,Computer
+135,Albanian,Language
+136,Camping,Other
+137,Longboarding,Other
+138,Skateboarding,Other
+139,"Horse Riding",Other
+140,sta4cad,Computer
+141,Allplan,Computer
+142,"Language Skills",Language
+143,Jogging,Other
+144,"Playing the piano",Other
+145,"Kick Box",Other
+146,MMA,Other
+147,Zumba,Other
+148,Art,Other
+149,Deutsch,Language
+150,Badminton,Other
+151,"Song Writing",Other
+152,Gaming,Computer
+154,"Playing ukulele",Other
+155,Biology,Other
+156,"Folk dance",Other
+157,Drawing,Other
+158,Camtasia,Computer
+159,Proteus,Computer
+160,Boardgame,Other
+161,E-sport,Other
+162,"SAP CO",Computer
+163,JavaScript,Computer
+164,"Windows Server Management",Computer
+165,"IT Network Management",Computer
+166,"IT Network Management Security",Computer
+167,"Data Management",Computer
+168,"Data Security",Computer
+169,Electronics,Other
+170,"CNC/3D Printing",Other
+171,İngilizce,Language
+172,Revit,Computer
+173,"ASP .Net Core",Computer
+174,"SAP S/4HANNA",Computer
+175,"Rock climbing",Other
+176,Mountaineering,Other
+177,Czech,Language
+178,"Music (Ukulele)",Other
+179,"Business Objects",Computer
+180,Tableau,Computer
+181,"Oracle BI",Computer
+182,"Oracle DI",Computer
+183,geNIe,Computer
+184,Belarusian,Language
+185,Motorsports,Other
+186,Fashion,Other
+187,CSS,Computer
+188,ReactJS,Computer
+189,NodeJS,Computer
+190,PostgreSQL,Computer
+191,MongoDB,Computer
+192,Github,Computer
+193,"Google Analytics",Computer
+194,"Google AdWords",Computer
+195,"On-Page SEO",Computer
+196,"Search Engine Marketing",Computer
+197,WordPress,Computer
+198,"Google Tag Manager",Computer
+199,"Google Search Console",Computer
+200,ArcGIS,Computer
+201,"Theatre acting",Other
+206,Rugby,Other
+207,"Riding horse",Other
+208,Reading,Other
+209,Yoga,Other
+210,"Social Media",Other
+211,Research,Other
+212,Presentation,Other
+213,SPSS,Computer
+214,Cubing,Other
+215,"ANSYS FLuent",Computer
+217,math,Other
+218,LANGUAGE,Language
+219,Isindebele,Language
+220,ChiShona,Language
+221,"Music (Harmonica)",Other
+222,Golf,Other
+223,Music(piano),Other
+224,PowerBI,Computer
+225,Bodybuilding,Other
+226,paragliding,Other
+227,Salesforce,Computer
+228,Sabre,Computer
+229,Excel,Computer
+230,"Adobe Premiere",Computer
+231,power,Other
+232,"Power BI",Other
+233,Trekking,Other
+234,"R Programming Language",Computer
+236,Poker,Other
+238,Pool,Other
+240,sculpting,Other
+242,"SAP PP",Computer
+244,Gurobi,Computer
+246,CPLEX,Computer
+248,Phyton,Computer
+250,Arnavutça,Language
+252,İspanyolca,Language
+254,Almanca,Language
+256,"Canias ERP System",Computer

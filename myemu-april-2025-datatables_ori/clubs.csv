@@ -1,0 +1,150 @@
+id,name,type
+1,"Endüstri ve Sistem Topluluğu (HENDS)",1
+2,"Girişim ve Yatırım Topluluğu (GİYAT)",1
+3,"ACM Bilişim Topluluğu",1
+4,"Aikido Topluluğu",0
+5,"Aile ve Tüketici Topluluğu",1
+6,"Alevi Kültürü Araştırma Topluluğu",0
+7,"Amerikan Futbolu Topluluğu",0
+8,"Anime Manga Topluluğu",0
+9,"Araştırma ve Geliştirme Topluluğu",1
+10,"Arkeoloji Topluluğu",0
+11,"Astronomi Topluluğu",0
+12,"Atatürkçü Düşünce Topluluğu",0
+13,"Atık Yönetimi Topluluğu",0
+14,"Beslenme ve Diyet Topluluğu",0
+15,"Bilgi Topluluğu",0
+16,"Bilim Kültür ve Sanat Topluluğu",0
+17,"Bilim Kurgu ve Fantezi Topluluğu",0
+18,"Bilimsel Düşünce Topluluğu",0
+19,"Binicilik Topluluğu",0
+20,"Bisiklet Topluluğu",0
+21,"Bitki Topluluğu",0
+22,"Biyoloji Topluluğu",0
+23,"Çağdaş Yaşam Topluluğu",0
+24,"Capoeria Topluluğu",0
+25,"Çeviri Topluluğu",0
+26,"Çevre Topluluğu",0
+27,"Çocuk Gelişimi ve Eğitimi Topluluğu",0
+28,"Cumhuriyet Değerleri Topluluğu",0
+29,"Dağcılık ve Doğa Sporları Topluluğu",0
+30,"Dans Sporları Topluluğu",0
+31,"Değişim Öğrencileri Topluluğu ",0
+32,"Dilbilim Topluluğu",0
+33,"Diş Hekimliği Fakültesi Bilimsel Araştırma Topluluğu",0
+34,"Doğada Yürüyüş Topluluğu",0
+35,"Drama Topluluğu",0
+36,"Edebiyat Topluluğu",0
+37,"Eğitime İlk Adım Topluluğu",0
+38,"Ekoloji Grubu Topluluğu",0
+39,"Ekonomi Topluluğu",1
+40,"Elektronik Sporlar Topluluğu",0
+41,"Enerji Topluluğu",0
+42,"Engelsiz Hacettepe Topluluğu",0
+43,"Evrimsel Biyoloji ve Tıp Topluluğu",0
+44,"Farmasötik Gelişim Topluluğu",1
+45,"Felsefe Topluluğu",0
+46,"Fizik Topluluğu",0
+47,"Fotoğraf Topluluğu",0
+48,"Gastronomi Topluluğu",0
+49,"Genç Araştırmacılar Topluluğu",1
+50,"Genç Kimyacılar Topluluğu",1
+51,"Genç Liderler Topluluğu",1
+52,"Genç Mühendisler Topluluğu",1
+53,"Genç Yeryüzü Doktorları Topluluğu",1
+54,"Gıda Topluluğu",1
+55,"Go Topluluğu",0
+56,"Hacettepe Genç Tema Topluluğu",0
+57,"Hacettepe Güreş Topluluğu",0
+58,"Hacettepe LÖSEV Topluluğu",0
+59,"Hacettepe Müzikal Topluluğu",0
+60,"Hacettepeli Taraftarlar Topluluğu",0
+61,"Halk Sağlığı Topluluğu",1
+62,"Havacılık Topluluğu",0
+63,"Hayvan Hakları ve Doğayı Koruma Topluluğu",0
+64,"Hukuk Topluluğu",1
+65,"IEEE Öğrenci Topluluğu",1
+66,"IGDA Oyun Geliştiricileri Topluluğu",0
+67,"İktisadi ve Toplumsal Araştırmalar Topluluğu",1
+68,"İlköğretim Bölümü Topluluğu",0
+69,"İnsansız Hava Araçları Topluluğu",0
+70,"İşitme ve Denge Topluluğu",0
+71,"İşletme Topluluğu",1
+72,"İstatistik Topluluğu",1
+73,"İzcilik Topluluğu",0
+74,"Kadın Çalışmaları Topluluğu",0
+75,"Kayak ve Snowboard Topluluğu",0
+76,"Kick Boks ve Muay Thai Topluluğu",0
+77,"Kitap Topluluğu",0
+78,"Konumsal Bilgi Topluluğu",0
+79,"Konuşma Ses ve Yutma Topluluğu",0
+80,"Kuir Araştırmaları Topluluğu",0
+81,"Mağara Araştırma Topluluğu",0
+82,"Maliye Topluluğu",1
+83,"Mantar Topluluğu",0
+84,"Martı Topluluğu",0
+85,"Masaüstü Kutu ve Zeka Oyunları Topluluğu",0
+86,"Matematiksel Düşünme ve Araştırma Topluluğu",0
+87,"Mediclup Topluluğu",1
+88,"Medisep Topluluğu",1
+89,"MMA Karışık Dövüş Sanatları Topluluğu",0
+90,"Model Birleşmiş Milletler Topluluğu",0
+91,"Motosiklet Topluluğu",0
+92,"Münazara Topluluğu",0
+93,"Müzik ve Oyun Deneme Topluluğu",0
+94,"Müzikbilim Topluluğu",0
+95,"Okçuluk Topluluğu",0
+96,"Okuma Topluluğu",0
+97,"Otomobil ve Motor Sporları Topluluğu",0
+98,"Otomotiv Topluluğu",1
+99,"Paten Topluluğu",0
+100,"Plastik Sanatlar Topluluğu",0
+101,"Politika Teorisi Topluluğu",0
+102,"Psikoloji Topluluğu",1
+103,"Psikolojik Danışma Topluluğu",0
+104,"Quidditch Topluluğu",0
+105,"Rap Topluluğu",0
+106,"Risk ve Aktüerya Topluluğu",0
+107,"Robot Topluluğu",1
+108,"Rock Topluluğu",0
+109,"Rugby-Touch Rugby Topluluğu",0
+110,"Sağlık Öğrencileri Bilim, Kültür ve Düşünce Topluluğu",1
+111,"Sağlık Yönetimi Topluluğu",1
+112,"Sağlıklı Yaşam ve Egzersiz Topluluğu",1
+113,"Sanat ve Mimari Topluluğu",0
+114,"Satranç Topluluğu",0
+115,"Siber Güvenlik Topluluğu",1
+116,"Sinema ve Video Topluluğu",0
+117,"Siyaset Bilimi ve Kamu Yönetimi Topluluğu",1
+118,"Sosyal Hizmet Etkileşim Topluluğu",1
+119,"Sualtı Hokeyi Topluluğu",0
+120,"Sualtı Sporları Topluluğu",0
+121,"Tımbıka Ritim Topluluğu",0
+122,"Tıp Fakültesi Bilimsel Araştırma Topluluğu",1
+123,"Tıpta Ses Araştırmaları ve Müzik Terapi Topluluğu",0
+124,"Tiyatro Topluluğu",0
+125,"Toplum ve Eğitim Gönüllüleri Topluluğu",0
+126,"Toplumsal Araştırmalar Topluluğu",0
+127,"Toplumsal Katılımda Yaratıcılık Topluluğu",0
+128,"Turizm ve Rehberlik Topluluğu",0
+129,"Türk Dünyası Araştırmaları Topluluğu",0
+130,"Türk Halk Müziği Topluluğu",0
+131,"Türk Halk Oyunları Topluluğu",0
+132,"Türk Halkbilimi Topluluğu",0
+133,"Türk Kızılayı Topluluğu",0
+134,"Türk Sanat Müziği Topluluğu",0
+135,"Türkçe Topluluğu",0
+136,"Türkoloji Araştırmaları Topluluğu",0
+137,"Uluslararası Gençlik Topluluğu",0
+138,"Uluslararası İlişkiler Topluluğu",1
+139,"Uluslararası Proje Topluluğu",1
+140,"Ütopya Topluluğu",0
+141,"Uzak Doğu Dilleri ve Kültürleri Topluluğu",0
+142,"Uzayın Keşfi ve Geliştirilmesi Topluluğu",0
+143,"Yabancı Diller Topluluğu",0
+144,"Yapay Zeka Topluluğu",1
+145,"Yapı Topluluğu",1
+146,"Yarışma Topluluğu",0
+147,"Yelken, Denizcilik ve Yatcılık Topluluğu",0
+148,"Yer Bilimleri Topluluğu",1
+149,"Yoga Topluluğu",0

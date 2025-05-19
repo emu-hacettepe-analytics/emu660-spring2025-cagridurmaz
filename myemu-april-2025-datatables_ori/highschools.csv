@@ -1,0 +1,517 @@
+id,name,city,country
+1,"Mehmet Emin Resulzade Anadolu Lisesi",Ankara,Turkey
+3,"Ankara Atatürk Anadolu Lisesi (Sıhhiye)",Ankara,Turkey
+5,"Gazi Anadolu Lisesi",Ankara,Turkey
+6,"Milli Piyango Anadolu Lisesi",Ankara,Turkey
+7,"Bornova Anadolu Lisesi",İzmir,Turkey
+8,"Bartın Davut Fırıncıoğlu Anadolu Lisesi",Bartın,Turkey
+9,"Nilüfer Milli Piyango Anadolu Lisesi",Bursa,Turkey
+10,"Ayrancı Anadolu Lisesi",Ankara,Turkey
+11,"Batıkent Lisesi",Ankara,Turkey
+12,"Ödemiş Anadolu Öğretmen Lisesi",İzmir,Turkey
+13,"Metin Nuran Çakallıklı Anadolu Lisesi",Antalya,Turkey
+14,"Turgut Alp Anadolu Lisesi",Bursa,Turkey
+15,"Bursa Anadolu Lisesi",Bursa,Turkey
+16,"Adem Tolunay Anadolu Lisesi",Antalya,Turkey
+17,"İçel Anadolu Lisesi",Mersin,Turkey
+18,"Samsun Atatürk Anadolu Lisesi",Samsun,Turkey
+19,"Yahya Turan Anadolu Öğretmen Lisesi",Hatay,Turkey
+20,"Kabataş Erkek Lisesi",İstanbul,Turkey
+22,"Samsun Anadolu Lisesi",Samsun,Turkey
+23,"Adana Ticaret Odası Anadolu Lisesi",Adana,Turkey
+24,"Rize TOBB Fen Lisesi",Rize,Turkey
+25,"İzmir Kız Lisesi",İzmir,Turkey
+26,"Dr. Binnaz Ege Dr.Rıdvan Ege Anadolu Lisesi",Ankara,Turkey
+27,"Kdz. Ereğli Anadolu Lisesi",Zonguldak,Turkey
+29,"Fethiye Kemal Mumcu Anadolu Lisesi",Muğla,Turkey
+30,"Marmaris Halıcı Ahmet Urkay Anadolu Lisesi",Muğla,Turkey
+32,"Fatih Sultan Mehmet Lisesi",Ankara,Turkey
+33,"Darıca Neşet Yalçın Lisesi",Kocaeli,Turkey
+35,"Maltepe Askeri Lisesi",İzmir,Turkey
+36,"Süleyman Demirel Anadolu Lisesi",Ankara,Turkey
+37,"Uluğbey Anadolu Lisesi",Ankara,Turkey
+38,"Al Omran",Tunis,Tunisia
+39,"Şehremini Anadolu Lisesi",İstanbul,Turkey
+40,"Nermin Mehmet Çekiç Anadolu Lisesi",Ankara,Turkey
+41,"Çankaya Anadolu Lisesi",Ankara,Turkey
+42,"İzmir Karşıyaka Anadolu Lisesi",İzmir,Turkey
+43,"Bartın Hasan Sabri Çavuşoğlu Fen Lisesi",Bartın,Turkey
+44,"TED Ankara Koleji Vakfı Özel Lisesi",Ankara,Turkey
+45,"Suat Terimer Anadolu Lisesi",İstanbul,Turkey
+46,"Kaya Karakaya Anadolu Lisesi",Elazığ,Turkey
+47,"Aydınlıkevler Anadolu Lisesi",Ankara,Turkey
+48,"TED Karadeniz Ereğli Koleji",Zonguldak,Turkey
+49,"İstek Özel Bilge Kağan Fen Lisesi",İstanbul,Turkey
+50,"Yamanlar Koleji",İzmir,Turkey
+51,"Samiha Ayverdi Anadolu Lisesi",İstanbul,Turkey
+52,"Yıldırım Beyazıt Anadolu Lisesi",Ankara,Turkey
+53,"Eskişehir Anadolu Lisesi",Eskişehir,Turkey
+54,"Bursa Ali Osman Sönmez Fen Lisesi",Bursa,Turkey
+55,"Arnavutköy Korkmaz Yiğit Anadolu Lisesi",İstanbul,Turkey
+56,"Reha Alemdaroğlu Anadolu Lisesi",Ankara,Turkey
+57,"Mehmet Erdoğan Anadolu Lisesi",Muğla,Turkey
+58,"Anamur Anadolu Lisesi",Mersin,Turkey
+59,"Çağrıbey Anadolu Lisesi",Ankara,Turkey
+60,"Turhal Şeker Anadolu Öğretmen Lisesi",Tokat,Turkey
+61,"Nuh Mehmet Küçükçalık Anadolu Lisesi",Kayseri,Turkey
+62,"Meram Fen Lisesi",Konya,Turkey
+63,"Hacı Ömer Tarman Anadolu Lisesi",Ankara,Turkey
+64,"Fatma Emin Kutvar Anadolu Lisesi",Balıkesir,Turkey
+65,"Malatya Fen Lisesi",Malatya,Turkey
+66,"Gölbaşı Anadolu Lisesi",Ankara,Turkey
+67,"Çankaya Kılıçaslan Lisesi",Ankara,Turkey
+69,"Düzce Fen Lisesi",Düzce,Turkey
+70,"Dr. Şerafettin Tombuloğlu Lisesi",Ankara,Turkey
+71,"Ankara Kocatepe Mimar Kemal Anadolu Lisesi",Ankara,Turkey
+72,"Eryaman Lisesi",Ankara,Turkey
+73,"İzmir Anadolu Öğretmen Lisesi",İzmir,Turkey
+74,"Bursa İ.M.K.B. Gürsu Anadolu lisesi",Bursa,Turkey
+75,"Tekirdağ Anadolu Lisesi",Tekirdağ,Turkey
+76,"Tuğlacılar Anadolu Lisesi",Tekirdağ,Turkey
+77,"Sinop Anadolu Öğretmen Lisesi",Sinop,Turkey
+78,"Sakıp Sabancı Anadolu Lisesi",İstanbul,Turkey
+79,"Figen Sakallıoğlu Anadolu Lisesi",Sakarya,Turkey
+80,"Prof. Dr. Necati Ersen Anadolu Öğretmen Lisesi",Sivas,Turkey
+81,"Karacabey Anadolu Lisesi",Bursa,Turkey
+82,"Konak Kenan Evren Anadolu Lisesi",İzmir,Turkey
+83,"Ahmet Buhan Lisesi",İstanbul,Turkey
+84,"Merzifon Anadolu Lisesi",Amasya,Turkey
+85,"Alparslan Anadolu Lisesi",Ankara,Turkey
+86,"Meram Anadolu Lisesi",Konya,Turkey
+87,"Halkalı Toplu Konut Lisesi",İstanbul,Turkey
+88,"Mevlana Anadolu Lisesi",İstanbul,Turkey
+89,"Yahya Kemal Beyatlı Anadolu Lisesi",Ankara,Turkey
+90,"Sokullu Mehmet Paşa Anadolu Lisesi",Ankara,Turkey
+94,"Mersin Ticaret ve Sanayi Odası Anadolu Lisesi",Mersin,Turkey
+95,"Ceyhan Ticaret Borsası Anadolu Öğretmen Lisesi",Adana,Turkey
+97,"Milli Eğitim Bakanı Ali Naili Erdem Anadolu Lisesi",Ankara,Turkey
+98,"Beydağı Abdülkadir Eriş Anadolu  Lisesi",Malatya,Turkey
+99,"Muğla Anadolu Lisesi",Muğla,Turkey
+100,"Ankara Atatürk Anadolu Lisesi",Ankara,Turkey
+101,"Kırkkonaklar Anadolu Lisesi",Ankara,Turkey
+102,"Özel Fatih Safiye Sultan Lisesi",İstanbul,Turkey
+103,"Eskişehir Fatih Anadolu Lisesi",Eskişehir,Turkey
+104,"Edirne Süleyman Demirel Fen Lisesi",Edirne,Turkey
+105,"Çapa Fen Lisesi",İstanbul,Turkey
+106,"İncirli Süper Lisesi (Y.D.A.)",Ankara,Turkey
+108,"Ümitköy Anadolu Lisesi",Ankara,Turkey
+109,"Sırrı Yırcalı Anadolu Lisesi",Balıkesir,Turkey
+110,"Isparta Süleyman Demirel Fen Lisesi",Isparta,Turkey
+111,"ODTÜ GVO Özel Lisesi",Ankara,Turkey
+112,"Kanuni Lisesi",Ankara,Turkey
+113,"İzmir Atatürk Anadolu Lisesi",İzmir,Turkey
+114,"19 Mayis Türk Maarif Koleji",Girne,Cyprus
+115,"Doğa Koleji",Manisa,Turkey
+116,"Karabük Mehmet Vergili Fen Lisesi",Karabük,Turkey
+117,"Ayyıldız Anadolu Lisesi",Ankara,Turkey
+118,"İzzet Baysal Anadolu Lisesi",Bolu,Turkey
+119,"İrfan Ataseven Fen Lisesi",Karaman,Turkey
+120,"Hürriyet Anadolu Lisesi",Bursa,Turkey
+122,"Şükrü Şankaya Anadolu Lisesi",Bursa,Turkey
+123,"İstiklal Makzume Anadolu Lisesi",Hatay,Turkey
+124,"Malatya Anadolu Lisesi",Malatya,Turkey
+126,"Kılıçoğlu Anadolu Lisesi",Eskişehir,Turkey
+127,TEVAL,Denizli,Turkey
+128,"Kalaba Anadolu Lisesi",Ankara,Turkey
+129,"Cumhuriyet Lisesi",Ankara,Turkey
+131,"Hasan Ali Yücel Anadolu Öğretmen Lisesi",Ankara,Turkey
+132,"Atatürk Mesleki ve Teknik Anadolu Lisesi",Ankara,Turkey
+133,"Dr. İlhami Tankut Anadolu Lisesi",Antalya,Turkey
+134,"Ortaklar Anadolu Öğretmen Lisesi",Aydın,Turkey
+135,"Husain Karasaev Kyrgyz-Turkish Highschool",Karakol,Kyrgyzstan
+136,"Muğla Anadolu Öğretmen Lisesi",Muğla,Turkey
+137,"Sincan Fatih Anadolu Meslek Lisesi",Ankara,Turkey
+139,"Tülay Başaran Anadolu Lisesi",Samsun,Turkey
+140,"Kuleli Askeri Lisesi",İstanbul,Turkey
+142,"Tire Kutsan Anadolu Lisesi",İzmir,Turkey
+144,"Özel Yüce Fen Lisesi",Ankara,Turkey
+145,"Aydın Anadolu Teknik",Aydın,Turkey
+146,"Ayrancı Aysel Yücetürk Anadolu Lisesi",Ankara,Turkey
+147,"Ankara Aysel Yücetürk Anadolu Lisesi",Ankara,Turkey
+149,"Mehmet Akif Ersoy Anadolu Lisesi",Tekirdağ,Turkey
+150,"Sami Evkuran Anadolu Lisesi",Bursa,Turkey
+151,"Soma Anadolu Öğretmen Lisesi",Manisa,Turkey
+152,"İzmir Konak Anadolu Lisesi",İzmir,Turkey
+154,"Adem Tolunay Fen Lisesi",Burdur,Turkey
+155,"Turgutlu Anadolu Lisesi",Manisa,Turkey
+158,"Eyüp Aygar Fen Lisesi (Mersin Fen Lisesi)",Mersin,Turkey
+159,"Fethiye Sağlık Meslek Lisesi",Muğla,Turkey
+160,"Mersin Fen Lisesi",Mersin,Turkey
+161,"Aydınlıkevler İnönü Anadolu Lisesi",Ankara,Turkey
+162,"Ankara Fen Lisesi",Ankara,Turkey
+163,"75. Yıl Anadolu Öğretmen Lisesi",Mersin,Turkey
+164,"Yusuf Kalkavan Anadolu Lisesi",Mersin,Turkey
+165,"Yüreğir 75. Yıl Lisesi",Adana,Turkey
+166,"Fethiye Anadolu Lisesi",Muğla,Turkey
+168,"Kanuni Anadolu Lisesi",Trabzon,Turkey
+169,"Nevvar Salih İşgören Anadolu Lisesi",İzmir,Turkey
+170,"Elvankent Bilgi Anadolu Lisesi",Ankara,Turkey
+172,"Gümüşhane Türk Telekom Fen Lisesi",Gümüşhane,Turkey
+173,"Türk Eğitim Vakfı Anadolu Lisesi",Denizli,Turkey
+174,"Polatlı Anatolian Teacher High School",Ankara,Turkey
+175,"Nuh Mehmet Baldöktü Anadolu Lisesi",Kayseri,Turkey
+176,"Mithatpaşa Şükrü Ayna Anadolu Lisesi",Sakarya,Turkey
+177,"Çankırı Süleyman Demirel Fen Lisesi",Çankırı,Turkey
+178,"Ulubatlı Hasan Anadolu Lisesi",Bursa,Turkey
+179,"Kocaeli Anadolu Lisesi",Kocaeli,Turkey
+180,"Lüleburgaz Anadolu Lisesi",Kırklareli,Turkey
+182,"19 Mayıs Anadolu Lisesi",Mersin,Turkey
+183,"Fatma Saygın Anadolu Lisesi",İzmir,Turkey
+184,"Eskişehir Fatih Fen Lisesi",Eskişehir,Turkey
+185,"Mehmet Adnan Özçelik Anadolu Lisesi",Mersin,Turkey
+186,"Şehit Ömer Halisdemir Anadolu Lisesi",Ankara,Turkey
+187,"National School of Aleppo",Aleppo,"Syrian Arab Republic"
+188,"Özel Tunçsiper Anadolu Lisesi",Bursa,Turkey
+189,"Niğde Fen Lisesi",Niğde,Turkey
+190,"İzmir Özel Fatih Fen Lisesi",İzmir,Turkey
+191,"Necmi Asfuroğlu Anadolu Lisesi",Hatay,Turkey
+192,"Milli Piyango Anadolu Lisesi",Çanakkale,Turkey
+193,"American Academy",Doha,Qatar
+194,"İskenderun Demir Çelik Anadolu Lisesi",İskenderun,Turkey
+195,"E.C.A Elginkan Anadolu Lisesi",İstanbul,Turkey
+196,"Özel Atayurt Fen Lisesi",Eskişehir,Turkey
+197,"Özel Osmangazi Kültür Temel Lisesi",Bursa,Turkey
+198,"Soma Fen Lisesi",Manisa,Turkey
+199,"T.C. Ziraat Bankası Fen Lisesi",Balıkesir,Turkey
+200,"ÇEAŞ Anadolu Lisesi",Adana,Turkey
+201,"Ankara Ömer Seyfettin Lisesi",Ankara,Turkey
+203,"Ayhan Sümer Anadolu Lisesi",Ankara,Turkey
+204,"İstanbul Atatürk Fen Lisesi",İstanbul,Turkey
+205,"Öğretmen Necla Kızılbağ Anadolu Lisesi",Ankara,Turkey
+206,"Muzaffer Çil Anadolu Lisesi",Eskişehir,Turkey
+207,"Nazilli Menderes Anadolu Lisesi",Aydın,Turkey
+208,"Abed Alfatah Hmoud Sec. Boys School",Gaza,"Palestinian Territory"
+209,"Sekine Evren Anadolu Lisesi",Manisa,Turkey
+210,"Milli Piyango Anadolu Lisesi",Erzincan,Turkey
+211,"Kurtuluş Lisesi",Ankara,Turkey
+212,"Bornova Cem Bakioğlu Anadolu Lisesi",İzmir,Turkey
+213,"Samsun Fen Lisesi",Samsun,Turkey
+214,"Nazilli Fen Lisesi",Aydın,Turkey
+216,"İMKB Süleyman Demirel Fen Lisesi",Kahramanmaraş,Turkey
+217,"Özel Arı Koleji",Ankara,Turkey
+219,"Yavuz Sultan Selim Anadolu Lisesi",Ankara,Turkey
+221,"Sivas Lisesi",Sivas,Turkey
+222,"Özel Safiye Sultan Lisesi",İstanbul,Turkey
+223,"Erbakır Fen Lisesi",Denizli,Turkey
+224,"Emel-Mustafa Uşaklı Anadolu Lisesi",Aydın,Turkey
+225,"Hüseyin Özbuğday Anadolu Lisesi",Hatay,Turkey
+227,"Adana Anadolu Lisesi",Adana,Turkey
+228,"Jale Tezer Koleji",Ankara,Turkey
+230,"Milli Piyango İhya Balak Fen Lisesi",Tokat,Turkey
+231,"Bahçelievler Deneme Lisesi",Ankara,Turkey
+232,"Işıklar Askeri Hava Lisesi",Bursa,Turkey
+233,"Ordu Fen Lisesi",Ordu,Turkey
+234,"Heybeliada Deniz Lisesi",İstanbul,Turkey
+235,"Pursaklar Fen Lisesi",Ankara,Turkey
+237,"Kırklareli Fen Lisesi",Kırklareli,Turkey
+238,"Kırıkkale Anadolu Lisesi",Kırıkkale,Turkey
+240,"Hacı Malike Mehmet Bileydi Anadolu Lisesi",Antalya,Turkey
+243,"Turgut Özal Anodolu Lisesi",Malatya,Turkey
+245,"Mobil Lisesi",Ankara,Turkey
+246,"Fırat Koleji",Şanlıurfa,Turkey
+247,"Kaya Bayezıtoğlu Lisesi",Ankara,Turkey
+248,"Final Fen Lisesi",Samsun,Turkey
+249,"Sarıyer Vehbi Koç Vakfı Lisesi",İstanbul,Turkey
+250,"Ankara Lisesi",Ankara,Turkey
+251,"Gazi Üniversitesi Vakfı Özel Fen Lisesi",Ankara,Turkey
+253,"Bursa Cumhuriyet Lisesi",Bursa,Turkey
+254,"Erzurum Anadolu Lisesi",Erzurum,Turkey
+255,"Hacı Fatma Erdemir Anadolu Lisesi",Kırşehir,Turkey
+256,"Özel Bornova Koleji Fen Lisesi",İzmir,Turkey
+257,"Çınarlı Teknik Lisesi",İzmir,Turkey
+258,"75. Yıl Anadolu Lisesi - Çayyolu",Ankara,Turkey
+259,"Etimesgut Anadolu Lisesi",Ankara,Turkey
+260,"Niğde Anadolu Lisesi",Niğde,Turkey
+261,"İstanbul Anadolu Lisesi",İstanbul,Turkey
+263,"Keçiören Etlik Lisesi",Ankara,Turkey
+264,"Çankaya Lisesi",Ankara,Turkey
+265,"Ankara Abidinpaşa Lisesi",Ankara,Turkey
+266,"Kırıkkale Fen Lisesi",Kırıkkale,Turkey
+267,"Antakya 23 Temmuz Merkez Lisesi",Hatay,Turkey
+268,"Tınaztepe Süper Lisesi",Ankara,Turkey
+269,"Mehmet Akif Ersoy Anadolu Lisesi",Ankara,Turkey
+270,"Kenan Evren Anadolu Lisesi",İzmir,Turkey
+271,"Özel Antalya Fen Lisesi",Antalya,Turkey
+273,"Erzincan Anadolu Lisesi",Erzincan,Turkey
+274,"Ankara Abidinpaşa Anodolu Lisesi",Ankara,Turkey
+275,"Kolukısa Anadolu Lisesi",Malatya,Turkey
+276,"Özel Sevgi Anadolu Lisesi",Ankara,Turkey
+277,"Gaziantep Vehbi Dinçerler Fen Lisesi",Gaziantep,Turkey
+278,"Yalova Anadolu Lisesi",Yalova,Turkey
+279,"İzmir Anadolu Lisesi",İzmir,Turkey
+280,"Bursa İbrahim Önal Anadolu Öğretmen Lisesi",Bursa,Turkey
+281,"Akhisar Anadolu Lisesi",Manisa,Turkey
+282,"Iman School",Tripoli,Lebanon
+283,"Evrensel Fen Lisesi",Ankara,Turkey
+284,"Kayseri Melikgazi Süper Lisesi",Kayseri,Turkey
+285,"Ankara TOKİ Anadolu Lisesi",Ankara,Turkey
+286,"Bursa Osmangazi Gazi Anadolu Lisesi",Bursa,Turkey
+287,"Gazi Çiftliği Anadolu Lisesi",Ankara,Turkey
+288,"Milli Piyango Anadolu Lisesi",İzmir,Turkey
+289,"Adana İMKB Anadolu Lisesi",Adana,Turkey
+290,"Manavgat Anadolu Lisesi",Antalya,Turkey
+291,"Gebze Anadolu Lisesi",Kocaeli,Turkey
+292,"Mimar Sinan Teknik Anadolu Lisesi",Ankara,Turkey
+293,"Kayseri Fen Lisesi",Kayseri,Turkey
+295,"Elazığ Merkez Anadolu Lisesi",Elazığ,Turkey
+298,"Seyide Daloğlu Anadolu Lisesi",Kayseri,Turkey
+299,"MEV Koleji Özel Ankara Fen Lisesi",Ankara,Turkey
+300,"Dündar Çiloğlu Anadolu Lisesi",Manisa,Turkey
+301,"Özel Adana Final Okulları",Adana,Turkey
+302,"Özel Samsun Final Fen Lisesi",Samsun,Turkey
+303,"Fethiye Kemal Mumcu Anadolu Lisesi",Ankara,Turkey
+304,"Tevfik Sırrı Gür Süper Lisesi",Mersin,Turkey
+305,"Asfa Ankara Ferda Fen Lisesi",Ankara,Turkey
+309,"Final Fen Lisesi",Bursa,Turkey
+310,"Haydarpaşa Lisesi",İstanbul,Turkey
+311,"Bursa Çamlıca Anadolu Lisesi",Bursa,Turkey
+312,"İnci-Özer Tırnaklı Fen Lisesi",İzmir,Turkey
+313,"Özel Ortadoğu Temel Lisesi",Ankara,Turkey
+314,"Mehmetçik Anadolu Lisesi",Ankara,Turkey
+315,"Gelişim Fen Lisesi",Eskişehir,Turkey
+316,"Özel Samanyolu Anadolu Lisesi",Ankara,Turkey
+317,"Özel Kayabaşı Temel Lisesi",Aydın,Turkey
+318,"Özel Tarsus Toros Anadolu Lisesi",Mersin,Turkey
+319,"Turgutlu Halil Kale Fen Liseli",Manisa,Turkey
+320,"Polatlı Anatolian Highschool",Ankara,Turkey
+321,"Sivas Fen Lisesi",Sivas,Turkey
+322,"Eryaman Sınav Temel Lisesi",Ankara,Turkey
+323,"Perihan Üçgül Anadolu Lisesi",Adana,Turkey
+324,"Özel Artı Bilgi Koleji",Samsun,Turkey
+325,"Özel Servergazi Günay Anadolu Lisesi",Denizli,Turkey
+327,"Prof. Dr. İlhan Kılıçözlü Fen Lisesi",Kırşehir,Turkey
+328,"Adıyaman Fen Lisesi",Adıyaman,Turkey
+329,"Çekmeköy Nesrin Uçmaklıoğlu Lisesi",İstanbul,Turkey
+330,"Bahçeşehir Koleji",Kocaeli,Turkey
+331,"Behram-begova Medresa",Tuzla,"Bosnia and Herzegovina"
+332,"Arı Fen Lisesi",Ankara,Turkey
+333,"Trabzon Gazi Anadolu Lisesi",Trabzon,Turkey
+335,"Orhangazi Anadolu Öğretmen Lisesi",Bursa,Turkey
+336,"Salih Korkut Budaras Fen Lisesi",Balıkesir,Turkey
+338,"Cumhuriyet Lisesi",Eskişehir,Turkey
+339,"Rıfat Dağdelen Anadolu Lisesi",Manisa,Turkey
+340,"TOKİ Anadolu Lisesi",Karaman,Turkey
+341,"Cumhuriyet Lisesi",Mersin,Turkey
+342,"Özel Yükseliş Koleji",Ankara,Turkey
+344,"Anıttepe Anadolu lisesi",Ankara,Turkey
+345,"Bursa Anadolu Erkek Lisesi",Bursa,Turkey
+346,"Ankara Anadolu Lisesi (Almanca)",Ankara,Turkey
+347,"Cahit Elginkan Anadolu Lisesi",Kocaeli,Turkey
+348,"Söke Anadolu Öğretmen Lisesi",Aydın,Turkey
+349,"Deniz Harp Okulu",İstanbul,Turkey
+350,"Ankara Bahçelievler Anadolu Lisesi",Ankara,Turkey
+351,"Konya Gazi Lisesi",Konya,Turkey
+352,"Atatürk Anadolu Lisesi",Mersin,Turkey
+353,"Kırıkkale Süleyman Demirel Anadolu Lisesi",Kırıkkale,Turkey
+354,"Şehit Oğuzhan Yaşar Anadolu Lisesi",Ankara,Turkey
+355,"Çanakkale (Süper) Lisesi",Çanakkale,Turkey
+356,"Mustafa Azmi Doğan Anadolu Lisesi",Ankara,Turkey
+357,"Polatlı Anadolu Öğretmen Lisesi",Ankara,Turkey
+358,"Burak Bora Anadolu Lisesi",İstanbul,Turkey
+359,"Özel Yavuz Fen Lisesi",Giresun,Turkey
+361,"Yahya Kemal Beyatlı Lisesi",Ankara,Turkey
+362,"Ankara Çağrıbey Anadolu Lisesi",Ankara,Turkey
+363,"İncirli Şehit Furkan Yayla Anadolu Lisesi",Ankara,Turkey
+365,"İskenderun Cumhuriyet Anadolu Lisesi",Hatay,Turkey
+366,"Sami Frasheri High School",Prishtina,Kosovo
+368,"Ankara Özel Tevfik Fikret Okulları",Ankara,Turkey
+369,"Cevat Ayhan Fen Lisesi",Sakarya,Turkey
+370,"Halıcı Ahmet Urkay Anadolu Lisesi",Muğla,Turkey
+372,"İMKB Anadolu Lisesi",Zonguldak,Turkey
+373,"Kocaeli Fen Lisesi",Kocaeli,Turkey
+374,"Kırşehir Anadolu Öğretmen Lisesi",Kirşehir,Turkey
+375,"Gazi Şahin Anadolu Lisesi",Ankara,Turkey
+377,"Vefa Lisesi",İstanbul,Turkey
+379,"Aldemir Atilla Konuk Anadolu Lisesi",Antalya,Turkey
+380,"Özel Yeni Bakış Temel Lisesi",Samsun,Turkey
+381,"Özel Batıkent Sınav Temel Lisesi",Ankara,Turkey
+382,"İstanbul Atatürk Anadolu Lisesi",İstanbul,Turkey
+383,"Özel Beşgen Temel Lisesi",Ankara,Turkey
+384,"Kadirli Fen Lisesi",Osmaniye,Turkey
+385,"Bor Şehit Ramazan Konuş Fen Lisesi",Niğde,Turkey
+386,"Özel Yıldız Sınav Temel Lisesi",Ankara,Turkey
+387,"Güzelbahçe 60. Yıl Anadolu Lisesi",İzmir,Turkey
+388,"Adapazarı Özel Enka Lisesi",Sakarya,Turkey
+389,"Özel Yükselen Fen Lisesi",Ankara,Turkey
+390,"Çağdaşkent Anadolu Lisesi",Mersin,Turkey
+391,"Özel Nazilli Final Temel Lisesi",Aydın,Turkey
+393,"Salmane Al Farissi",Salé,Morocco
+394,"Sincan Lisesi",Ankara,Turkey
+395,"Saray Mesleki ve Teknik Anadolu Lisesi",Tekirdağ,Turkey
+396,"Kırşehir Anadolu Öğretmen Lisesi",Kırşehir,Turkey
+401,"Bolu Fen Lisesi",Bolu,Turkey
+402,"Kırıkkale Atatürk Anadolu Lisesi",Kırıkkale,Turkey
+403,"Mustafa Kaynak Anadolu Lisesi",Denizli,Turkey
+407,"Birey Temel Lisesi",Kocaeli,Turkey
+408,"Bursa Işıklar Askerî Hava Lisesi",Bursa,Turkey
+409,"Gölcük Fen Lisesi",Kocaeli,Turkey
+410,"Samsun Özel Ses Anadolu Lisesi",Samsun,Turkey
+411,"Eskişehir Yunus Emre Lisesi",Eskişehir,Turkey
+413,"Öğretmen Mukadder Akaydın Anadolu Lisesi",Çorum,Turkey
+414,"Ufuk Arslan Anadolu Lisesi",Ankara,Turkey
+415,"Özel Diltaş Anadolu Lisesi",Konya,Turkey
+416,"Rauf Denktaş Anadolu Lisesi",Ankara,Turkey
+417,"Çukurova Koleji",Osmaniye,Turkey
+419,"Özel Çağ Anadolu Lisesi",Mersin,Turkey
+420,"Özel Final Temel Lisesi",Malatya,Turkey
+421,"Abidinpaşa Anadolu Teknik Lisesi",Ankara,Turkey
+422,"Trabzon Merkez Fen Lisesi",Trabzon,Turkey
+423,"Ayrancı Lisesi",Ankara,Turkey
+424,"Söke Hilmi Fırat Anadolu Lisesi",Aydın,Turkey
+425,"Çamlıca Anadolu Lisesi",Bursa,Turkey
+426,"Hüsnü M. Özyeğin Anadolu Lisesi",Kars,Turkey
+427,"Fen Lisesi",Zonguldak,Turkey
+428,"Yeşilköy Anadolu Lisesi",İstanbul,Turkey
+429,"Keçiören Şehit Özgür Kara Anadolu Lisesi",Ankara,Turkey
+430,"Birey Temel Lisesi",Malatya,Turkey
+431,"Buca Anadolu Lisesi",İzmir,Turkey
+432,"Özel Ankara Zafer Anadolu Lisesi",Ankara,Turkey
+433,"Nazilli Teknik ve Endüstri Meslek Lisesi",Aydın,Turkey
+434,"Macit Zeren Fen Lisesi",Amasya,Turkey
+435,"Özel Amid Lisesi",Diyarbakır,Turkey
+437,"Ankara Çankaya 50.Yıl Lisesi",Ankara,Turkey
+438,"Eskişehir Muzaffer Çil Anadolu Lisesi",Eskişehir,Turkey
+440,"Kanuni Mesleki ve Teknik Anadolu Lisesi",Ankara,Turkey
+441,"Selim Nevzat Şahin Anadolu Lisesi",Hatay,Turkey
+442,"MEV Koleji Özel Güzelbahçe Anadolu Lisesi",İzmir,Turkey
+443,"Cihat Kora Anadolu Lisesi",İzmir,Turkey
+444,"Polis Koleji",Ankara,Turkey
+445,"Başkent Anadolu Lisesi",Ankara,Turkey
+446,"Bafra Science High School",Samsun,Turkey
+447,"Yeni Yol Lisesi",Eskişehir,Turkey
+448,"Özel Adana Fen Lisesi",Adana,Turkey
+449,"Zonguldak İMKB Anadolu Lisesi",Zonguldak,Turkey
+450,"Enerjisa Bandırma Fen Lisesi",Balıkesir,Turkey
+451,"Balgat Anadolu Teknik Lisesi",Ankara,Turkey
+452,"Öncü Kolej",Ankara,Turkey
+453,"Antalya Anadolu Lisesi",Antalya,Turkey
+454,"Özel 5 Kazanım Fen Lisesi",Ankara,Turkey
+455,"75. Yıl Fen Lisesi",Mersin,Turkey
+456,"Nesibe Aydın Anadolu Lisesi",Kocaeli,Turkey
+457,"Alsancak Final Temel Lisesi",İzmir,Turkey
+458,"İnegöl Zeki Konukoğlu Anadolu Lisesi",Bursa,Turkey
+459,"Kandilli Kız Anadolu Lisesi",İstanbul,Turkey
+460,"Milli Piyango Anadolu Lisesi",Bursa,Turkey
+461,"Tire Belgin-Atilla Çallıoğlu Fen Lisesi",İzmir,Turkey
+462,"Kırklareli Anadolu Lisesi",Kırklareli,Turkey
+463,"Genç Ufuk Temel Lisesi",Eskişehir,Turkey
+464,"Bakü Türk Anadolu Lisesi",Bakü,Azerbaijan
+465,"Ataköy Cumhuriyet Anadolu Lisesi",İstanbul,Turkey
+466,"Nazilli Anadolu Lisesi",Aydın,Turkey
+467,"Nevşehir Merkez Anadolu Lisesi",Nevşehir,Turkey
+468,"Özel NET Fen Lisesi",Trabzon,Turkey
+470,"Çorum Fen Lisesi",Çorum,Turkey
+471,"Özel Ümitköy Sınav Anadolu Lisesi",Ankara,Turkey
+472,"Bafra Fen Lisesi",Samsun,Turkey
+473,"Özel Altaş Koleji - Fen Lisesi",Ordu,Turkey
+474,"İzmir Özel Tevfik Fikret Lisesi",İzmir,Turkey
+475,"Gediz Anadolu Lisesi",Manisa,Turkey
+476,"Özel Altınyıldız Fen Lisesi",Nevşehir,Turkey
+477,"İzmir Buca Anadolu Lisesi",İzmir,Turkey
+481,"Erdek Anadolu Lisesi",Balıkesir,Turkey
+482,"Trabzon Tevfik Serdar Anadolu Lisesi",Trabzon,Turkey
+484,"Kocatepe Mimar Kemal Lisesi",Ankara,Turkey
+485,"Mustafa Kemal Anadolu Lisesi",Ankara,Turkey
+487,"İzmit Lisesi",Kocaeli,Turkey
+488,"Yeşilöz YDAL",Ankara,Turkey
+489,"Kocaeli Anadolu Meslek Lisesi",Kocaeli,Turkey
+490,"Tuzluçayır Anadolu Lisesi",Ankara,Turkey
+492,"Dehkhoda Fen Lisesi",Urumiye,"Iran, Islamic Republic of"
+493,"Özel Türk Lisesi",Sumgait,Azerbaijan
+494,"Kılıçarslan Lisesi",Ankara,Turkey
+496,"Tayfur Bayar Lisesi (YDA)",Eskisehir,Turkey
+498,"Adana Borsa Lisesi",Adana,Turkey
+500,"Özel Eflatun Fen Lisesi",Diyarbakır,Turkey
+501,"Özel Nesibe Aydın Anadolu Lisesi",Ankara,Turkey
+502,"Darıca Fen Lisesi",Kocaeli,Turkey
+503,"Bahçeşehir Koleji",Denizli,Turkey
+504,"Akçaabat Fen Lisesi",Trabzon,Turkey
+505,"Biga İçdaş Fen Lisesi",Çanakkale,Turkey
+506,"Nevzat Ayaz Anadolu Lisesi",İstanbul,Turkey
+507,"Özel Matfen Emre Karataş Anadolu Lisesi",Ankara,Turkey
+508,"Hatay Fen Lisesi",Hatay,Turkey
+509,"Özel Mudanya Yolu Farklı Kalite Modern Fen Lisesi",Bursa,Turkey
+510,"Mod Eryaman Koleji",Ankara,Turkey
+511,"İstanbul Köy Hizmetleri Anadolu Lisesi",İstanbul,Turkey
+512,"İbrahim Önal Fen Lisesi",Bursa,Turkey
+514,"Bursa Atatürk Anadolu Lisesi",Bursa,Turkey
+515,"MATFEN Temel Lisesi",Ankara,Turkey
+517,"Özel Batıkent Sınav Anadolu Lisesi",Ankara,Turkey
+518,"Aziz Atik Fen Lisesi",Samsun,Turkey
+520,"Özel Nazmi Arıkan Fen Bilimleri Temel Lisesi",Ankara,Turkey
+521,"Büyük Anadolu Lisesi",Ankara,Turkey
+522,"Özkent Akbilek Fen Lisesi",Ankara,Turkey
+523,"TED Polatlı Koleji",Ankara,Turkey
+524,"Lütfi Ege Anadolu Lisesi",Denizli,Turkey
+525,"Buca Fen Lisesi",İzmir,Turkey
+527,"Afşin Anadolu Lisesi",Kahramanmaraş,Turkey
+528,"Tevfik Seno Arda Anadolu Lisesi",Kocaeli,Turkey
+531,"Bahçelievler Anadolu Lisesi",Ankara,Turkey
+534,"Özel Necip Fazıl Kısakürek Anadolu Lisesi",Ankara,Turkey
+536,"Beştepe Anadolu Lisesi",Ankara,Turkey
+537,"Çankaya Milli Piyango Anadolu Lisesi",Ankara,Turkey
+543,"Nişantaşı Anadolu Lisesi",İstanbul,Turkey
+544,"Beypazarı Lisesi",Ankara,Turkey
+546,"Nilüfer İMKB Fen Lisesi",Bursa,Turkey
+547,"Dr. Vasıf Topçu Fen Lisesi",İstanbul,Turkey
+548,"Sunar Nuri Çomu Anadolu Lisesi",Adana,Turkey
+549,"Adnan Menderes Anadolu Lisesi",Aydın,Turkey
+550,"Fatih Anadolu Lisesi",Manisa,Turkey
+551,"Mehmet Akif Ersoy Anadolu Lisesi",Manisa,Turkey
+552,"Yunus Emre Anadolu Lisesi",Ankara,Turkey
+553,"İsmail Kulak Anadolu Lisesi",Adana,Turkey
+554,"Şehit Aytekin Kuru Anadolu Lises",Ankara,Turkey
+555,"Mithat Paşa Lisesi",Samsun,Turkey
+556,"Isparta Doğa Koleji",Isparta,Turkey
+557,"St. Patrick's Christian Brothers' College",Bulawayo,Zimbabwe
+558,"Bafra Anadolu Lisesi",Samsun,Turkey
+559,"Final Anadolu Lisesi",Adana,Turkey
+562,"Kahramanmaraş fen lisesi",Kahramanmaraş,Turkey
+563,"Faruk Nafiz Çamlıbel Anadolu Lisesi",Ankara,Turkey
+564,"Ramazan Yaman Fen Lisesi",Kırklareli,Turkey
+565,"Özel Maya Anadolu Lisesi",Ankara,Turkey
+566,"Gaziantep Anadolu Lisesi",Gaziantep,Turkey
+567,"Fatih Sultan Mehmet Anadaolu Lisesi",Karabük,Turkey
+568,"Musatafa Hakan Güvençer Fen Lisesi",Ankara,Turkey
+569,"Nevşehir H.Avni İncekara Fen Lisesi",Nevşehir,Turkey
+570,"Yenikent İlksan Anadolu Lisesi",ankara,Turkey
+571,"Düziçi Fen Lisesi",Osmaniye,Turkey
+573,"mamak lisesi",ankara,Turkey
+574,"Musa Erdem Anadolu Lisesi",Ankara,Turkey
+575,"ERTUĞRUL GAZİ ANADOLU LİSES",Bursa,Turkey
+576,"Yunus Emre Anadolu Lisesi",İzmir,Turkey
+577,"Türk Telekom Anadolu Lisesi",Ankara,Turkey
+578,"Selçuklu Anadolu Lisesi",Konya,Turkey
+579,"Yalova Termal Fen Lisesi",Yalova,Turkey
+580,"Ali Galip Çalık Anadolu Lisesi",Kahramanmaraş,Turkey
+581,"Sümer Fen Lisesi",Kayseri,Turkey
+582,"Anibal Anadolu Lisesi",Kocaeli,Turkey
+584,"Nesibe Aydın Yıldızlar Anadolu Lisesi",Ankara,Turkey
+586,"Aydem Fen Lisesi",Denizli,Turkey
+588,"Ahmet Hamdi Gökbayrak FEN LİSESİ",BURSA,Turkey
+590,"Özel Ankara ABC Anadolu Lisesi",Ankara,Turkey
+592,"Onur Ateş Anadolu Lisesi",Samsun,Turkey
+594,"Abbas Sıdıka Çalık Anadolu Lisesi",ADANA,Turkey
+596,"Özel Sular Koleji",Adana,Turkey
+598,"Amasya Açı Anadolu Lisesi",Amasya,Turkey
+600,"Öveçler Sınav Anadolu Lisesi",Ankara,Turkey
+602,"Sınav Anadolu Lisesi",Ankara,Turkey
+604,"Bahçeşehir Koleji (Elazığ)",Elazığ,Turkey
+606,"Fen Bilimleri Temel Lisesi",Ankara,Turkey
+608,"Fikret Berkay Dilaver",Ankara,Turkey
+610,"Ankara Üniversitesi Geliştirme Vakfı Özel Anadolu ve Fen Lisesi",Ankara,Turkey
+612,"Celal Toraman Anadolu Lisesi",Balıkesir,Turkey
+614,"Tevfik İleri Anadolu İmam Hatip Lisesi",ANKARA,Turkey
+616,"Mektebim Koleji",Ankara,Turkey
+618,"Özel Ankara Zafer Fen Lisesi",Ankara,Turkey
+620,"Ergani Fen Lisesi",Diyarbakır,Turkey
+622,"Özel Erciyes Anadolu Lisesi",Kayseri,Turkey
+624,"Gemlik Celal Bayar Anadolu Lisesi",Bursa,Turkey
+626,"Dörtyol Fen Lisesi",Hatay,Turkey
+628,"Gülveren Anadolu Lisesi",Antalya,Turkey
+630,"Niğde Yavuz Sultan Selim Anadolu Lisesi",Niğde,Turkey
+632,"Bahçeşehir Koleji Fen ve Teknoloji Lisesi",İzmir,Turkey
+634,"Gazipaşa Fen Lisesi",Antalya,Turkey
+636,"Cumhuriyet Anadolu Lisesi",Denizli,Turkey
+638,"Kdz.Ereğli İbrahim Süheyla İzmirli Fen Lisesi",Zonguldak,Turkey
+640,"ÖZEL MATFEN EMRE KARATAŞ ANADOLU LİSESİ",Ankara,Turkey
