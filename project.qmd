@@ -238,6 +238,66 @@ ggplot(top10_prov, aes(
 ```
 
 ```{r}
+library(dplyr)
+library(ggplot2)
+
+# 1) Ham verileri al
+minor_departments <- anonim_temiz_veri_listesi[["minor_departments"]]
+minor_students <- anonim_temiz_veri_listesi[["minor_students"]]
+
+# Debug: Veri yapısını kontrol et
+cat("Rows in minor_departments:", nrow(minor_departments), "\n")
+cat("Columns in minor_departments:", names(minor_departments), "\n")
+cat("Rows in minor_students:", nrow(minor_students), "\n")
+cat("Columns in minor_students:", names(minor_students), "\n")
+
+# 2) Minor öğrencileri ve departmanları birleştir
+minor_data <- minor_students %>%
+  select(fake_student_id, minorid) %>%
+  distinct(fake_student_id, minorid, .keep_all = TRUE) %>%  # Tekil öğrenci-minorid çiftlerini al
+  left_join(minor_departments %>% select(id, department), 
+            by = c("minorid" = "id"))
+cat("Rows in minor_data after join:", nrow(minor_data), "\n")
+
+# Debug: Eşleşmeyen minorid'leri kontrol et
+if (nrow(minor_data) == 0 || sum(is.na(minor_data$department)) == nrow(minor_data)) {
+  cat("No matching minorid found in minor_departments. Check minorid and id values:\n")
+  cat("Unique minorid in minor_students:", unique(minor_students$minorid), "\n")
+  cat("Unique id in minor_departments:", unique(minor_departments$id), "\n")
+}
+
+# 3) Departman kırılımı (her öğrenci bir kez sayılsın)
+minor_summary <- minor_data %>%
+  filter(!is.na(department)) %>%  # NA departmanları çıkar
+  group_by(department) %>%
+  summarise(Count = n_distinct(fake_student_id), .groups = "drop") %>%  # Tekil öğrenci say
+  arrange(desc(Count))
+cat("Rows in minor_summary:", nrow(minor_summary), "\n")
+print(minor_summary)
+
+# 4) Grafik (eğer veri varsa)
+if (nrow(minor_summary) > 0 && !all(is.na(minor_summary$department))) {
+  ggplot(minor_summary, aes(x = reorder(department, Count), y = Count)) +
+    geom_col(fill = "steelblue") +
+    coord_flip() +
+    labs(
+      title = "Minor Yapan Öğrencilerin Departman Dağılımı",
+      x = "Departman",
+      y = "Öğrenci Sayısı"
+    ) +
+    theme_minimal() +
+    theme(
+      plot.title = element_text(hjust = 0.5, face = "bold", size = 14),
+      axis.text = element_text(size = 11),
+      axis.title = element_text(size = 12)
+    )
+} else {
+  cat("No data available to plot. Check join and data content.\n")
+}
+
+```
+
+```{r}
 
 library(dplyr)
 library(ggplot2)
@@ -306,7 +366,212 @@ cat(sprintf(
 
 ```
 
-## 3.2 Mezun / Öğrencilerin Çalışma Hayatı Bilgileri
+## 3.2 Mezun / Öğrencilerin Erasmus Programı Bilgileri
+
+**Erasmus Programı Katılımları :**
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(scales)
+
+# ---- 1) Data hazırlığı ----
+affiliations <- anonim_temiz_veri_listesi[["affiliations"]]
+erasmus      <- anonim_temiz_veri_listesi[["erasmus"]]
+universities <- anonim_temiz_veri_listesi[["universities"]]
+
+# ---- 2) Affiliations türü 2 veya 3 olan öğrencilerin ID’leri ----
+valid_ids <- affiliations %>%
+  filter(type %in% c(2, 3)) %>%
+  pull(fake_student_id) %>%
+  unique()
+
+# ---- 3) Bu öğrenciler arasından Erasmus’a gitmiş olanları seç ----
+eras_valid <- erasmus %>%
+  filter(fake_student_id %in% valid_ids)
+
+# ---- 4) Her kaydı üniversite tablosuyla birleştirip ülke bilgisini al ----
+eras_country <- eras_valid %>%
+  inner_join(
+    universities %>% select(id, country),
+    by = c("universityid" = "id")
+  ) %>%
+  # eksik veya boş ülke adlarını at
+  filter(!is.na(country) & country != "") %>%
+  # aynı öğrenci birden fazla kez sayılmasın
+  distinct(fake_student_id, country)
+
+# ---- 5) Ülke bazında öğrenci sayısını, sıralı hale getir ----
+country_counts <- eras_country %>%
+  count(country, name = "n") %>%
+  arrange(desc(n))
+
+total_countries <- n_distinct(country_counts$country)
+total_students  <- n_distinct(eras_country$fake_student_id)
+
+# ---- 7) Yatay bar chart ile görselleştirme ----
+ggplot(country_counts, aes(
+      x = n,
+      y = reorder(country, n),
+      fill = country
+    )) +
+  geom_col(show.legend = FALSE, width = 0.7) +
+  geom_text(aes(label = n), hjust = -0.1, size = 3) +
+  scale_x_continuous(
+    expand = expansion(mult = c(0, .1)),
+    labels = comma
+  ) +
+  labs(
+    title = "Erasmus’a Gidilen Ülkelere Göre Öğrenci Sayısı",
+    subtitle = sprintf("Toplam %d ülke, %d öğrenci", total_countries, total_students),
+    x     = "Öğrenci Sayısı",
+    y     = "Ülke"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.text.y   = element_text(size = 10),
+    plot.title    = element_text(hjust = 0.5, face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5),
+    plot.margin   = margin(5, 20, 5, 5)
+  )
+
+
+```
+
+**Erasmus Programı'na Göre Not Dağılımı**
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+# 1) affiliations içindeki cgpa’yı numeric'e çevir
+affiliations <- anonim_temiz_veri_listesi[["affiliations"]] %>%
+  mutate(
+    cgpa = as.numeric(gsub(",", ".", cgpa))
+  )
+
+# 2) Erasmus’a giden mezunların ID’leri
+grad_erasmus_ids <- affiliations %>%
+  filter(type == 2) %>%
+  pull(fake_student_id) %>%
+  intersect(
+    anonim_temiz_veri_listesi[["erasmus"]] %>% pull(fake_student_id)
+  )
+
+# 3) Sadece mezun + geçerli cgpa, birden fazla kayıt varsa tekilleştir
+gpa_df <- affiliations %>%
+  filter(type == 2, !is.na(cgpa)) %>%
+  distinct(fake_student_id, cgpa) %>%
+  mutate(
+    Grup = if_else(
+      fake_student_id %in% grad_erasmus_ids,
+      "Erasmus",
+      "Non-Erasmus"
+    )
+  )
+
+# 4) Medyan değerleri hazırla
+median_df <- gpa_df %>%
+  group_by(Grup) %>%
+  summarize(medyan = median(cgpa, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(label = sprintf("%.2f", medyan))
+
+# 5) Boxplot + jitter + medyan etiketleri
+ggplot(gpa_df, aes(x = Grup, y = cgpa, fill = Grup)) +
+  geom_boxplot(outlier.shape = NA, alpha = 0.6) +
+  geom_jitter(width = 0.15, size = 1, alpha = 0.3, na.rm = TRUE) +
+  # Medyan etiketlerini beyaz zeminde, kutunun üstüne taşıyoruz
+  geom_label(
+    data = median_df,
+    aes(x = Grup, y = medyan, label = label),
+    nudge_y = 0.1,            # kutunun biraz üstüne
+    fill    = "white",        # okunurluk için
+    fontface = "bold",
+    size    = 4
+  ) +
+  coord_cartesian(
+    ylim = c(
+      min(gpa_df$cgpa, na.rm = TRUE),
+      max(gpa_df$cgpa, na.rm = TRUE) * 1.05
+    )
+  ) +
+  labs(
+    title = "Mezunların CGPA Dağılımı",
+    x     = NULL,
+    y     = "CGPA"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    legend.position = "none",
+    plot.title      = element_text(hjust = 0.5, face = "bold")
+  )
+
+```
+
+## 3.3 Mezun / Öğrencilerin Çalışma Hayatı Bilgileri
+
+**Staj Bilgileri :**
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+# 1) Ham verileri al
+internships <- anonim_temiz_veri_listesi[["internships"]]
+companies <- anonim_temiz_veri_listesi[["companies"]]
+
+# Debug: Veri yapısını kontrol et
+cat("Rows in internships:", nrow(internships), "\n")
+cat("Columns in internships:", names(internships), "\n")
+cat("Rows in companies:", nrow(companies), "\n")
+cat("Columns in companies:", names(companies), "\n")
+
+# 2) Staj ve şirket verilerini birleştir
+internship_data <- internships %>%
+  select(fake_student_id, companyid) %>%
+  distinct(fake_student_id, companyid, .keep_all = TRUE) %>%  # Tekil öğrenci-şirket çiftlerini al
+  left_join(companies %>% select(id, name), 
+            by = c("companyid" = "id"))
+cat("Rows in internship_data after join:", nrow(internship_data), "\n")
+
+# Debug: Eşleşmeyen companyid'leri kontrol et
+if (nrow(internship_data) == 0 || sum(is.na(internship_data$name)) == nrow(internship_data)) {
+  cat("No matching companyid found in companies. Check companyid and id values:\n")
+  cat("Unique companyid in internships:", unique(internships$companyid), "\n")
+  cat("Unique id in companies:", unique(companies$id), "\n")
+}
+
+# 3) Şirket kırılımı (her öğrenci-şirket çifti bir kez sayılsın)
+company_summary <- internship_data %>%
+  filter(!is.na(name)) %>%  # NA şirket adlarını çıkar
+  group_by(name) %>%
+  summarise(Count = n_distinct(fake_student_id), .groups = "drop") %>%  # Tekil öğrenci say
+  arrange(desc(Count)) %>%
+  slice_head(n = 10)  # En çok staj yapılan ilk 10 şirket
+cat("Rows in company_summary:", nrow(company_summary), "\n")
+print(company_summary)
+
+# 4) Grafik (eğer veri varsa)
+if (nrow(company_summary) > 0 && !all(is.na(company_summary$name))) {
+  ggplot(company_summary, aes(x = reorder(name, Count), y = Count)) +
+    geom_col(fill = "steelblue") +
+    coord_flip() +
+    labs(
+      title = "En Çok Staj Yapılan Şirketlerin Dağılımı",
+      x = "Şirket",
+      y = "Stajyer Sayısı"
+    ) +
+    theme_minimal() +
+    theme(
+      plot.title = element_text(hjust = 0.5, face = "bold", size = 14),
+      axis.text = element_text(size = 11),
+      axis.title = element_text(size = 12)
+    )
+} else {
+  cat("No data available to plot. Check join and data content.\n")
+}
+```
 
 **Mezunların çalıştığı sektörler :**
 
@@ -706,149 +971,24 @@ ggplot(top10_pos, aes(
 
 ```
 
-## 3.3 Mezun / Öğrencilerin Erasmus Programı Bilgileri
+# 4. Sonuçlar
 
-**Erasmus Programı Katılımları :**
+Bu çalışma kapsamında oluşturulan gösterge paneli, bölüm mezunlarının kariyer dinamiklerine ilişkin bütüncül bir bakış sunmuştur.
 
-```{r}
-library(dplyr)
-library(ggplot2)
-library(scales)
+-   **Demografik Dağılım:** Mezunlar arasında cinsiyet dengesi korunan bir profil oluşmaktadır.
 
-# ---- 1) Data hazırlığı ----
-affiliations <- anonim_temiz_veri_listesi[["affiliations"]]
-erasmus      <- anonim_temiz_veri_listesi[["erasmus"]]
-universities <- anonim_temiz_veri_listesi[["universities"]]
+-   **İstihdam Çeşitliliği:** Mezunlar çeşitli sektörlerde, farklı pozisyonlarda ve çok sayıda şirket bünyesinde çalışmakta; bu durum bölümün çok yönlü yetkinlikler kazandırdığını göstermektedir.
 
-# ---- 2) Affiliations türü 2 veya 3 olan öğrencilerin ID’leri ----
-valid_ids <- affiliations %>%
-  filter(type %in% c(2, 3)) %>%
-  pull(fake_student_id) %>%
-  unique()
+-   **İşe Giriş Yöntemleri:** Doğrudan başvuru, stajdan geçiş ve kariyer etkinlikleri gibi yollar yaygın olarak kullanılmakta; bölümün kariyer destek süreçlerinin etkinliğine dair ipuçları sunmaktadır.
 
-# ---- 3) Bu öğrenciler arasından Erasmus’a gitmiş olanları seç ----
-eras_valid <- erasmus %>%
-  filter(fake_student_id %in% valid_ids)
+-   **Erasmus Deneyimi Etkisi:** Uluslararası değişim programına katılan mezunlar ile katılmayanlar arasında akademik ve kariyer süreçlerinde olumlu farklılıklar gözlenmiş; bu da uluslararası deneyimin değerini vurgulamaktadır.
 
-# ---- 4) Her kaydı üniversite tablosuyla birleştirip ülke bilgisini al ----
-eras_country <- eras_valid %>%
-  inner_join(
-    universities %>% select(id, country),
-    by = c("universityid" = "id")
-  ) %>%
-  # eksik veya boş ülke adlarını at
-  filter(!is.na(country) & country != "") %>%
-  # aynı öğrenci birden fazla kez sayılmasın
-  distinct(fake_student_id, country)
+-   **Gösterge Paneli Katkısı:** Etkileşimli Quarto raporları, bölüm yöneticileri, kariyer danışmanları ve aday öğrencilere güncel, anlaşılır ve veri odaklı karar desteği imkânı sağlamaktadır
 
-# ---- 5) Ülke bazında öğrenci sayısını, sıralı hale getir ----
-country_counts <- eras_country %>%
-  count(country, name = "n") %>%
-  arrange(desc(n))
+# 5. Gelecek Çalışmalar
 
-total_countries <- n_distinct(country_counts$country)
-total_students  <- n_distinct(eras_country$fake_student_id)
+**R Shiny Web Uygulaması:** Mevcut Quarto raporları temel alınarak, interaktif bir R Shiny dashboard’u geliştirilmesi planlanabilir. Bu uygulama ile paydaşlar gerçek zamanlı filtreleme, arama ve derinlemesine inceleme imkânına sahip olacak; mobil uyumluluk ve kullanıcı yönetimi gibi ek özellikler entegre edilebilir.
 
-# ---- 7) Yatay bar chart ile görselleştirme ----
-ggplot(country_counts, aes(
-      x = n,
-      y = reorder(country, n),
-      fill = country
-    )) +
-  geom_col(show.legend = FALSE, width = 0.7) +
-  geom_text(aes(label = n), hjust = -0.1, size = 3) +
-  scale_x_continuous(
-    expand = expansion(mult = c(0, .1)),
-    labels = comma
-  ) +
-  labs(
-    title = "Erasmus’a Gidilen Ülkelere Göre Öğrenci Sayısı",
-    subtitle = sprintf("Toplam %d ülke, %d öğrenci", total_countries, total_students),
-    x     = "Öğrenci Sayısı",
-    y     = "Ülke"
-  ) +
-  theme_minimal(base_size = 14) +
-  theme(
-    axis.text.y   = element_text(size = 10),
-    plot.title    = element_text(hjust = 0.5, face = "bold"),
-    plot.subtitle = element_text(hjust = 0.5),
-    plot.margin   = margin(5, 20, 5, 5)
-  )
+**Gelişmiş İstatistiksel Yöntem İncelemeleri:** Tanımlayıcı analizlerin ötesinde, regresyon modelleri (örneğin işe başlama süresi üzerine etkileyen faktörlerin belirlenmesi), sınıflandırma algoritmaları (mezunların sektör tercihlerinin öngörülmesi), zaman serisi analizleri (yıllık mezun atanma trendlerinin izlenmesi) ve kümeleme yöntemleri (benzer kariyer profillerinin segmentasyonu) gibi istatistiksel tekniklerin uygulanması hedeflenebilir.
 
-
-```
-
-**Erasmus Programı'na Göre Not Dağılımı**
-
-```{r}
-library(dplyr)
-library(ggplot2)
-
-# 1) affiliations içindeki cgpa’yı numeric'e çevir
-affiliations <- anonim_temiz_veri_listesi[["affiliations"]] %>%
-  mutate(
-    cgpa = as.numeric(gsub(",", ".", cgpa))
-  )
-
-# 2) Erasmus’a giden mezunların ID’leri
-grad_erasmus_ids <- affiliations %>%
-  filter(type == 2) %>%
-  pull(fake_student_id) %>%
-  intersect(
-    anonim_temiz_veri_listesi[["erasmus"]] %>% pull(fake_student_id)
-  )
-
-# 3) Sadece mezun + geçerli cgpa, birden fazla kayıt varsa tekilleştir
-gpa_df <- affiliations %>%
-  filter(type == 2, !is.na(cgpa)) %>%
-  distinct(fake_student_id, cgpa) %>%
-  mutate(
-    Grup = if_else(
-      fake_student_id %in% grad_erasmus_ids,
-      "Erasmus",
-      "Non-Erasmus"
-    )
-  )
-
-# 4) Medyan değerleri hazırla
-median_df <- gpa_df %>%
-  group_by(Grup) %>%
-  summarize(medyan = median(cgpa, na.rm = TRUE)) %>%
-  ungroup() %>%
-  mutate(label = sprintf("%.2f", medyan))
-
-# 5) Boxplot + jitter + medyan etiketleri
-ggplot(gpa_df, aes(x = Grup, y = cgpa, fill = Grup)) +
-  geom_boxplot(outlier.shape = NA, alpha = 0.6) +
-  geom_jitter(width = 0.15, size = 1, alpha = 0.3, na.rm = TRUE) +
-  # Medyan etiketlerini beyaz zeminde, kutunun üstüne taşıyoruz
-  geom_label(
-    data = median_df,
-    aes(x = Grup, y = medyan, label = label),
-    nudge_y = 0.1,            # kutunun biraz üstüne
-    fill    = "white",        # okunurluk için
-    fontface = "bold",
-    size    = 4
-  ) +
-  coord_cartesian(
-    ylim = c(
-      min(gpa_df$cgpa, na.rm = TRUE),
-      max(gpa_df$cgpa, na.rm = TRUE) * 1.05
-    )
-  ) +
-  labs(
-    title = "Mezunların CGPA Dağılımı",
-    x     = NULL,
-    y     = "CGPA"
-  ) +
-  theme_minimal(base_size = 14) +
-  theme(
-    legend.position = "none",
-    plot.title      = element_text(hjust = 0.5, face = "bold")
-  )
-
-```
-
-# 4. Results and Key Takeaways
-
-xxxxxx
+**Uzun Dönem Takip ve Karşılaştırmalı Çalışmalar:** Mezunlardan belirli aralıklarla anket verisi toplanarak panelde zaman içinde değişimlerin izlenmesi; farklı fakülteler veya uluslararası üniversite örnekleriyle karşılaştırmalı analizler yapılması da planlanabilir.

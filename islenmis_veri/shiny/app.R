@@ -96,6 +96,25 @@ get_general_summary <- function(works, companies, industries) {
   return(result)
 }
 
+# Industry summary
+get_industry_summary <- function(works, companies, industries, max_n=10) {
+  df <- works %>%
+    select(fake_student_id, companyid) %>% distinct() %>%
+    filter(!is.na(companyid)&companyid!="") %>%
+    left_join(companies%>%select(id,industry), by=c("companyid"="id")) %>%
+    left_join(industries%>%select(id,industrytr), by=c("industry"="id")) %>%
+    rename(industry_name=industrytr) %>%
+    filter(!is.na(industry_name)&industry_name!="")
+  total  <- n_distinct(df$industry_name)
+  summary <- df %>% count(industry_name) %>% arrange(desc(n)) %>%
+    mutate(
+      oran= n/sum(n), yuzde=oran*100,
+      label=sprintf("%.1f%%",yuzde),
+      industry_name=fct_reorder(industry_name,n)
+    )
+  list(plot_data=summary%>%slice_head(n=max_n), total=total)
+}
+
 # Company summary
 get_company_summary <- function(works, companies, max_companies = 10) {
   company_df <- works %>%
@@ -287,6 +306,20 @@ plot_cgpa <- function(data) {
     theme(legend.position = "none")
 }
 
+# Endüstri grafiği
+plot_industry <- function(lst) {
+  df <- lst$plot_data
+  ggplot(df, aes(y = industry_name, x = n, fill = industry_name)) +
+    geom_col(show.legend = FALSE) +
+    geom_text(aes(label = label), hjust = 0, size = 3) +
+    theme_minimal() +
+    labs(
+      title = sprintf("Sektörler (Toplam %d)", lst$total),
+      x = "Kişi Sayısı",
+      y = "Sektör"
+    )
+}
+
 plot_erasmus <- function(data) {
   plot_ly(
     data = data$data,
@@ -355,129 +388,61 @@ header <- dashboardHeader(title = "Hacettepe Ü. İ. Müh. Gösterge Paneli")
 sidebar <- dashboardSidebar(
   sidebarMenu(
     menuItem("Genel Bilgiler", tabName = "general", icon = icon("info-circle")),
-    menuItem("İş Bilgileri", tabName = "eda", icon = icon("chart-bar")),
-    menuItem("Analysis", tabName = "analysis", icon = icon("line-chart")),
-    menuItem("Diğer", tabName = "details", icon = icon("table"))
+    menuItem("İş Bilgileri",    tabName = "eda",     icon = icon("chart-bar")),
+    menuItem("Erasmus",         tabName = "analysis",icon = icon("line-chart")),
+    menuItem("Diğer",           tabName = "details", icon = icon("table"))
   )
 )
 body <- dashboardBody(
   tabItems(
+    # Genel Bilgiler sekmesi
     tabItem(
       tabName = "general",
       fluidRow(
-        box(
-          width = 12,
-          title = "Project Overview and Scope",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Bu projede, Hacettepe Üniversitesi Endüstri Mühendisliği bölümü mezun lisans öğrencilerinin kariyer bilgileri incelenerek analizler yapılmıştır.")
-        ),
-        box(
-          width = 12,
-          title = "Data Source",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Veri anonim olarak üniversite bilgi sisteminden sağlanmıştır."),
-          tags$ul(
-            tags$li("GPA (Sayısal)"),
-            tags$li("Mezun olunan lise türü"),
-            tags$li("Erasmus+ katılım durumu"),
-            tags$li("İşe başlama süresi (ay)"),
-            tags$li("Çalışılan şirket"),
-            tags$li("İş pozisyonu"),
-            tags$li("Cinsiyet")
-          )
-        ),
-        box(
-          width = 12,
-          title = "General Summary",
-          status = "primary",
-          solidHeader = TRUE,
-          textOutput("generalSummary")
-        )
+        box(width = 12, title = "General Summary", status = "primary", solidHeader = TRUE,
+            textOutput("generalSummary"))
       ),
       fluidRow(
-        valueBoxOutput("countriesBox",  width = 3),
+        valueBoxOutput("countriesBox", width = 3),
         valueBoxOutput("industriesBox", width = 3),
         valueBoxOutput("positionsBox",  width = 3),
         valueBoxOutput("employersBox",  width = 3)
       ),
       fluidRow(
-        box(
-          width = 6,
-          title = "Cinsiyet Dağılımı",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("genderPlot")
-        ),
-        box(
-          width = 6,
-          title = "İl Dağılımı",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("provincePlot")
-        )
+        box(width = 6, title = "Cinsiyet Dağılımı", plotOutput("genderPlot")),
+        box(width = 6, title = "İl Dağılımı",       plotOutput("provincePlot"))
       )
     ),
+    
+    # İş Bilgileri sekmesi
     tabItem(
       tabName = "eda",
       fluidRow(
-        box(
-          width = 6,
-          title = "Çalışılan Şirketler",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("companyPlot")
-        ),
-        box(
-          width = 6,
-          title = "Pozisyon Dağılımı",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("positionPlot")
-        )
+        box(width = 6, title = "Çalışılan Şirketler",  plotOutput("companyPlot")),
+        box(width = 6, title = "Pozisyon Dağılımı",     plotOutput("positionPlot"))
+      ),
+      fluidRow(
+        box(width = 6, title = "Endüstri Dağılımı",     plotOutput("industryPlot")),
+        box(width = 6, title = "İşe Giriş Metotları", status = "primary", solidHeader = TRUE,
+            plotlyOutput("methodPlot"))
       )
     ),
+    
+    # Erasmus + Analysis sekmesi
     tabItem(
       tabName = "analysis",
       fluidRow(
-        box(
-          width = 6,
-          title = "CGPA Dağılımı",
-          status = "primary",
-          solidHeader = TRUE,
-          plotOutput("cgpaPlot")
-        ),
-        box(
-          width = 6,
-          title = "Erasmus Ülke Dağılımı",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Bar üzerine gelerek detay görebilirsiniz."),
-          plotlyOutput("erasmusPlot")
-        )
-      ),
-      fluidRow(
-        box(
-          width = 12,
-          title = "İşe Giriş Metotları",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Bar üzerine gelerek detay görebilirsiniz."),
-          plotlyOutput("methodPlot")
-        )
+        box(width = 6, title = "Erasmus Ülke Dağılımı", plotlyOutput("erasmusPlot")),
+        box(width = 6, title = "CGPA Dağılımı",         plotOutput("cgpaPlot"))
       )
     ),
+    
+    # Diğer sekmesi
     tabItem(
       tabName = "details",
       fluidRow(
-        box(
-          width = 12,
-          title = "Details",
-          status = "primary",
-          solidHeader = TRUE,
-          p("Gelecekteki detaylı tablolar için ayrılmıştır.")
-        )
+        box(width = 12, title = "Detaylı Analizler", status = "primary", solidHeader = TRUE,
+            p("Burada daha fazla içeriğe yer verebilirsiniz."))
       )
     )
   )
@@ -495,6 +460,7 @@ server <- function(input, output, session) {
   cgpa_data    <- get_cgpa_summary(affiliations, erasmus)
   erasmus_data <- get_erasmus_summary(affiliations, erasmus, universities)
   method_data  <- get_method_summary(works, employment_methods, affiliations, companies)
+  industry_data <- get_industry_summary(works, companies, industries)
   
   # Text
   output$generalSummary <- renderText({ general_data$text })
@@ -521,6 +487,7 @@ server <- function(input, output, session) {
   output$cgpaPlot     <- renderPlot({ plot_cgpa(cgpa_data) })
   output$erasmusPlot  <- renderPlotly({ plot_erasmus(erasmus_data) })
   output$methodPlot   <- renderPlotly({ plot_methods_interactive(method_data) })
+  output$industryPlot <- renderPlot({plot_industry(industry_data)})
 }
 
 # --- Run App ---
